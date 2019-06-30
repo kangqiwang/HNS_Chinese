@@ -87,47 +87,96 @@ do not give ibuprofen to children with asthma
 不要给患有哮喘的儿童服用布洛芬
 Read more about giving medicines to children
 
+详细了解如何给儿童服用药物
 
 Get an urgent GP appointment if your child:
+
+如果您的孩子有如下的症状， 请预约GP:
+
 is under 3 months old and has a temperature of 38C or higher, or you think they have a fever
+
+不到3个月，高烧38度以上，或者你认为他们发烧。
+
 is 3 to 6 months old and has a temperature of 39C or higher, or you think they have a fever
+
+3月到6个月，高烧39度以上，或者你认为他们发烧
+
 has other signs of illness, such as a rash, as well as a high temperature
 has a high temperature that's lasted for more than 5 days
+
+有其他的症状，例如皮疹，以及发烧持续超过5天
+
 doesn't want to eat, or isn't their usual self and you're worried
+
+不想吃饭，或者跟平时不一样使你担心。
+
 has a high temperature that doesn't come down with paracetamol or ibuprofen
+
+服用乙酰氨基酚或者布洛芬，但是高烧不退
+
 is showing signs of dehydration – such as nappies that aren't very wet, sunken eyes, and no tears when they're crying
+
+正在出现脱水的症状-例如尿布不是很湿，眼睛凹陷，哭的时候没有眼泪
+
 Call NHS 111 at evenings and weekends
+
+在晚上和周某，打NHS111
 
 Knowing the signs of more serious illness
 It's quite rare for fever to be a sign of anything serious (like meningitis, a urinary tract infection and sepsis).
 
+知道更严重的疾病迹象
+
+一小部分发烧是其他严重疾病的症状例如 脑膜炎，尿路感染和败血症。
+
 Call 999 or go to A&E if your child:
+
+拨打999，如果孩子有如下症状
+
 has a stiff neck
+
+脖子僵硬
+
 has a rash that doesn't fade when you press a glass against it
+
+有一种皮疹当你用玻璃杯按压时，它不会褪色
+
 is bothered by light
+
+被光线敏感
+
 has a fit (febrile seizure) for the first time (they can't stop shaking)
+
+有发热性癫痫，他们情不自禁的抖动
+
 has unusually cold hands and feet
+
+手脚异常的冷
+
 has pale, blotchy, blue or grey skin
+
+有苍白，斑点，蓝色或者灰色的肤色
+
 has a weak, high-pitched cry that's not like their normal cry
+
+有微弱，或者是高亢的哭声，并不像他们正常的哭声
+
 is drowsy and hard to wake
+
+昏昏欲睡，很难醒来
+
 finds it hard to breathe and sucks their stomach in under their ribs
+
+发现它很难呼吸并且在肋骨下面吸了他们的胃
+
 has a soft spot on their head that curves outwards (bulging fontanelle)
+
+头部有一个柔软的斑点向外弯曲（凸出的囟门）
+
 Caring for children with fever at home
+
+在家照顾孩子发烧
+
 Fever is a common feature of childhood infections. Watch this video on how to help a child with fever recover as quickly as possible.
-Play
-Mute
-Current Time 4:16
-/
-Duration Time 4:16
- 
-Fullscreen
-Media last reviewed: 07/06/2017
 
-Media review due: 07/06/2020
-
-Page last reviewed: 26/09/2017
-Next review due: 26/09/2020
-
-Call 111
-If you can't speak to your GP and don't know what to do next.
-
+发烧是儿童感染的常见特征。 观看此视频，了解如何尽快帮助发烧的孩子恢复健康。
