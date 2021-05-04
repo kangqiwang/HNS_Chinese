@@ -26,6 +26,5 @@ public class Customer {
     private String last_name;
     @NotBlank(message = "Please provide a email.")
     private String email;
-    private String gender;
-    private String ip_address;
+    private String companyName;
 }

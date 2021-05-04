@@ -1,6 +1,6 @@
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Reservations</title>
+    <title>Customers</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
 </head>
 <body>
@@ -22,17 +22,21 @@
                     <th>First Name</th>
                     <th>Last Name</th>
                     <th>Email</th>
+                    <th>Company Name</th>
                 </tr>
                 </thead>
                 <tbody>
+                    
                 <tr th:if="${customers.empty}">
-                    <td colspan="2"> No Reservations Available</td>
+                    <td colspan="2"> No Custtomer Available</td>
                 </tr>
+
                 <tr th:each="customer : ${customers}">
                     <td><span th:text="${customer.id}"> Id </span></td>
                     <td><span th:text="${customer.first_name}"> first_name </span></td>
                     <td><span th:text="${customer.last_name}"> last_name </span></td>
                     <td><span th:text="${customer.email}"> email </span></td>
+                    <td><span th:text="${customer.companyName}"> Company Name </span></td>
                     <td>
                         <a th:href="@{/delete-customer/{id}(id=${customer.id})}">
                             <button type="button" class="btn btn-danger">Delete</button>
@@ -40,9 +44,9 @@
                         <a th:href="@{/edit-add-customer/{id}(id=${customer.id})}">
                             <button type="button" class="btn btn-primary">Edit</button>
                         </a>
-
                     </td>
                 </tr>
+
                 </tbody>
             </table>
         </div>

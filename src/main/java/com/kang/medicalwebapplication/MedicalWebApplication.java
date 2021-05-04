@@ -10,7 +10,6 @@ public class MedicalWebApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MedicalWebApplication.class, args);
-
 	}
 
 }
