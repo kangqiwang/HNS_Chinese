@@ -1,4 +1,5 @@
 package com.kang.medicalwebapplication.model;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
@@ -19,14 +20,12 @@ import javax.validation.constraints.NotNull;
 public class Customer {
     @Id
     private String id;
-    @NotBlank(message="Please provide a first name.")
+    @NotBlank(message = "Please provide a first name.")
     private String first_name;
-    @NotBlank(message="Please provide a last name.")
+    @NotBlank(message = "Please provide a last name.")
     private String last_name;
-    @NotBlank(message="Please provide a email.")
+    @NotBlank(message = "Please provide a email.")
     private String email;
     private String gender;
     private String ip_address;
-    
-
 }
