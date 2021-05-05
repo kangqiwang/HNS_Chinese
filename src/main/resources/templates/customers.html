@@ -37,6 +37,7 @@
                     <td><span th:text="${customer.last_name}"> last_name </span></td>
                     <td><span th:text="${customer.email}"> email </span></td>
                     <td><span th:text="${customer.companyName}"> Company Name </span></td>
+                    
                     <td>
                         <a th:href="@{/delete-customer/{id}(id=${customer.id})}">
                             <button type="button" class="btn btn-danger">Delete</button>
