@@ -19,7 +19,6 @@ import lombok.extern.log4j.Log4j2;
 @RestController("/highlanderuk/")
 
 public class HighlanderController {
-    
     @PostMapping("/createFolder")
     public ResponseEntity<String> createFolder(@RequestBody Map<String, Object> payload) throws Exception {
         HighlanderService highlanderService = new HighlanderService();
