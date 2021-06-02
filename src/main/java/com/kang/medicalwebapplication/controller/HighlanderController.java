@@ -24,7 +24,7 @@ public class HighlanderController {
     public ResponseEntity<String> createFolder(@RequestBody Map<String, Object> payload) throws Exception {
         HighlanderService highlanderService = new HighlanderService();
         log.debug("highlanderService",highlanderService);
-        log.error("this is highlanderService createFolder");
+        log.error("this is highlanderService createFolder POST");
         return new ResponseEntity<String>("this is a string",HttpStatus.OK);
     }
 
