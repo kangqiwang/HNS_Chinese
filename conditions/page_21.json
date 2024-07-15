@@ -1,0 +1,810 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Read about deafblindness, a condition in which a person has a combination of sight and hearing difficulties that affect their everyday activities.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:11:34+00:00",
+                "dateModified": "2022-05-30T09:04:01+00:00",
+                "lastReviewed": [
+                    "2022-05-25T00:00:00+00:00",
+                    "2025-05-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/deafblindness/",
+            "name": "Deafblindness"
+        },
+        {
+            "description": "Find out more about DVT (deep vein thrombosis), a blood clot in a vein, usually in the leg.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-05-04T14:07:55+00:00",
+                "dateModified": "2024-06-13T08:43:29+00:00",
+                "lastReviewed": [
+                    "2023-03-22T01:00:00+00:00",
+                    "2026-03-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-22T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+            "name": "DVT (deep vein thrombosis)"
+        },
+        {
+            "description": "Dehydration is when your body loses more fluid than you take in. Find out what the symptoms of dehydration are, how to prevent it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-12-19T15:35:51+00:00",
+                "dateModified": "2023-05-16T09:53:57+00:00",
+                "lastReviewed": [
+                    "2022-11-14T01:00:00+00:00",
+                    "2025-11-14T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-14T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dehydration/",
+            "name": "Dehydration"
+        },
+        {
+            "description": "Find out about a type of dementia called dementia with Lewy bodies, including what the symptoms are, how it's treated and what the outlook is.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:27:05+00:00",
+                "dateModified": "2024-01-17T16:11:23+00:00",
+                "lastReviewed": [
+                    "2023-03-24T00:00:00+00:00",
+                    "2026-03-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dementia-with-lewy-bodies/",
+            "name": "Dementia with Lewy bodies"
+        },
+        {
+            "description": "Dengue is an infection spread by mosquitoes. Find out where it's found, what the symptoms are, when to get medical help, and what you can do to avoid it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T06:49:36+00:00",
+                "dateModified": "2024-06-13T17:09:54+00:00",
+                "lastReviewed": [
+                    "2023-01-11T01:00:00+00:00",
+                    "2026-01-11T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-11T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dengue/",
+            "name": "Dengue"
+        },
+        {
+            "description": "Read about developmental co-ordination disorder (DCD), also known as dyspraxia, a condition that affects physical co-ordination.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T20:02:01+00:00",
+                "dateModified": "2024-02-15T14:27:10+00:00",
+                "lastReviewed": [
+                    "2023-03-08T01:00:00+00:00",
+                    "2026-03-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-08T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Dyspraxia in children"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/",
+            "name": "Developmental co-ordination disorder (dyspraxia) in children"
+        },
+        {
+            "description": "A DEXA scan is a type of X-ray that measures bone mineral density (BMD). It's also known as a DXA, dual X-ray absorptiometry, a bone density scan or a bone densitometry scan.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-19T15:18:46+00:00",
+                "dateModified": "2022-10-07T14:54:17+00:00",
+                "lastReviewed": [
+                    "2022-10-04T23:00:00+00:00",
+                    "2025-10-04T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-04T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "DEXA scan"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dexa-scan/",
+            "name": "Bone density scan (DEXA scan)"
+        },
+        {
+            "description": "Diabetes insipidus is a rare condition where you produce a large amount of urine and often feel thirsty.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-05-04T15:29:45+00:00",
+                "dateModified": "2024-04-19T09:49:34+00:00",
+                "lastReviewed": [
+                    "2022-10-13T00:00:00+00:00",
+                    "2025-10-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diabetes-insipidus/",
+            "name": "Diabetes insipidus"
+        },
+        {
+            "description": "Find out more about diabetic retinopathy, a complication of diabetes, caused by high blood sugar levels damaging the back of the eye (retina).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:15:15+00:00",
+                "dateModified": "2023-12-04T09:46:53+00:00",
+                "lastReviewed": [
+                    "2021-12-16T00:00:00+00:00",
+                    "2024-12-16T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-16T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diabetic-retinopathy/",
+            "name": "Diabetic retinopathy"
+        },
+        {
+            "description": "Dialysis involves removing waste products and excess fluid from the blood when the kidneys stop working properly. Blood is diverted to a machine to be cleaned.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-19T15:38:50+00:00",
+                "dateModified": "2024-04-08T11:59:11+00:00",
+                "lastReviewed": [
+                    "2021-09-29T00:00:00+00:00",
+                    "2024-09-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dialysis/",
+            "name": "Dialysis"
+        },
+        {
+            "description": "Diphtheria is a potentially fatal contagious bacterial infection that mainly affects the nose and throat, and sometimes the skin. It is very rare in England.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-11T13:00:42+00:00",
+                "dateModified": "2024-03-20T16:35:05+00:00",
+                "lastReviewed": [
+                    "2022-01-07T03:00:00+00:00",
+                    "2025-01-07T04:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-07T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diphtheria/",
+            "name": "Diphtheria"
+        },
+        {
+            "description": "Read about discoid eczema (nummular or discoid dermatitis), a long-term (chronic) skin condition that causes the skin to become itchy, reddened, dry and cracked",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:02:47+00:00",
+                "dateModified": "2023-03-28T10:42:20+00:00",
+                "lastReviewed": [
+                    "2023-03-23T00:00:00+00:00",
+                    "2026-03-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-23T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eczema (discoid)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/discoid-eczema/",
+            "name": "Discoid eczema"
+        },
+        {
+            "description": "Find out about double vision (diplopia), including how to tell if you have it, what can cause it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-20T14:45:51+00:00",
+                "dateModified": "2024-01-18T20:23:09+00:00",
+                "lastReviewed": [
+                    "2024-01-12T00:00:00+00:00",
+                    "2027-01-12T11:38:00+00:00"
+                ],
+                "reviewDue": "2027-01-12T11:38:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/double-vision/",
+            "name": "Double vision"
+        },
+        {
+            "description": "Down's syndrome is when you're born with an extra chromosome.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:29:27+00:00",
+                "dateModified": "2023-05-18T08:52:15+00:00",
+                "lastReviewed": [
+                    "2023-02-17T01:00:00+00:00",
+                    "2026-02-17T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-17T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/downs-syndrome/",
+            "name": "Down's syndrome"
+        },
+        {
+            "description": "Find out what causes dry eyes and what you can do to help ease it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T11:06:59+00:00",
+                "dateModified": "2024-06-13T08:54:04+00:00",
+                "lastReviewed": [
+                    "2021-12-06T00:00:00+00:00",
+                    "2024-12-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dry-eyes/",
+            "name": "Dry eyes"
+        },
+        {
+            "description": "Find out about Dupuytren's contracture (Dupuytren's disease), which affects the hands and fingers and causes 1 or more fingers to bend into the palm of the hand.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:54:11+00:00",
+                "dateModified": "2024-07-01T10:39:56+00:00",
+                "lastReviewed": [
+                    "2024-06-18T00:00:00+00:00",
+                    "2027-06-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dupuytrens-contracture/",
+            "name": "Dupuytren's contracture"
+        },
+        {
+            "description": "Read about dyslexia, a common type of learning difficulty that can cause problems with reading, writing and spelling.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-08-14T14:15:12+00:00",
+                "dateModified": "2023-07-12T14:02:20+00:00",
+                "lastReviewed": [
+                    "2022-03-07T01:00:00+00:00",
+                    "2025-03-07T02:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-07T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dyslexia/",
+            "name": "Dyslexia"
+        },
+        {
+            "description": "Dystonia is the name for uncontrolled and sometimes painful muscle movements (spasms). Find out about the main symptoms, types and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:26:21+00:00",
+                "dateModified": "2024-05-17T11:14:03+00:00",
+                "lastReviewed": [
+                    "2024-05-15T23:00:00+00:00",
+                    "2027-05-15T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-15T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dystonia/",
+            "name": "Dystonia"
+        },
+        {
+            "description": "An ectopic pregnancy is when a fertilised egg implants itself outside of the womb, usually in one of the fallopian tubes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:35:19+00:00",
+                "dateModified": "2024-03-11T12:45:55+00:00",
+                "lastReviewed": [
+                    "2022-08-22T23:00:00+00:00",
+                    "2025-08-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-22T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ectopic-pregnancy/",
+            "name": "Ectopic pregnancy"
+        },
+        {
+            "description": "Find out about encephalitis, a rare but serious condition that causes inflammation of the brain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:26:57+00:00",
+                "dateModified": "2024-03-20T16:36:34+00:00",
+                "lastReviewed": [
+                    "2023-05-15T13:00:00+00:00",
+                    "2026-05-15T13:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-15T13:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/encephalitis/",
+            "name": "Encephalitis"
+        },
+        {
+            "description": "Endocarditis is a rare and potentially fatal type of heart infection. It's specifically an infection of the inner lining of the heart (the endocardium).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-25T14:48:30+00:00",
+                "dateModified": "2023-06-08T14:46:09+00:00",
+                "lastReviewed": [
+                    "2022-08-15T23:00:00+00:00",
+                    "2025-08-15T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-15T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/endocarditis/",
+            "name": "Endocarditis"
+        },
+        {
+            "description": "Find out about endometriosis, a common condition where tissue similar to the lining of the womb grows in other places, such as the ovaries and fallopian tubes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T09:57:26+00:00",
+                "dateModified": "2024-03-15T09:04:48+00:00",
+                "lastReviewed": [
+                    "2022-09-04T23:00:00+00:00",
+                    "2025-09-04T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-04T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/endometriosis/",
+            "name": "Endometriosis"
+        },
+        {
+            "description": "Epidermolysis bullosa (EB) is a general term used to describe a group of rare, inherited skin disorders that cause the skin to become very fragile.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:32:00+00:00",
+                "dateModified": "2024-05-07T09:48:19+00:00",
+                "lastReviewed": [
+                    "2021-06-22T23:00:00+00:00",
+                    "2024-06-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-22T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/epidermolysis-bullosa/",
+            "name": "Epidermolysis bullosa"
+        },
+        {
+            "description": "An epidural is an injection in your back to stop you feeling pain in part of your body, commonly given for pain relief in childbirth and in some types of surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure"
+                ],
+                "datePublished": "2017-10-23T11:45:22+00:00",
+                "dateModified": "2023-02-03T09:36:20+00:00",
+                "lastReviewed": [
+                    "2023-02-01T00:00:00+00:00",
+                    "2026-02-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/epidural/",
+            "name": "Epidural"
+        },
+        {
+            "description": "Find out about epilepsy, where sudden bursts of electrical activity in the brain cause seizures or fits.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:18:26+00:00",
+                "dateModified": "2022-06-28T13:12:21+00:00",
+                "lastReviewed": [
+                    "2020-09-18T00:00:00+00:00",
+                    "2023-09-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-09-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/epilepsy/",
+            "name": "Epilepsy"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=21",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=22",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

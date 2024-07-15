@@ -1,0 +1,818 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "NHS information about the causes of toothache, when to see a dentist, and how toothache can be relieved and prevented.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T14:53:42+00:00",
+                "dateModified": "2024-07-02T14:41:47+00:00",
+                "lastReviewed": [
+                    "2024-07-01T00:00:00+00:00",
+                    "2027-07-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-07-01T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Dental pain"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/toothache/",
+            "name": "Toothache"
+        },
+        {
+            "description": "Find out about tooth decay, including the symptoms, when to see a dentist, how it\u2019s treated and how it can be prevented.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:04:02+00:00",
+                "dateModified": "2024-02-16T10:06:27+00:00",
+                "lastReviewed": [
+                    "2022-03-22T01:00:00+00:00",
+                    "2025-03-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-22T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tooth-decay/",
+            "name": "Tooth decay"
+        },
+        {
+            "description": "Topical corticosteroids (steroids) are medicines that are applied directly to the skin to reduce inflammation and irritation.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T14:50:21+00:00",
+                "dateModified": "2024-02-07T16:59:43+00:00",
+                "lastReviewed": [
+                    "2023-05-11T14:57:00+00:00",
+                    "2026-05-11T14:57:00+00:00"
+                ],
+                "reviewDue": "2026-05-11T14:57:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Steroid cream",
+                    "Corticosteroid cream"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/topical-steroids/",
+            "name": "Topical corticosteroids"
+        },
+        {
+            "description": "Find out about the health conditions a total protein test can help diagnose.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T15:06:15+00:00",
+                "dateModified": "2022-07-11T15:33:29+00:00",
+                "lastReviewed": [
+                    "2022-07-04T00:00:00+00:00",
+                    "2025-07-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/total-protein-test/",
+            "name": "Total protein test"
+        },
+        {
+            "description": "Find out about toxic shock syndrome (TSS), including what the symptoms are, when to get medical help and how it is treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:47:56+00:00",
+                "dateModified": "2024-06-18T10:42:54+00:00",
+                "lastReviewed": [
+                    "2023-06-05T23:00:00+00:00",
+                    "2026-06-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/toxic-shock-syndrome/",
+            "name": "Toxic shock syndrome"
+        },
+        {
+            "description": "Read about transcutaneous electrical nerve stimulation (TENS), a method of pain relief that involves the use of a mild electrical current.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T07:02:24+00:00",
+                "dateModified": "2022-04-27T14:47:28+00:00",
+                "lastReviewed": [
+                    "2022-04-13T00:00:00+00:00",
+                    "2025-04-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/transcutaneous-electrical-nerve-stimulation-tens/",
+            "name": "TENS (transcutaneous electrical nerve stimulation)"
+        },
+        {
+            "description": "Read more about trimethylaminuria which is an uncommon genetic disorder that causes a strong body odour, usually described as like rotting fish, poo or rubbish.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-03T09:17:52+00:00",
+                "dateModified": "2021-11-18T15:33:47+00:00",
+                "lastReviewed": [
+                    "2021-04-16T01:00:00+00:00",
+                    "2024-04-16T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-16T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/trimethylaminuria/",
+            "name": "Trimethylaminuria ('fish odour syndrome')"
+        },
+        {
+            "description": "Find out about typhus, including how you get it, how to avoid getting it, what the symptoms are, where to get medical help, and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:12:59+00:00",
+                "dateModified": "2023-08-02T13:58:42+00:00",
+                "lastReviewed": [
+                    "2023-07-25T00:00:00+00:00",
+                    "2026-07-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/typhus/",
+            "name": "Typhus"
+        },
+        {
+            "description": "An ultrasound scan, sometimes called a sonogram, is a procedure that uses high-frequency sound waves to create an image of part of the inside of the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T15:09:51+00:00",
+                "dateModified": "2024-04-30T13:18:16+00:00",
+                "lastReviewed": [
+                    "2021-07-28T00:00:00+00:00",
+                    "2024-07-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-28T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ultrasound-scan/",
+            "name": "Ultrasound scan"
+        },
+        {
+            "description": "Find out what can cause unintentional weight loss and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T14:52:15+00:00",
+                "dateModified": "2022-12-23T10:26:40+00:00",
+                "lastReviewed": [
+                    "2022-02-16T00:00:00+00:00",
+                    "2025-02-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-16T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Weight loss (unexpected)",
+                    "Weight loss (unintentional)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/unintentional-weight-loss/",
+            "name": "Unintentional weight loss"
+        },
+        {
+            "description": "Find out about urinary tract infections (UTIs), including what the symptoms are, when to get medical advice, how they\u2019re treated and what a chronic UTI is.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:45:21+00:00",
+                "dateModified": "2024-03-11T12:37:12+00:00",
+                "lastReviewed": [
+                    "2022-03-22T00:00:00+00:00",
+                    "2025-03-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/urinary-tract-infections-utis/",
+            "name": "Urinary tract infections (UTIs)"
+        },
+        {
+            "description": "Find out about vaginal discharge, including what's normal, signs of a problem, what can cause unusual discharge and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T14:41:15+00:00",
+                "dateModified": "2024-02-21T10:23:08+00:00",
+                "lastReviewed": [
+                    "2024-02-15T00:00:00+00:00",
+                    "2027-02-15T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-02-15T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vaginal-discharge/",
+            "name": "Vaginal discharge"
+        },
+        {
+            "description": "Read about vaginal dryness, including why it happens and what can be done about it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T14:56:17+00:00",
+                "dateModified": "2022-01-10T13:03:36+00:00",
+                "lastReviewed": [
+                    "2021-12-30T00:00:00+00:00",
+                    "2024-12-30T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-30T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vaginal-dryness/",
+            "name": "Vaginal dryness"
+        },
+        {
+            "description": "Find out about vaginitis, including information about symptoms, when to see a GP, causes and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:44:05+00:00",
+                "dateModified": "2023-03-02T10:13:42+00:00",
+                "lastReviewed": [
+                    "2023-02-27T00:00:00+00:00",
+                    "2026-02-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-27T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vaginitis/",
+            "name": "Vaginitis"
+        },
+        {
+            "description": "Find out about the main types of vasculitis, with links to more information.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:33:34+00:00",
+                "dateModified": "2023-02-24T10:58:19+00:00",
+                "lastReviewed": [
+                    "2023-02-17T01:00:00+00:00",
+                    "2026-02-17T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-17T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vasculitis/",
+            "name": "Vasculitis"
+        },
+        {
+            "description": "Information for people with vision loss including details of support organisations, plus advice about specialist equipment, home modifications and mobility.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T14:48:31+00:00",
+                "dateModified": "2023-08-04T14:15:49+00:00",
+                "lastReviewed": [
+                    "2021-12-22T01:00:00+00:00",
+                    "2024-12-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-22T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vision-loss/",
+            "name": "Blindness and vision loss"
+        },
+        {
+            "description": "Find out what can cause vomiting blood and when it might be a medical emergency.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T14:39:38+00:00",
+                "dateModified": "2024-06-19T11:13:12+00:00",
+                "lastReviewed": [
+                    "2022-04-05T00:00:00+00:00",
+                    "2025-04-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vomiting-blood/",
+            "name": "Vomiting blood"
+        },
+        {
+            "description": "Find out about von Willebrand disease, including what the symptoms are, when and where to get medical help, the causes and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:29:58+00:00",
+                "dateModified": "2024-04-17T12:06:17+00:00",
+                "lastReviewed": [
+                    "2024-04-08T00:00:00+00:00",
+                    "2027-04-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/von-willebrand-disease/",
+            "name": "Von Willebrand disease"
+        },
+        {
+            "description": "Find out about vulvodynia, including what the symptoms are, when to get medical help, plus treatments and things you can do to help ease the pain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:38:18+00:00",
+                "dateModified": "2024-01-17T15:11:50+00:00",
+                "lastReviewed": [
+                    "2024-01-16T01:00:00+00:00",
+                    "2027-01-16T01:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-16T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Vaginal pain"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vulvodynia/",
+            "name": "Vulvodynia (vulval pain)"
+        },
+        {
+            "description": "Warts and verrucas are small lumps on the skin. Find out what causes them, how they\u2019re treated and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:47:45+00:00",
+                "dateModified": "2023-10-09T10:03:50+00:00",
+                "lastReviewed": [
+                    "2023-07-25T07:55:00+00:00",
+                    "2026-07-25T07:55:00+00:00"
+                ],
+                "reviewDue": "2026-07-25T07:55:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/warts-and-verrucas/",
+            "name": "Warts and verrucas"
+        },
+        {
+            "description": "Find out about whooping cough, including the symptoms, who's at risk, when to get medical advice, how it's treated and the whooping cough vaccine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:18:28+00:00",
+                "dateModified": "2024-07-04T11:17:36+00:00",
+                "lastReviewed": [
+                    "2023-03-21T00:00:00+00:00",
+                    "2026-03-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/whooping-cough/",
+            "name": "Whooping cough"
+        },
+        {
+            "description": "Find out about Wolff-Parkinson-White (WPW) syndrome, a heart condition that can cause the heart to beat abnormally fast. Find out about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:35:10+00:00",
+                "dateModified": "2022-04-08T14:37:24+00:00",
+                "lastReviewed": [
+                    "2022-04-07T00:00:00+00:00",
+                    "2025-04-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/wolff-parkinson-white-syndrome/",
+            "name": "Wolff-Parkinson-White syndrome"
+        },
+        {
+            "description": "Read about how X-rays work, why they're used, what happens before, during and after an X-ray, and what the risks are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T14:30:01+00:00",
+                "dateModified": "2022-05-04T09:14:30+00:00",
+                "lastReviewed": [
+                    "2022-04-20T00:00:00+00:00",
+                    "2025-04-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/x-ray/",
+            "name": "X-ray"
+        },
+        {
+            "description": "Find out more about Zika virus, including where it's found, how you catch it and what the symptoms are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:31:13+00:00",
+                "dateModified": "2022-02-23T15:41:03+00:00",
+                "lastReviewed": [
+                    "2022-02-18T00:00:00+00:00",
+                    "2025-02-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/zika/",
+            "name": "Zika virus"
+        },
+        {
+            "description": "Find out about abdominal aortic aneurysm, what the symptoms are, how it\u2019s treated, how to lower your risk of getting one and what the causes are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T11:42:38+00:00",
+                "dateModified": "2023-08-11T14:19:54+00:00",
+                "lastReviewed": [
+                    "2023-06-14T00:00:00+00:00",
+                    "2026-06-14T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-14T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "AAA",
+                    "Aneurysm (abdominal aortic)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/abdominal-aortic-aneurysm/",
+            "name": "Abdominal aortic aneurysm"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=15",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=16",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

@@ -1,0 +1,843 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about vascular dementia, including what the symptoms are, how it's treated and what the outlook is.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:50:00+00:00",
+                "dateModified": "2023-08-22T13:48:41+00:00",
+                "lastReviewed": [
+                    "2023-06-08T15:23:00+00:00",
+                    "2026-06-08T15:23:00+00:00"
+                ],
+                "reviewDue": "2026-06-08T15:23:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Dementia (vascular)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vascular-dementia/",
+            "name": "Vascular dementia"
+        },
+        {
+            "description": "Vertigo is a symptom, rather than a condition in itself. It's the feeling that you, or the environment around you, is moving or spinning.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-25T14:24:53+00:00",
+                "dateModified": "2024-06-19T11:09:54+00:00",
+                "lastReviewed": [
+                    "2023-05-02T12:47:00+00:00",
+                    "2026-05-02T12:47:00+00:00"
+                ],
+                "reviewDue": "2026-05-02T12:47:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vertigo/",
+            "name": "Vertigo"
+        },
+        {
+            "description": "Read about vitamin B12 or folate deficiency anaemia, which occurs when a lack of vitamin B12 or folate causes the body to produce abnormally large red blood cells.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T09:59:53+00:00",
+                "dateModified": "2024-03-07T16:46:11+00:00",
+                "lastReviewed": [
+                    "2023-02-20T01:00:00+00:00",
+                    "2026-02-20T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-20T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Anaemia (vitamin B12 or folate deficiency)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/",
+            "name": "Vitamin B12 or folate deficiency anaemia"
+        },
+        {
+            "description": "Find out about common vitamins and minerals, including what they do, how much you need, and how to ensure you get enough.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-23T11:12:15+00:00",
+                "dateModified": "2024-05-24T13:45:15+00:00",
+                "lastReviewed": [
+                    "2020-08-02T23:00:00+00:00",
+                    "2023-08-02T23:00:00+00:00"
+                ],
+                "reviewDue": "2023-08-02T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vitamins-and-minerals/",
+            "name": "Vitamins and minerals"
+        },
+        {
+            "description": "Find out about vitiligo, which is a long-term condition that causes pale, white patches to develop on the skin.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T09:48:44+00:00",
+                "dateModified": "2023-03-27T10:09:02+00:00",
+                "lastReviewed": [
+                    "2023-03-22T10:55:00+00:00",
+                    "2026-03-22T10:55:00+00:00"
+                ],
+                "reviewDue": "2026-03-22T10:55:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vitiligo/",
+            "name": "Vitiligo"
+        },
+        {
+            "description": "Read more about the symptoms, causes and treatments of vulval cancer, which is a rare type of cancer that affects women.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-11T13:05:22+00:00",
+                "dateModified": "2024-03-21T08:15:09+00:00",
+                "lastReviewed": [
+                    "2021-04-30T00:00:00+00:00",
+                    "2024-04-30T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-30T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vulval-cancer/",
+            "name": "Vulval cancer"
+        },
+        {
+            "description": "Find out about watering eyes, which can happen if too many tears are produced, or they cannot drain away properly.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-04-10T11:09:52+00:00",
+                "dateModified": "2021-11-18T15:54:18+00:00",
+                "lastReviewed": [
+                    "2021-09-30T02:00:00+00:00",
+                    "2024-09-30T04:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-30T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/watering-eyes/",
+            "name": "Watering eyes"
+        },
+        {
+            "description": "Find out about whiplash, how it happens, what the symptoms are and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition",
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-23T10:54:48+00:00",
+                "dateModified": "2024-02-07T13:02:35+00:00",
+                "lastReviewed": [
+                    "2023-01-03T01:00:00+00:00",
+                    "2026-01-03T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-03T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/whiplash/",
+            "name": "Whiplash"
+        },
+        {
+            "description": "Find out about wisdom tooth removal, including why it's done, recovery and possible complications.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T07:46:27+00:00",
+                "dateModified": "2024-07-08T11:32:07+00:00",
+                "lastReviewed": [
+                    "2024-06-12T03:00:00+00:00",
+                    "2027-06-12T04:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-12T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/wisdom-tooth-removal/",
+            "name": "Wisdom tooth removal"
+        },
+        {
+            "description": "Womb cancer affects the womb. Get information and advice about symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:01:09+00:00",
+                "dateModified": "2024-03-27T15:59:56+00:00",
+                "lastReviewed": [
+                    "2021-10-21T00:00:00+00:00",
+                    "2024-10-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-21T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Uterine (womb) cancer",
+                    "Endometrial cancer"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/womb-cancer/",
+            "name": "Womb (uterus) cancer"
+        },
+        {
+            "description": "Find out about yellow fever, including where it's found, what the symptoms are, and how it can be prevented by having the yellow fever vaccine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:50:58+00:00",
+                "dateModified": "2023-07-25T14:12:35+00:00",
+                "lastReviewed": [
+                    "2023-07-25T00:00:00+00:00",
+                    "2026-07-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/yellow-fever/",
+            "name": "Yellow fever"
+        },
+        {
+            "description": "Find out what an abortion involves, how you can get one on the NHS, and what support is available to help you make a decision.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure"
+                ],
+                "datePublished": "2017-10-18T11:36:09+00:00",
+                "dateModified": "2024-03-11T18:17:19+00:00",
+                "lastReviewed": [
+                    "2020-04-24T11:13:00+00:00",
+                    "2023-04-24T11:13:00+00:00"
+                ],
+                "reviewDue": "2023-04-24T11:13:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/abortion/",
+            "name": "Abortion"
+        },
+        {
+            "description": "Bird flu, or avian flu, is an infectious viral illness that spreads among birds. In rare cases, it can affect humans.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T06:59:46+00:00",
+                "dateModified": "2024-04-15T09:19:46+00:00",
+                "lastReviewed": [
+                    "2022-01-06T07:49:00+00:00",
+                    "2024-08-03T06:49:00+00:00"
+                ],
+                "reviewDue": "2024-08-03T06:49:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Avian flu"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bird-flu/",
+            "name": "Bird flu"
+        },
+        {
+            "description": "Find out about antifungal medicines, which are used to treat fungal infections such as thrush and athlete's foot.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-19T07:12:16+00:00",
+                "dateModified": "2023-12-27T18:05:14+00:00",
+                "lastReviewed": [
+                    "2023-04-03T07:05:00+00:00",
+                    "2026-04-03T07:05:00+00:00"
+                ],
+                "reviewDue": "2026-04-03T07:05:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/antifungal-medicines/",
+            "name": "Antifungal medicines"
+        },
+        {
+            "description": "Find out about blood transfusions, including when you might need one, how they're carried out and associated risks.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-19T07:24:53+00:00",
+                "dateModified": "2023-11-27T15:28:00+00:00",
+                "lastReviewed": [
+                    "2021-01-18T07:20:00+00:00",
+                    "2024-01-18T07:20:00+00:00"
+                ],
+                "reviewDue": "2024-01-18T07:20:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/blood-transfusion/",
+            "name": "Blood transfusion"
+        },
+        {
+            "description": "Find out about ringworm, including what the symptoms are, where to get medical help, how it\u2019s treated, and how to stop it spreading.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T11:19:00+00:00",
+                "dateModified": "2023-08-04T12:26:11+00:00",
+                "lastReviewed": [
+                    "2023-08-03T11:00:00+00:00",
+                    "2026-08-03T11:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-03T11:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ringworm/",
+            "name": "Ringworm"
+        },
+        {
+            "description": "Find out about early menopause, when a woman's periods stop before the age of 45, and the treatment available",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-09T10:44:45+00:00",
+                "dateModified": "2024-03-11T12:36:50+00:00",
+                "lastReviewed": [
+                    "2021-02-02T10:35:00+00:00",
+                    "2024-02-02T10:35:00+00:00"
+                ],
+                "reviewDue": "2024-02-02T10:35:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Menopause (early)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/early-menopause/",
+            "name": "Early menopause"
+        },
+        {
+            "description": "Find out about floaters, which are small shapes that some people see floating in their field of vision.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-11T16:04:44+00:00",
+                "dateModified": "2023-06-26T14:51:03+00:00",
+                "lastReviewed": [
+                    "2023-06-20T00:00:00+00:00",
+                    "2026-06-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-20T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eye floaters",
+                    "Eye flashes"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/floaters-and-flashes-in-the-eyes/",
+            "name": "Floaters and flashes in the eyes"
+        },
+        {
+            "description": "Find out about worm infections in humans, including what different types of worms look like, when to get medical help, and how to treat and prevent infections.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-19T16:26:45+00:00",
+                "dateModified": "2023-11-21T09:57:05+00:00",
+                "lastReviewed": [
+                    "2023-11-20T00:00:00+00:00",
+                    "2026-11-20T09:24:00+00:00"
+                ],
+                "reviewDue": "2026-11-20T09:24:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hookworm",
+                    "Tapeworm",
+                    "Roundworm"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/worms-in-humans/",
+            "name": "Worms in humans"
+        },
+        {
+            "description": "Read about having a tremor, which is when you're not able to control shaking or trembling in part of your body, or shaking hands.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-21T11:38:35+00:00",
+                "dateModified": "2023-11-17T18:41:52+00:00",
+                "lastReviewed": [
+                    "2023-11-14T14:00:00+00:00",
+                    "2026-11-14T14:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-14T14:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "tremor",
+                    "essential tremor",
+                    "shaking"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tremor-or-shaking-hands/",
+            "name": "Tremor or shaking hands"
+        },
+        {
+            "description": "Find out about low white blood cell count. It usually means your body is not making enough white blood cells and can increase your risk of getting infections.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-12-21T11:22:51+00:00",
+                "dateModified": "2023-08-04T12:17:35+00:00",
+                "lastReviewed": [
+                    "2023-07-28T10:47:00+00:00",
+                    "2026-07-28T10:47:00+00:00"
+                ],
+                "reviewDue": "2026-07-28T10:47:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "White blood cell count (low)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/low-white-blood-cell-count/",
+            "name": "Low white blood cell count"
+        },
+        {
+            "description": "NHS information about bunions, including symptoms, how they're treated and how to help prevent them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-12-21T11:43:43+00:00",
+                "dateModified": "2023-12-08T17:04:20+00:00",
+                "lastReviewed": [
+                    "2023-06-12T11:30:00+00:00",
+                    "2026-06-12T11:30:00+00:00"
+                ],
+                "reviewDue": "2026-06-12T11:30:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bunions/",
+            "name": "Bunions"
+        },
+        {
+            "description": "A change in your sense of smell can be unpleasant and affect how things taste. But it's not usually serious and may get better in a few weeks or months.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-21T12:08:33+00:00",
+                "dateModified": "2023-12-07T16:42:17+00:00",
+                "lastReviewed": [
+                    "2023-12-01T11:50:00+00:00",
+                    "2026-12-01T11:50:00+00:00"
+                ],
+                "reviewDue": "2026-12-01T11:50:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Anosmia",
+                    "Sense of smell (lost/changed)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lost-or-changed-sense-smell/",
+            "name": "Lost or changed sense of smell"
+        },
+        {
+            "description": "Read about soiling, which is when a child regularly poos their pants. Find out why it happens and what to do about it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-21T14:40:47+00:00",
+                "dateModified": "2023-11-22T13:45:33+00:00",
+                "lastReviewed": [
+                    "2023-11-22T14:12:00+00:00",
+                    "2026-11-22T14:12:00+00:00"
+                ],
+                "reviewDue": "2026-11-22T14:12:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/soiling-child-pooing-their-pants/",
+            "name": "Soiling (child pooing their pants)"
+        },
+        {
+            "description": "Find out about oral thrush, including common symptoms and what to do if you or your child has it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-12-21T15:05:38+00:00",
+                "dateModified": "2024-02-15T16:43:52+00:00",
+                "lastReviewed": [
+                    "2023-06-05T14:47:00+00:00",
+                    "2026-06-05T14:47:00+00:00"
+                ],
+                "reviewDue": "2026-06-05T14:47:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Mouth thrush"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/oral-thrush-mouth-thrush/",
+            "name": "Oral thrush (mouth thrush)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=33",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=34",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

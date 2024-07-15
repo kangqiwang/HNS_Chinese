@@ -1,0 +1,825 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Read about itchy bottom, which is a strong urge to scratch the skin around your anus. Find out how to ease itching and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T12:40:28+00:00",
+                "dateModified": "2023-10-05T16:51:41+00:00",
+                "lastReviewed": [
+                    "2023-10-03T00:00:00+00:00",
+                    "2026-10-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-03T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Anus (itchy)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/itchy-anus/",
+            "name": "Itchy bottom"
+        },
+        {
+            "description": "Itchy skin is not usually a sign of anything serious. Find out how to treat it yourself, what medical treatments are available and what can cause it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-01-19T15:25:07+00:00",
+                "dateModified": "2023-07-21T13:37:49+00:00",
+                "lastReviewed": [
+                    "2023-07-19T00:00:00+00:00",
+                    "2026-07-19T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-19T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/itchy-skin/",
+            "name": "Itchy skin"
+        },
+        {
+            "description": "In vitro fertilisation (IVF) is one of several techniques available to help people with fertility problems have a baby. During IVF, an egg is removed from the woman's ovaries and fertilised with sperm in a laboratory.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-20T10:53:51+00:00",
+                "dateModified": "2024-03-07T17:02:23+00:00",
+                "lastReviewed": [
+                    "2021-10-18T00:00:00+00:00",
+                    "2024-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ivf/",
+            "name": "IVF"
+        },
+        {
+            "description": "Find out about Japanese encephalitis including who's most at risk of getting it, how to avoid it, what the symptoms are and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:38:31+00:00",
+                "dateModified": "2024-06-19T12:46:59+00:00",
+                "lastReviewed": [
+                    "2023-06-05T23:00:00+00:00",
+                    "2026-06-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/japanese-encephalitis/",
+            "name": "Japanese encephalitis"
+        },
+        {
+            "description": "NHS information about jaundice, where the skin and the whites of the eyes turn yellow. It's caused by a build-up of a substance called bilirubin.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-01-30T14:03:36+00:00",
+                "dateModified": "2024-01-22T17:16:05+00:00",
+                "lastReviewed": [
+                    "2024-01-22T00:00:00+00:00",
+                    "2027-01-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/jaundice/",
+            "name": "Jaundice"
+        },
+        {
+            "description": "Find out more about jaundice, a common and usually harmless condition in newborn babies that causes yellowing of the skin and the whites of the eyes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:28:39+00:00",
+                "dateModified": "2022-02-10T12:30:20+00:00",
+                "lastReviewed": [
+                    "2022-02-03T01:00:00+00:00",
+                    "2025-02-03T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-03T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Jaundice in newborns"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/jaundice-newborn/",
+            "name": "Newborn jaundice"
+        },
+        {
+            "description": "Find out what to do after a sea creature sting. You can usually use first aid, but call 999 for an ambulance if there are serious symptoms like severe swelling.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-20T09:33:46+00:00",
+                "dateModified": "2024-07-02T08:42:32+00:00",
+                "lastReviewed": [
+                    "2024-06-19T00:00:00+00:00",
+                    "2027-06-19T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-19T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/",
+            "name": "Jellyfish and other sea creature stings"
+        },
+        {
+            "description": "Find out what causes jet lag and what you can do to reduce its effects. Get plenty of rest before you travel and try adjusting your sleep routine to the time zone of the place you're travelling to.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:06:45+00:00",
+                "dateModified": "2023-06-01T09:07:22+00:00",
+                "lastReviewed": [
+                    "2023-05-31T00:00:00+00:00",
+                    "2026-05-31T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-31T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/jet-lag/",
+            "name": "Jet lag"
+        },
+        {
+            "description": "Joint hypermobility syndrome is where you get pain and stiffness from having very flexible joints. Read more about how it's diagnosed and managed.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:08:21+00:00",
+                "dateModified": "2023-09-06T08:42:16+00:00",
+                "lastReviewed": [
+                    "2023-08-30T00:00:00+00:00",
+                    "2026-08-30T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-30T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/joint-hypermobility-syndrome/",
+            "name": "Joint hypermobility syndrome"
+        },
+        {
+            "description": "Kawasaki disease is a condition that mainly affects children under the age of 5. It's also known as mucocutaneous lymph node syndrome.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-03-14T11:58:06+00:00",
+                "dateModified": "2021-11-18T15:45:26+00:00",
+                "lastReviewed": [
+                    "2021-10-26T00:00:00+00:00",
+                    "2024-10-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/kawasaki-disease/",
+            "name": "Kawasaki disease"
+        },
+        {
+            "description": "Find out what chronic kidney disease (CKD) is, including what the symptoms are, how it's diagnosed and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:45:41+00:00",
+                "dateModified": "2024-04-12T09:27:45+00:00",
+                "lastReviewed": [
+                    "2023-03-22T01:00:00+00:00",
+                    "2026-03-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-22T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Kidney failure"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/kidney-disease/",
+            "name": "Chronic kidney disease"
+        },
+        {
+            "description": "A kidney infection (pyelonephritis) is a painful and unpleasant illness caused by bacteria travelling from your bladder into one or both of your kidneys.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-08T11:19:42+00:00",
+                "dateModified": "2023-12-04T09:28:27+00:00",
+                "lastReviewed": [
+                    "2021-01-06T00:00:00+00:00",
+                    "2024-01-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-01-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/kidney-infection/",
+            "name": "Kidney infection"
+        },
+        {
+            "description": "Information about kidney stones, including symptoms, causes, treatment and prevention.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:25:56+00:00",
+                "dateModified": "2023-05-17T23:08:52+00:00",
+                "lastReviewed": [
+                    "2022-11-30T01:00:00+00:00",
+                    "2025-11-30T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-30T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/kidney-stones/",
+            "name": "Kidney stones"
+        },
+        {
+            "description": "Read about how an anterior cruciate ligament (ACL) injury is caused, and the considerations when deciding whether to have reconstructive surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T13:42:34+00:00",
+                "dateModified": "2023-11-27T15:30:15+00:00",
+                "lastReviewed": [
+                    "2021-09-15T15:51:00+00:00",
+                    "2024-09-15T15:51:00+00:00"
+                ],
+                "reviewDue": "2024-09-15T15:51:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/knee-ligament-surgery/",
+            "name": "Knee ligament surgery"
+        },
+        {
+            "description": "Kyphosis is a condition where the top of the back is excessively curved and appears more rounded than normal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-05-09T12:21:17+00:00",
+                "dateModified": "2022-05-30T16:40:53+00:00",
+                "lastReviewed": [
+                    "2022-05-12T00:00:00+00:00",
+                    "2025-05-12T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-12T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/kyphosis/",
+            "name": "Kyphosis"
+        },
+        {
+            "description": "Read about labyrinthitis and vestibular neuritis (also known as vestibular neuronitis), including advice about symptoms, when to get medical help and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:05:20+00:00",
+                "dateModified": "2023-05-18T08:11:33+00:00",
+                "lastReviewed": [
+                    "2023-02-17T00:00:00+00:00",
+                    "2026-02-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-17T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Vestibular neuritis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/labyrinthitis/",
+            "name": "Labyrinthitis and vestibular neuritis"
+        },
+        {
+            "description": "Find out about lactose intolerance, what the symptoms are, what the treatments are, what tests can find out if you have it, and what causes it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-07-10T16:36:31+00:00",
+                "dateModified": "2023-10-23T07:46:11+00:00",
+                "lastReviewed": [
+                    "2023-01-05T00:00:00+00:00",
+                    "2026-01-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lactose-intolerance/",
+            "name": "Lactose intolerance"
+        },
+        {
+            "description": "Find out more about laparoscopy, a type of keyhole surgical procedure that uses small cuts to perform surgery inside the tummy and pelvis.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2018-02-05T16:38:28+00:00",
+                "dateModified": "2024-02-14T08:14:07+00:00",
+                "lastReviewed": [
+                    "2023-12-20T01:00:00+00:00",
+                    "2026-12-20T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-20T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/laparoscopy/",
+            "name": "Laparoscopy (keyhole surgery)"
+        },
+        {
+            "description": "Read about laryngeal cancer, including the symptoms, causes, treatments and outlook.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-06-07T17:19:33+00:00",
+                "dateModified": "2023-12-04T09:21:47+00:00",
+                "lastReviewed": [
+                    "2021-10-21T00:00:00+00:00",
+                    "2024-10-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/laryngeal-cancer/",
+            "name": "Laryngeal (larynx) cancer"
+        },
+        {
+            "description": "Find out about laryngitis, which is when your voice box becomes irritated or swollen. Symptoms of laryngitis usually come on suddenly and get worse during the first 3 days.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-08T14:04:32+00:00",
+                "dateModified": "2024-06-13T10:23:57+00:00",
+                "lastReviewed": [
+                    "2024-01-17T00:00:00+00:00",
+                    "2027-01-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-17T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/laryngitis/",
+            "name": "Laryngitis"
+        },
+        {
+            "description": "Find out about different types of laxatives, how they work, how to choose the right one and how long to take them for. Also, find out about the possible side effects of laxatives.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-23T13:15:11+00:00",
+                "dateModified": "2024-05-15T09:55:10+00:00",
+                "lastReviewed": [
+                    "2022-10-11T00:00:00+00:00",
+                    "2025-10-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-11T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/laxatives/",
+            "name": "Laxatives"
+        },
+        {
+            "description": "Find out more about a lazy eye (amblyopia), a condition where the vision in 1 eye does not develop properly.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:19:20+00:00",
+                "dateModified": "2023-04-18T11:20:50+00:00",
+                "lastReviewed": [
+                    "2023-01-04T01:00:00+00:00",
+                    "2026-01-04T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-04T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Amblyopia"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lazy-eye/",
+            "name": "Lazy eye"
+        },
+        {
+            "description": "Find out about leg cramps, a common condition where the muscles in the leg suddenly become tight and painful.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:17:27+00:00",
+                "dateModified": "2023-12-08T10:06:46+00:00",
+                "lastReviewed": [
+                    "2023-12-01T00:00:00+00:00",
+                    "2026-12-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/leg-cramps/",
+            "name": "Leg cramps"
+        },
+        {
+            "description": "A leg ulcer is a long-lasting (chronic) sore on your leg or foot that takes more than 2 weeks to heal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:45:17+00:00",
+                "dateModified": "2023-03-15T14:01:39+00:00",
+                "lastReviewed": [
+                    "2022-11-16T00:00:00+00:00",
+                    "2025-11-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-16T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Leg ulcer"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/leg-ulcer/",
+            "name": "Venous leg ulcer"
+        },
+        {
+            "description": "Find out about leptospirosis infection, including what causes it, what the symptoms are, where to get help, how it's treated, and how to avoid getting it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-21T16:00:31+00:00",
+                "dateModified": "2023-07-05T07:23:27+00:00",
+                "lastReviewed": [
+                    "2023-06-28T00:00:00+00:00",
+                    "2026-06-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-28T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Weil's disease"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/leptospirosis/",
+            "name": "Leptospirosis (Weil's disease)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=25",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=26",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

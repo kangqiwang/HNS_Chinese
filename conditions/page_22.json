@@ -1,0 +1,835 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out what erectile dysfunction is, what the common causes are and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-11-13T14:46:30+00:00",
+                "dateModified": "2023-08-03T15:53:01+00:00",
+                "lastReviewed": [
+                    "2023-07-28T00:00:00+00:00",
+                    "2026-07-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-28T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Impotence"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/erection-problems-erectile-dysfunction/",
+            "name": "Erectile dysfunction (impotence)"
+        },
+        {
+            "description": "Find out about possible causes and treatments for excessive sweating (hyperhidrosis).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-12-20T15:59:57+00:00",
+                "dateModified": "2023-11-23T12:36:14+00:00",
+                "lastReviewed": [
+                    "2023-11-07T11:05:00+00:00",
+                    "2026-11-07T11:05:00+00:00"
+                ],
+                "reviewDue": "2026-11-07T11:05:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hyperhidrosis",
+                    "Sweating (excessive)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+            "name": "Excessive sweating (hyperhidrosis)"
+        },
+        {
+            "description": "Find out more about fainting (syncope), when you pass out for a short time.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-10-03T20:02:26+00:00",
+                "dateModified": "2023-02-27T17:20:50+00:00",
+                "lastReviewed": [
+                    "2023-02-23T14:29:00+00:00",
+                    "2026-02-23T14:29:00+00:00"
+                ],
+                "reviewDue": "2026-02-23T14:29:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/fainting/",
+            "name": "Fainting"
+        },
+        {
+            "description": "Anyone can have a fall, but older people are more vulnerable and likely to fall, especially if they have a long-term health condition.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2018-05-01T11:14:26+00:00",
+                "dateModified": "2024-01-11T15:38:56+00:00",
+                "lastReviewed": [
+                    "2021-06-25T00:00:00+00:00",
+                    "2024-06-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/falls/",
+            "name": "Falls"
+        },
+        {
+            "description": "Find out about femoral hernias, a rare type of hernia.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2018-08-06T14:33:55+00:00",
+                "dateModified": "2022-02-03T15:32:16+00:00",
+                "lastReviewed": [
+                    "2022-01-11T01:00:00+00:00",
+                    "2025-01-11T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-11T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hernia (femoral)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/femoral-hernia-repair/",
+            "name": "Femoral hernia repair"
+        },
+        {
+            "description": "Read about the different types of fibroids and why they develop. Find out when to see a GP if you have fibroids and how they're treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:19:31+00:00",
+                "dateModified": "2024-03-07T17:00:31+00:00",
+                "lastReviewed": [
+                    "2022-09-09T07:00:00+00:00",
+                    "2025-09-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/fibroids/",
+            "name": "Fibroids"
+        },
+        {
+            "description": "Fibromyalgia, also called fibromyalgia syndrome (FMS), is a long-term condition that causes pain all over the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:20:46+00:00",
+                "dateModified": "2022-10-13T10:39:12+00:00",
+                "lastReviewed": [
+                    "2022-10-11T23:00:00+00:00",
+                    "2025-10-11T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-11T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/fibromyalgia/",
+            "name": "Fibromyalgia"
+        },
+        {
+            "description": "Find out what to do in emergency situations such as anaphylaxis, bleeding, burns and scalds, choking, drowning, electrocution, fractures, heart attacks, poisoning, shock and stroke.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-24T08:12:20+00:00",
+                "dateModified": "2024-05-28T11:24:02+00:00",
+                "lastReviewed": [
+                    "2022-03-15T00:00:00+00:00",
+                    "2025-03-15T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-15T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/first-aid/",
+            "name": "First aid"
+        },
+        {
+            "description": "Flatulence is passing gas from the digestive system out of the back passage. It's more commonly known as \"passing wind\", or \"farting\".",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-19T15:09:11+00:00",
+                "dateModified": "2022-06-09T07:38:20+00:00",
+                "lastReviewed": [
+                    "2022-06-07T00:00:00+00:00",
+                    "2025-06-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-07T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Flatulence",
+                    "Wind"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/flatulence/",
+            "name": "Farting (flatulence)"
+        },
+        {
+            "description": "NHS information about flu, including symptoms, how to treat it yourself and when to get help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:51:29+00:00",
+                "dateModified": "2024-06-13T09:51:56+00:00",
+                "lastReviewed": [
+                    "2023-08-09T00:00:00+00:00",
+                    "2025-09-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-05T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Influenza"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/flu/",
+            "name": "Flu"
+        },
+        {
+            "description": "Find out more about food allergies, including what the symptoms are, what can cause them and how they're treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:13:15+00:00",
+                "dateModified": "2023-08-16T14:36:27+00:00",
+                "lastReviewed": [
+                    "2023-01-05T01:00:00+00:00",
+                    "2026-01-05T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-05T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/food-allergy/",
+            "name": "Food allergy"
+        },
+        {
+            "description": "Read about the symptoms and causes of food poisoning and what you should do if you get it. It's not usually serious and most people get better within a week without treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-21T08:33:23+00:00",
+                "dateModified": "2023-07-14T12:07:50+00:00",
+                "lastReviewed": [
+                    "2021-06-18T00:00:00+00:00",
+                    "2024-06-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/food-poisoning/",
+            "name": "Food poisoning"
+        },
+        {
+            "description": "Find out what frontotemporal dementia is, what the symptoms are, how it's treated, and what the outlook is.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T07:37:32+00:00",
+                "dateModified": "2023-10-25T14:46:41+00:00",
+                "lastReviewed": [
+                    "2023-06-28T23:00:00+00:00",
+                    "2026-06-28T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-28T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Dementia (frontotemporal)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/frontotemporal-dementia/",
+            "name": "Frontotemporal dementia"
+        },
+        {
+            "description": "Read about frostbite, how it's caused and how to prevent it. Also find out what to do if you have frostbite and when to get medical assistance.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:51:14+00:00",
+                "dateModified": "2024-02-26T08:17:38+00:00",
+                "lastReviewed": [
+                    "2021-08-24T00:00:00+00:00",
+                    "2024-08-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/frostbite/",
+            "name": "Frostbite"
+        },
+        {
+            "description": "Frozen shoulder means your shoulder is painful and stiff for months, sometimes years. Find out about the main symptoms, treatments and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-09T16:33:45+00:00",
+                "dateModified": "2024-07-04T14:56:35+00:00",
+                "lastReviewed": [
+                    "2024-06-23T23:00:00+00:00",
+                    "2027-06-23T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-23T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/frozen-shoulder/",
+            "name": "Frozen shoulder"
+        },
+        {
+            "description": "NHS information about fungal nail infections, including symptoms, self-care, when to get medical help, treatments and prevention.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:04:40+00:00",
+                "dateModified": "2024-04-04T13:41:24+00:00",
+                "lastReviewed": [
+                    "2024-03-27T10:28:00+00:00",
+                    "2027-03-27T10:28:00+00:00"
+                ],
+                "reviewDue": "2027-03-27T10:28:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Nail fungal infection"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/fungal-nail-infection/",
+            "name": "Fungal nail infection"
+        },
+        {
+            "description": "Read about gallbladder removal surgery (cholecystectomy), including why it's done, what's involved and what the potential risks are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T12:02:09+00:00",
+                "dateModified": "2024-01-29T08:54:26+00:00",
+                "lastReviewed": [
+                    "2021-12-08T00:00:00+00:00",
+                    "2024-12-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gallbladder-removal/",
+            "name": "Gallbladder removal"
+        },
+        {
+            "description": "Gallstones are small stones, usually made of cholesterol, that form in the gallbladder. They do not usually cause any symptoms and do not need to be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T14:40:40+00:00",
+                "dateModified": "2024-03-07T16:32:53+00:00",
+                "lastReviewed": [
+                    "2021-11-19T01:00:00+00:00",
+                    "2024-11-19T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-11-19T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gallstones/",
+            "name": "Gallstones"
+        },
+        {
+            "description": "Gangrene is a serious condition in which a loss of blood supply causes tissue to die. It can affect any part of the body but typically starts in the toes, feet, fingers and hands.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-09-05T08:46:52+00:00",
+                "dateModified": "2023-12-04T09:48:34+00:00",
+                "lastReviewed": [
+                    "2022-09-29T00:00:00+00:00",
+                    "2025-09-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gangrene/",
+            "name": "Gangrene"
+        },
+        {
+            "description": "Read about gastrectomy, a medical procedure that involves surgically removing all or part of the stomach. Find out how it is performed, the recovery and complications from having it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2018-03-05T15:24:25+00:00",
+                "dateModified": "2024-02-05T12:25:10+00:00",
+                "lastReviewed": [
+                    "2021-04-18T23:00:00+00:00",
+                    "2024-04-18T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-18T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gastrectomy/",
+            "name": "Gastrectomy"
+        },
+        {
+            "description": "Find out what a gastroscopy is, why it's done, what happens on the day and what the results mean.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2018-03-21T08:49:53+00:00",
+                "dateModified": "2022-10-31T13:31:20+00:00",
+                "lastReviewed": [
+                    "2022-04-07T00:00:00+00:00",
+                    "2025-04-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gastroscopy/",
+            "name": "Gastroscopy"
+        },
+        {
+            "description": "Gender dysphoria is a term that describes a sense of unease that a person may have because of a mismatch between their biological sex and their gender identity.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:54:57+00:00",
+                "dateModified": "2024-03-13T17:19:41+00:00",
+                "lastReviewed": [
+                    "2020-05-28T00:00:00+00:00",
+                    "2023-05-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-05-28T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gender-dysphoria/",
+            "name": "Gender dysphoria"
+        },
+        {
+            "description": "Genital herpes is caused by the herpes simplex virus (HSV) type 1 or type 2. It causes painful blisters to appear on the genitals and the surrounding areas.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:39:41+00:00",
+                "dateModified": "2024-07-06T21:19:19+00:00",
+                "lastReviewed": [
+                    "2023-06-27T00:00:00+00:00",
+                    "2026-06-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-27T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Herpes (genital)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/genital-herpes/",
+            "name": "Genital herpes"
+        },
+        {
+            "description": "Find out about genital warts, which are small lumps or cauliflower-like growths around the vagina, penis or anus.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-21T10:02:43+00:00",
+                "dateModified": "2024-03-20T16:39:42+00:00",
+                "lastReviewed": [
+                    "2023-07-10T00:00:00+00:00",
+                    "2026-07-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-10T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/genital-warts/",
+            "name": "Genital warts"
+        },
+        {
+            "description": "Find out what gestational diabetes is, what problems it can cause, how it's diagnosed, and what the treatments are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:02:53+00:00",
+                "dateModified": "2024-03-07T16:54:53+00:00",
+                "lastReviewed": [
+                    "2022-12-08T15:40:00+00:00",
+                    "2025-12-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-08T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Diabetes in pregnancy"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gestational-diabetes/",
+            "name": "Gestational diabetes"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=22",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=23",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

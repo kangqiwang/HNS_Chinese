@@ -1,0 +1,813 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about Lambert-Eaton myasthenic syndrome, a rare condition affecting the nerves that causes muscle weakness and other symptoms.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:50:28+00:00",
+                "dateModified": "2023-04-24T08:31:04+00:00",
+                "lastReviewed": [
+                    "2023-04-18T23:00:00+00:00",
+                    "2026-04-18T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-18T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lambert-eaton-myasthenic-syndrome/",
+            "name": "Lambert-Eaton myasthenic syndrome"
+        },
+        {
+            "description": "A lactate dehydrogenase (LDH) test measures the amount of LDH in the blood.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2018-08-29T10:04:52+00:00",
+                "dateModified": "2022-04-27T14:27:13+00:00",
+                "lastReviewed": [
+                    "2022-03-28T00:00:00+00:00",
+                    "2025-03-28T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-28T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ldh-test/",
+            "name": "Lactate dehydrogenase (LDH) test"
+        },
+        {
+            "description": "Find out more about Legionnaires' disease, an uncommon but serious lung infection you can get from inhaling droplets of water containing bacteria that cause the infection.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:53:27+00:00",
+                "dateModified": "2023-07-24T15:54:48+00:00",
+                "lastReviewed": [
+                    "2023-07-21T00:00:00+00:00",
+                    "2026-07-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/legionnaires-disease/",
+            "name": "Legionnaires' disease"
+        },
+        {
+            "description": "Read about lichen sclerosus, a skin condition that mainly affects the skin of the genitals. Find out about symptoms, causes, treatments and when to see a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:06:18+00:00",
+                "dateModified": "2022-07-04T11:43:58+00:00",
+                "lastReviewed": [
+                    "2021-10-08T00:00:00+00:00",
+                    "2024-10-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lichen-sclerosus/",
+            "name": "Lichen sclerosus"
+        },
+        {
+            "description": "Find out more about limping in children, which is usually caused by something minor like a sprain or strain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T12:52:42+00:00",
+                "dateModified": "2024-06-14T14:04:07+00:00",
+                "lastReviewed": [
+                    "2022-01-06T00:00:00+00:00",
+                    "2025-01-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/limp-in-children/",
+            "name": "Limping in children"
+        },
+        {
+            "description": "Find out about lipoedema, an abnormal build-up of fat in your legs and sometimes arms, including what the symptoms are, when to get medical help and what treatments are available.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:02:51+00:00",
+                "dateModified": "2023-08-01T15:51:03+00:00",
+                "lastReviewed": [
+                    "2023-07-25T13:00:00+00:00",
+                    "2026-07-25T13:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-25T13:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lipoedema/",
+            "name": "Lipoedema"
+        },
+        {
+            "description": "Find out about lipomas, which are soft, fatty lumps that grow under your skin. They're harmless and do not usually need any treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:28:28+00:00",
+                "dateModified": "2023-08-01T11:08:02+00:00",
+                "lastReviewed": [
+                    "2023-07-25T00:00:00+00:00",
+                    "2026-07-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lipoma/",
+            "name": "Lipoma"
+        },
+        {
+            "description": "Find out about the different types of liver disease and their causes . Find out the symptoms of liver disease, when to get medical help and what you can do to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T06:56:31+00:00",
+                "dateModified": "2023-08-22T10:03:24+00:00",
+                "lastReviewed": [
+                    "2023-08-09T14:47:00+00:00",
+                    "2026-08-09T14:47:00+00:00"
+                ],
+                "reviewDue": "2026-08-09T14:47:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/liver-disease/",
+            "name": "Liver disease"
+        },
+        {
+            "description": "Find out what local anaesthetics are, when they're used, and what the possible side effects are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-19T07:01:02+00:00",
+                "dateModified": "2022-02-18T12:49:51+00:00",
+                "lastReviewed": [
+                    "2022-01-23T01:00:00+00:00",
+                    "2025-01-23T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-23T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/local-anaesthesia/",
+            "name": "Local anaesthesia"
+        },
+        {
+            "description": "NHS information about long QT syndrome, including symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:31:18+00:00",
+                "dateModified": "2023-08-21T13:13:45+00:00",
+                "lastReviewed": [
+                    "2020-10-26T00:00:00+00:00",
+                    "2023-10-25T23:00:00+00:00"
+                ],
+                "reviewDue": "2023-10-25T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/long-qt-syndrome/",
+            "name": "Long QT syndrome"
+        },
+        {
+            "description": "A low sex drive (loss of libido) can affect both men and women. Find out what can cause it, when to get help and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T10:20:44+00:00",
+                "dateModified": "2024-03-11T16:07:48+00:00",
+                "lastReviewed": [
+                    "2022-06-07T23:00:00+00:00",
+                    "2025-06-07T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-07T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/loss-of-libido/",
+            "name": "Low sex drive (loss of libido)"
+        },
+        {
+            "description": "Find out about low blood sugar (hypoglycaemia), including what the symptoms are, the causes, how to treat it and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T08:20:26+00:00",
+                "dateModified": "2023-08-04T13:00:20+00:00",
+                "lastReviewed": [
+                    "2023-08-03T00:00:00+00:00",
+                    "2026-08-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-03T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hypoglycaemia"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+            "name": "Low blood sugar (hypoglycaemia)"
+        },
+        {
+            "description": "Find out about low sperm count, including symptoms, tests and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T12:50:32+00:00",
+                "dateModified": "2024-05-23T16:06:07+00:00",
+                "lastReviewed": [
+                    "2024-01-26T01:00:00+00:00",
+                    "2027-01-26T01:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-26T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sperm count (low)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/low-sperm-count/",
+            "name": "Low sperm count"
+        },
+        {
+            "description": "NHS information about lumps and swellings. Find out about different types of lumps and what causes them, and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T12:51:34+00:00",
+                "dateModified": "2024-02-09T10:21:16+00:00",
+                "lastReviewed": [
+                    "2024-02-05T00:00:00+00:00",
+                    "2027-02-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-02-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lumps/",
+            "name": "Lumps"
+        },
+        {
+            "description": "Read NHS information on Lyme disease, which is a bacterial infection spread to humans by infected ticks.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T12:55:23+00:00",
+                "dateModified": "2023-04-14T07:42:05+00:00",
+                "lastReviewed": [
+                    "2021-07-05T00:00:00+00:00",
+                    "2024-07-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/lyme-disease/",
+            "name": "Lyme disease"
+        },
+        {
+            "description": "A macular hole is a small gap that opens at the centre of the retina in the macula. It causes blurred and distorted vision, and can be treated with surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T12:06:08+00:00",
+                "dateModified": "2023-12-04T09:51:20+00:00",
+                "lastReviewed": [
+                    "2021-08-05T00:00:00+00:00",
+                    "2024-08-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/macular-hole/",
+            "name": "Macular hole"
+        },
+        {
+            "description": "Find out what a magnesium test is and when it might be used.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2018-09-04T10:26:05+00:00",
+                "dateModified": "2022-08-24T08:44:00+00:00",
+                "lastReviewed": [
+                    "2022-05-20T00:00:00+00:00",
+                    "2025-05-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/magnesium-test/",
+            "name": "Magnesium test"
+        },
+        {
+            "description": "Read about \"male menopause\", where some men develop depression, loss of sex drive, erectile dysfunction and other physical and emotional symptoms when they reach their late 40s to early 50s.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T19:57:39+00:00",
+                "dateModified": "2022-11-04T11:30:49+00:00",
+                "lastReviewed": [
+                    "2022-10-12T23:00:00+00:00",
+                    "2025-10-12T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-12T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Male menopause"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/male-menopause/",
+            "name": "The 'male menopause'"
+        },
+        {
+            "description": "Mallet finger is an injury to the end of the finger that causes it to bend inwards. Find out about the condition, its treatment and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:22:06+00:00",
+                "dateModified": "2024-02-27T17:33:35+00:00",
+                "lastReviewed": [
+                    "2023-08-02T15:07:00+00:00",
+                    "2026-08-02T15:07:00+00:00"
+                ],
+                "reviewDue": "2026-08-02T15:07:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mallet-finger/",
+            "name": "Mallet finger"
+        },
+        {
+            "description": "Maple syrup urine disease (MSUD) is a rare but serious inherited condition. It means the body can't process certain amino acids.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T09:59:03+00:00",
+                "dateModified": "2024-04-08T12:08:03+00:00",
+                "lastReviewed": [
+                    "2021-09-20T00:00:00+00:00",
+                    "2024-09-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/maple-syrup-urine-disease/",
+            "name": "Maple syrup urine disease"
+        },
+        {
+            "description": "Find out about mastoiditis, a serious bacterial infection that affects the mastoid bone behind the ear.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T10:25:56+00:00",
+                "dateModified": "2023-10-20T10:23:07+00:00",
+                "lastReviewed": [
+                    "2023-03-23T11:13:00+00:00",
+                    "2026-03-23T11:13:00+00:00"
+                ],
+                "reviewDue": "2026-03-23T11:13:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mastoiditis/",
+            "name": "Mastoiditis"
+        },
+        {
+            "description": "MCADD is a rare genetic condition where a person has problems breaking down fat for energy. Read about the symptoms, causes and outlook.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T10:52:42+00:00",
+                "dateModified": "2023-12-19T14:24:13+00:00",
+                "lastReviewed": [
+                    "2022-10-05T23:00:00+00:00",
+                    "2025-10-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mcadd/",
+            "name": "MCADD"
+        },
+        {
+            "description": "Find out about medically unexplained symptoms, including possible causes, the connection between physical and mental health, how a GP can help and self-help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-19T08:23:21+00:00",
+                "dateModified": "2024-06-17T16:33:45+00:00",
+                "lastReviewed": [
+                    "2024-06-05T00:00:00+00:00",
+                    "2027-06-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-05T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Functional neurological disorder"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/medically-unexplained-symptoms/",
+            "name": "Medically unexplained symptoms"
+        },
+        {
+            "description": "Find out more about M\u00e9ni\u00e8re's disease, a rare condition that affects the inner ear.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T11:41:24+00:00",
+                "dateModified": "2024-06-18T15:37:33+00:00",
+                "lastReviewed": [
+                    "2023-04-24T23:00:00+00:00",
+                    "2026-04-24T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-24T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/menieres-disease/",
+            "name": "M\u00e9ni\u00e8re's disease"
+        },
+        {
+            "description": "Find out about the symptoms, causes and treatments of mesothelioma, a cancer of the lining that covers some of the body's organs.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T11:56:38+00:00",
+                "dateModified": "2024-04-16T12:23:31+00:00",
+                "lastReviewed": [
+                    "2022-09-11T23:00:00+00:00",
+                    "2025-09-11T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-11T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mesothelioma/",
+            "name": "Mesothelioma"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=9",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=10",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

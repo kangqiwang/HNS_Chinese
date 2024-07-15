@@ -1,0 +1,823 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Read about what a spirometry test involves and why it's carried out.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-24T08:17:21+00:00",
+                "dateModified": "2024-01-29T09:03:06+00:00",
+                "lastReviewed": [
+                    "2021-08-18T00:00:00+00:00",
+                    "2024-08-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/spirometry/",
+            "name": "Spirometry"
+        },
+        {
+            "description": "Find out NHS information on spleen problems, splenectomy and living without a spleen.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-18T15:40:46+00:00",
+                "dateModified": "2024-03-21T08:06:15+00:00",
+                "lastReviewed": [
+                    "2023-02-22T01:00:00+00:00",
+                    "2026-02-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-22T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/spleen-problems-and-spleen-removal/",
+            "name": "Spleen problems and spleen removal"
+        },
+        {
+            "description": "Find out about spondylolisthesis, where a bone in the spine (vertebra) slips out of position, including what the symptoms are and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:13:16+00:00",
+                "dateModified": "2022-06-22T09:55:48+00:00",
+                "lastReviewed": [
+                    "2022-06-01T00:00:00+00:00",
+                    "2025-06-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/spondylolisthesis/",
+            "name": "Spondylolisthesis"
+        },
+        {
+            "description": "Read about some of the main types of Staphylococcal infections, including how they're spread and how they're treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:16:39+00:00",
+                "dateModified": "2021-11-18T15:33:13+00:00",
+                "lastReviewed": [
+                    "2021-06-10T00:00:00+00:00",
+                    "2024-06-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-10T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/staphylococcal-infections/",
+            "name": "Staph infection"
+        },
+        {
+            "description": "Find out about steroid inhalers, including why they're used, who can use them, and what side effects they can cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T16:17:38+00:00",
+                "dateModified": "2023-08-23T10:40:26+00:00",
+                "lastReviewed": [
+                    "2023-04-18T23:00:00+00:00",
+                    "2026-04-18T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-18T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/steroid-inhalers/",
+            "name": "Steroid inhalers"
+        },
+        {
+            "description": "Steroid injections, also called corticosteroid injections, are anti-inflammatory medicines used to treat a range of conditions. They can be used to treat problems such as joint pain, arthritis, sciatica and inflammatory bowel disease.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T16:06:19+00:00",
+                "dateModified": "2024-02-05T17:20:59+00:00",
+                "lastReviewed": [
+                    "2023-04-16T23:00:00+00:00",
+                    "2026-04-16T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-16T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/steroid-injections/",
+            "name": "Steroid injections"
+        },
+        {
+            "description": "Find out about steroid nasal sprays, including why they're used, how to use them and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T16:36:54+00:00",
+                "dateModified": "2024-02-14T08:24:53+00:00",
+                "lastReviewed": [
+                    "2023-06-14T23:00:00+00:00",
+                    "2026-06-14T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-14T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/steroid-nasal-sprays/",
+            "name": "Steroid nasal sprays"
+        },
+        {
+            "description": "Find out what steroids (corticosteroids) are, when they're used, how they work, and what different types are available.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T08:08:18+00:00",
+                "dateModified": "2024-01-04T10:39:16+00:00",
+                "lastReviewed": [
+                    "2023-04-18T23:00:00+00:00",
+                    "2026-04-18T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-18T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Corticosteroids"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/steroids/",
+            "name": "Steroids"
+        },
+        {
+            "description": "Steroid tablets, also called corticosteroid tablets, are a type of anti-inflammatory medicine used to treat a range of conditions.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T08:11:18+00:00",
+                "dateModified": "2024-03-21T08:07:04+00:00",
+                "lastReviewed": [
+                    "2023-04-25T23:00:00+00:00",
+                    "2026-04-25T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-25T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/steroid-tablets/",
+            "name": "Steroid tablets"
+        },
+        {
+            "description": "Find out about Stevens-Johnson syndrome, including what causes it, what the symptoms are and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:21:52+00:00",
+                "dateModified": "2024-06-13T15:39:38+00:00",
+                "lastReviewed": [
+                    "2022-06-21T00:00:00+00:00",
+                    "2025-06-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stevens-johnson-syndrome/",
+            "name": "Stevens-Johnson syndrome"
+        },
+        {
+            "description": "Read about a stomach ache and abdominal pains, including stomach cramps or an ache in the tummy (abdomen).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T15:11:10+00:00",
+                "dateModified": "2024-06-13T15:52:40+00:00",
+                "lastReviewed": [
+                    "2023-05-26T10:00:00+00:00",
+                    "2026-05-26T10:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-26T10:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Tummy ache"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stomach-ache/",
+            "name": "Stomach ache"
+        },
+        {
+            "description": "Find out about the causes of missed or late periods and when to seek medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T15:46:50+00:00",
+                "dateModified": "2024-03-11T13:07:19+00:00",
+                "lastReviewed": [
+                    "2022-08-05T00:00:00+00:00",
+                    "2025-08-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-05T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Periods (missed or late)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/missed-or-late-periods/",
+            "name": "Missed or late periods"
+        },
+        {
+            "description": "Find out about the medicines that can help if you want to stop smoking, including nicotine replacement therapy (NRT) and bupropion (Zyban).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T15:20:49+00:00",
+                "dateModified": "2023-12-01T15:53:54+00:00",
+                "lastReviewed": [
+                    "2022-11-02T01:00:00+00:00",
+                    "2025-11-02T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-02T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Smoking (treatments to stop)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stop-smoking-treatments/",
+            "name": "Stop smoking treatments"
+        },
+        {
+            "description": "Find out about stretch marks, including where, when and how you get them, what causes them, and how they can be treated and prevented.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:12:24+00:00",
+                "dateModified": "2024-05-03T07:31:21+00:00",
+                "lastReviewed": [
+                    "2024-04-29T23:00:00+00:00",
+                    "2027-04-29T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-29T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stretch-marks/",
+            "name": "Stretch marks"
+        },
+        {
+            "description": "Find out about styes, including what causes them, what you can do to treat them and when to see a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:03:13+00:00",
+                "dateModified": "2024-04-26T14:34:23+00:00",
+                "lastReviewed": [
+                    "2024-04-17T23:00:00+00:00",
+                    "2027-04-17T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-17T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stye/",
+            "name": "Stye"
+        },
+        {
+            "description": "Sudden infant death syndrome (SIDS) \u2013 sometimes known as 'cot death' \u2013 is the sudden, unexpected and unexplained death of an apparently healthy baby.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T15:16:10+00:00",
+                "dateModified": "2023-07-28T14:10:00+00:00",
+                "lastReviewed": [
+                    "2021-10-27T00:00:00+00:00",
+                    "2024-10-27T03:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-27T03:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sudden-infant-death-syndrome-sids/",
+            "name": "Sudden infant death syndrome (SIDS)"
+        },
+        {
+            "description": "Find out about sunburn, including what you can do to treat it yourself and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:06:00+00:00",
+                "dateModified": "2024-02-08T09:08:43+00:00",
+                "lastReviewed": [
+                    "2022-05-23T23:00:00+00:00",
+                    "2025-05-23T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-23T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sunburn/",
+            "name": "Sunburn"
+        },
+        {
+            "description": "Read about swollen lymph glands, which are usually a sign of infection. Find out what the symptoms are, how to ease them and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-12-19T14:58:45+00:00",
+                "dateModified": "2023-10-04T15:18:35+00:00",
+                "lastReviewed": [
+                    "2023-09-29T00:00:00+00:00",
+                    "2026-09-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-09-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/swollen-glands/",
+            "name": "Swollen glands"
+        },
+        {
+            "description": "Read more about temporomandibular disorder (TMD), which is a problem affecting the chewing muscles and the joints between the lower jaw and the base of the skull.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:17:52+00:00",
+                "dateModified": "2024-04-30T12:35:08+00:00",
+                "lastReviewed": [
+                    "2023-06-20T11:03:00+00:00",
+                    "2026-06-20T11:03:00+00:00"
+                ],
+                "reviewDue": "2026-06-20T11:03:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Jaw pain"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/temporomandibular-disorder-tmd/",
+            "name": "Temporomandibular disorder (TMD)"
+        },
+        {
+            "description": "NHS information and advice about tension headaches. Find out about symptoms, causes, treatments, prevention and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-06-07T17:20:01+00:00",
+                "dateModified": "2024-05-29T09:38:49+00:00",
+                "lastReviewed": [
+                    "2022-03-04T01:00:00+00:00",
+                    "2025-03-04T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-04T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Headaches (tension-type)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tension-headaches/",
+            "name": "Tension headaches"
+        },
+        {
+            "description": "Find out about tetanus, including how you get it, what the symptoms are, when to get medical help, how it\u2019s treated and the tetanus vaccination.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:55:34+00:00",
+                "dateModified": "2024-06-18T15:56:13+00:00",
+                "lastReviewed": [
+                    "2023-05-18T00:00:00+00:00",
+                    "2026-05-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tetanus/",
+            "name": "Tetanus"
+        },
+        {
+            "description": "Find out about excessive thirst, including what might be causing it, when to see a GP and the difference between dry mouth and excessive thirst.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T16:04:10+00:00",
+                "dateModified": "2023-11-14T17:04:30+00:00",
+                "lastReviewed": [
+                    "2023-11-09T01:00:00+00:00",
+                    "2026-11-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-09T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Thirst (excessive)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/thirst/",
+            "name": "Excessive thirst"
+        },
+        {
+            "description": "Thrombophilia is a condition that increases your risk of blood clots. It\u2019s usually treated with anticoagulant medicines.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:58:18+00:00",
+                "dateModified": "2024-06-19T10:02:12+00:00",
+                "lastReviewed": [
+                    "2020-08-14T00:00:00+00:00",
+                    "2023-08-14T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-08-14T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/thrombophilia/",
+            "name": "Thrombophilia"
+        },
+        {
+            "description": "Find out what a total iron-binding capacity (TIBC) or transferrin test measures and what high and low TIBC levels may indicate.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T15:10:01+00:00",
+                "dateModified": "2022-07-11T14:27:26+00:00",
+                "lastReviewed": [
+                    "2022-07-05T23:00:00+00:00",
+                    "2025-07-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tibc-test/",
+            "name": "Total iron-binding capacity (TIBC) and transferrin test"
+        },
+        {
+            "description": "Find out about tongue-tie, including symptoms and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:14:01+00:00",
+                "dateModified": "2024-03-25T12:03:04+00:00",
+                "lastReviewed": [
+                    "2024-03-20T00:00:00+00:00",
+                    "2027-03-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-03-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tongue-tie/",
+            "name": "Tongue-tie"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=14",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=15",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

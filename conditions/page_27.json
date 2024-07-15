@@ -1,0 +1,806 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "A miscarriage is the loss of a pregnancy during the first 23 weeks. The main signs of a miscarriage include vaginal bleeding, followed by cramping and pain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-03-06T12:57:18+00:00",
+                "dateModified": "2023-12-14T11:50:37+00:00",
+                "lastReviewed": [
+                    "2022-03-09T01:00:00+00:00",
+                    "2025-03-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-09T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/miscarriage/",
+            "name": "Miscarriage"
+        },
+        {
+            "description": "Find out about moles, including what a normal mole looks like and when a mole could be serious. Also, find out how to prevent a mole becoming cancerous.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T06:54:08+00:00",
+                "dateModified": "2023-07-05T08:40:53+00:00",
+                "lastReviewed": [
+                    "2023-07-04T00:00:00+00:00",
+                    "2026-07-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/moles/",
+            "name": "Moles"
+        },
+        {
+            "description": "Find out about molluscum contagiosum, including what the symptoms are and what to do if you think you or your child have it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T17:44:30+00:00",
+                "dateModified": "2023-04-28T14:39:47+00:00",
+                "lastReviewed": [
+                    "2022-10-09T23:00:00+00:00",
+                    "2025-10-09T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-09T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/molluscum-contagiosum/",
+            "name": "Molluscum contagiosum"
+        },
+        {
+            "description": "Read about motor neurone disease (MND), a rare condition where parts of the nervous system become damaged. This causes increasing weakness, and in many cases, muscle wasting.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-15T13:01:20+00:00",
+                "dateModified": "2023-10-03T13:47:39+00:00",
+                "lastReviewed": [
+                    "2021-01-18T00:00:00+00:00",
+                    "2024-01-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-01-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/motor-neurone-disease/",
+            "name": "Motor neurone disease"
+        },
+        {
+            "description": "Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-23T14:19:42+00:00",
+                "dateModified": "2022-08-05T13:16:22+00:00",
+                "lastReviewed": [
+                    "2022-07-26T00:00:00+00:00",
+                    "2025-07-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mri-scan/",
+            "name": "MRI scan"
+        },
+        {
+            "description": "Find out about mucositis, including what the symptoms are, what you can do to ease them, when to get medical help and what treatments are available.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-12-19T12:20:43+00:00",
+                "dateModified": "2023-09-04T16:09:05+00:00",
+                "lastReviewed": [
+                    "2023-08-24T23:00:00+00:00",
+                    "2026-08-24T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-24T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mucositis/",
+            "name": "Mucositis"
+        },
+        {
+            "description": "Find out more about multiple myeloma, also known as myeloma, a type of bone marrow cancer.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-12T07:48:25+00:00",
+                "dateModified": "2023-11-06T09:14:06+00:00",
+                "lastReviewed": [
+                    "2021-06-02T00:00:00+00:00",
+                    "2024-06-02T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-02T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Myeloma"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/multiple-myeloma/",
+            "name": "Multiple myeloma"
+        },
+        {
+            "description": "Multiple sclerosis (MS) is a condition that can affect the brain and spinal cord, causing a wide range of potential symptoms, including problems with vision, arm or leg movement, sensation or balance.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:08:58+00:00",
+                "dateModified": "2023-11-15T11:32:03+00:00",
+                "lastReviewed": [
+                    "2022-03-22T00:00:00+00:00",
+                    "2025-03-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/multiple-sclerosis/",
+            "name": "Multiple sclerosis"
+        },
+        {
+            "description": "Mumps is a contagious viral infection that used to be common in children before the introduction of the MMR vaccine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:21:38+00:00",
+                "dateModified": "2023-11-06T09:24:25+00:00",
+                "lastReviewed": [
+                    "2021-09-24T00:00:00+00:00",
+                    "2024-09-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mumps/",
+            "name": "Mumps"
+        },
+        {
+            "description": "The muscular dystrophies (MD) are a group of inherited genetic conditions that gradually cause the muscles to weaken, leading to an increasing level of disability.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:16:14+00:00",
+                "dateModified": "2022-10-10T10:23:16+00:00",
+                "lastReviewed": [
+                    "2021-07-20T00:00:00+00:00",
+                    "2024-07-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/muscular-dystrophy/",
+            "name": "Muscular dystrophy"
+        },
+        {
+            "description": "Read about myasthenia gravis, including the symptoms and when to see a GP. Also, find out what causes the condition, how it's treated and the outlook.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T08:26:50+00:00",
+                "dateModified": "2023-10-02T16:03:35+00:00",
+                "lastReviewed": [
+                    "2023-09-12T23:00:00+00:00",
+                    "2026-09-12T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-09-12T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/myasthenia-gravis/",
+            "name": "Myasthenia gravis"
+        },
+        {
+            "description": "Read about narcolepsy, including the symptoms, causes, and how it's diagnosed and treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:00:09+00:00",
+                "dateModified": "2023-01-05T12:10:12+00:00",
+                "lastReviewed": [
+                    "2022-12-30T01:00:00+00:00",
+                    "2025-12-30T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-30T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/narcolepsy/",
+            "name": "Narcolepsy"
+        },
+        {
+            "description": "Find out about nasal polyps, including symptoms, causes, treatments and when to see a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:22:03+00:00",
+                "dateModified": "2023-07-05T15:28:34+00:00",
+                "lastReviewed": [
+                    "2023-06-29T02:00:00+00:00",
+                    "2026-06-29T02:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-29T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/nasal-polyps/",
+            "name": "Nasal polyps"
+        },
+        {
+            "description": "Read more about newborn respiratory distress syndrome (NRDS), a serious condition where a newborn baby's lungs cannot provide their body with enough oxygen. It can be treated before or after birth.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-15T11:03:04+00:00",
+                "dateModified": "2023-10-19T16:45:27+00:00",
+                "lastReviewed": [
+                    "2021-03-28T23:00:00+00:00",
+                    "2024-03-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/neonatal-respiratory-distress-syndrome/",
+            "name": "Newborn respiratory distress syndrome"
+        },
+        {
+            "description": "Neurofibromatosis type 1 (NF1) is a genetic condition that causes tumours to grow along your nerves. The tumours are usually non-cancerous and so usually cause only mild symptoms.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-06-08T10:12:26+00:00",
+                "dateModified": "2021-11-18T15:48:01+00:00",
+                "lastReviewed": [
+                    "2021-08-11T00:00:00+00:00",
+                    "2024-08-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-11T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/neurofibromatosis-type-1/",
+            "name": "Neurofibromatosis type 1"
+        },
+        {
+            "description": "Neurofibromatosis is the name for a number of genetic conditions that cause tumours to grow along your nerves. Neurofibromatosis type 2 (NF2) is a rarer form of the condition.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-19T11:07:13+00:00",
+                "dateModified": "2021-11-18T15:48:04+00:00",
+                "lastReviewed": [
+                    "2021-04-27T00:00:00+00:00",
+                    "2024-04-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-27T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/neurofibromatosis-type-2/",
+            "name": "Neurofibromatosis type 2"
+        },
+        {
+            "description": "Find out more about non-allergic rhinitis, including what the symptoms are, what you can do about it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-09-07T08:39:54+00:00",
+                "dateModified": "2024-03-11T16:16:08+00:00",
+                "lastReviewed": [
+                    "2022-05-31T00:00:00+00:00",
+                    "2025-05-31T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-31T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/non-allergic-rhinitis/",
+            "name": "Non-allergic rhinitis"
+        },
+        {
+            "description": "Urethritis is when the tube that carries pee out of the body (urethra) becomes inflamed and makes peeing painful. Find out about its symptoms, causes and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:27:50+00:00",
+                "dateModified": "2023-05-16T15:51:36+00:00",
+                "lastReviewed": [
+                    "2023-05-09T23:00:00+00:00",
+                    "2026-05-09T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-09T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Non-gonococcal urethritis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/urethritis/",
+            "name": "Urethritis"
+        },
+        {
+            "description": "Non-Hodgkin lymphoma is an uncommon cancer that develops in the lymphatic system, which is a network of vessels and glands spread throughout your body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-03-14T11:31:15+00:00",
+                "dateModified": "2023-08-10T12:44:50+00:00",
+                "lastReviewed": [
+                    "2022-06-20T00:00:00+00:00",
+                    "2025-06-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/non-hodgkin-lymphoma/",
+            "name": "Non-Hodgkin lymphoma"
+        },
+        {
+            "description": "Read about Noonan syndrome, which is a genetic disorder that causes a wide range of features, such as heart abnormalities and unusual facial features.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-06-22T15:18:50+00:00",
+                "dateModified": "2022-10-10T09:12:41+00:00",
+                "lastReviewed": [
+                    "2021-09-14T00:00:00+00:00",
+                    "2024-09-14T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-14T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/noonan-syndrome/",
+            "name": "Noonan syndrome"
+        },
+        {
+            "description": "Read about the causes of nosebleeds, how to treat them at home and when you should get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-23T14:04:20+00:00",
+                "dateModified": "2024-06-14T14:14:55+00:00",
+                "lastReviewed": [
+                    "2023-12-05T00:00:00+00:00",
+                    "2026-12-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/nosebleed/",
+            "name": "Nosebleed"
+        },
+        {
+            "description": "Read about obesity and how it can seriously affect your health. Ways to lose weight safely include eating a healthy, reduced-calorie diet and exercising regularly.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-23T16:23:28+00:00",
+                "dateModified": "2024-04-17T07:19:14+00:00",
+                "lastReviewed": [
+                    "2023-02-15T01:00:00+00:00",
+                    "2026-02-15T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-15T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/obesity/",
+            "name": "Obesity"
+        },
+        {
+            "description": "Read about occupational therapy, which provides support to people whose health prevents them doing the activities that matter to them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-30T18:03:08+00:00",
+                "dateModified": "2023-10-25T11:03:36+00:00",
+                "lastReviewed": [
+                    "2023-10-18T00:00:00+00:00",
+                    "2026-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/occupational-therapy/",
+            "name": "Occupational therapy"
+        },
+        {
+            "description": "Read about orthodontics, a type of dentistry that aims to improve the appearance, position and function of crooked, protruding or crowded teeth.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T13:23:33+00:00",
+                "dateModified": "2023-05-25T13:15:29+00:00",
+                "lastReviewed": [
+                    "2023-04-02T23:00:00+00:00",
+                    "2026-04-02T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-02T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/orthodontics/",
+            "name": "Orthodontics"
+        },
+        {
+            "description": "Read about osteoarthritis, a condition that causes the joints to become painful and stiff. It's the most common type of arthritis in the UK.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:59:00+00:00",
+                "dateModified": "2023-09-05T05:19:49+00:00",
+                "lastReviewed": [
+                    "2023-03-20T15:00:00+00:00",
+                    "2026-03-20T15:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-20T15:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/osteoarthritis/",
+            "name": "Osteoarthritis"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=27",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=28",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

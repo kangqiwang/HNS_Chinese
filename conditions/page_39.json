@@ -1,0 +1,555 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about social anxiety (social phobia), including the symptoms, getting treatment and what you can do yourself to help overcome it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-16T15:06:42+00:00",
+                "dateModified": "2023-05-19T11:33:07+00:00",
+                "lastReviewed": [
+                    "2023-05-17T16:07:00+00:00",
+                    "2026-05-17T16:07:00+00:00"
+                ],
+                "reviewDue": "2026-05-17T16:07:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/social-anxiety/",
+            "name": "Social anxiety (social phobia)"
+        },
+        {
+            "description": "Panic disorder is where you keep having panic attacks, often for no obvious reason. Includes symptoms, treatments and self-help tips.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-16T15:30:51+00:00",
+                "dateModified": "2023-08-29T15:18:36+00:00",
+                "lastReviewed": [
+                    "2023-08-22T00:00:00+00:00",
+                    "2026-08-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-22T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/panic-disorder/",
+            "name": "Panic disorder"
+        },
+        {
+            "description": "Find out about fabricated or induced illness (FII), which is a rare form of child abuse where a parent or carer exaggerates or deliberately causes symptoms of illness in the child.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-16T16:29:37+00:00",
+                "dateModified": "2022-03-29T10:10:53+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/fabricated-or-induced-illness/",
+            "name": "Fabricated or induced illness"
+        },
+        {
+            "description": "Post-traumatic stress disorder (PTSD) is an anxiety disorder caused by very stressful, frightening or distressing events.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-17T15:32:05+00:00",
+                "dateModified": "2024-02-12T15:38:39+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/post-traumatic-stress-disorder-ptsd/",
+            "name": "Post-traumatic stress disorder (PTSD)"
+        },
+        {
+            "description": "Where to get help if you are having suicidal thoughts, and what to do if you are worried about someone else.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2021-02-03T10:55:36+00:00",
+                "dateModified": "2024-04-29T10:56:12+00:00",
+                "lastReviewed": [
+                    "2024-04-25T23:00:00+00:00",
+                    "2027-04-25T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-25T23:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/help-for-suicidal-thoughts/",
+            "name": "Help for suicidal thoughts"
+        },
+        {
+            "description": "Self-harm is when somebody intentionally damages or injures their body and is a sign of emotional distress. Support is available for anyone who self-harms or thinks about self-harm, as well as their friends and family.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2021-02-04T11:38:13+00:00",
+                "dateModified": "2023-11-30T15:49:13+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/",
+            "name": "Self-harm"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-18T15:51:42+00:00",
+                "dateModified": "2024-02-06T12:45:25+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/",
+            "name": "Eating disorders"
+        },
+        {
+            "description": "Find out about hallucinations and hearing things, including signs, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2021-02-03T11:47:32+00:00",
+                "dateModified": "2024-06-18T15:24:16+00:00",
+                "lastReviewed": [
+                    "2022-02-15T00:00:00+00:00",
+                    "2025-02-15T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-15T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hearing voices"
+                ]
+            },
+            "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/feelings-and-symptoms/hallucinations-hearing-voices/",
+            "name": "Hallucinations and hearing voices"
+        },
+        {
+            "description": "Read about the difference between psychiatry and psychology, and find out about the conditions psychiatrists may treat, how to get an appointment, and what your appointments may involve.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2021-02-04T16:17:17+00:00",
+                "dateModified": "2023-11-30T15:47:36+00:00",
+                "lastReviewed": [
+                    "2022-06-16T23:00:00+00:00",
+                    "2025-06-16T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-16T23:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/medicines-and-psychiatry/psychiatry/",
+            "name": "Psychiatry"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2021-02-05T16:56:39+00:00",
+                "dateModified": "2023-11-30T15:26:22+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/medicines-and-psychiatry/antidepressants/",
+            "name": "Antidepressants"
+        },
+        {
+            "description": "Read about counselling, a talking therapy that can help with a range of mental and emotional problems, including stress, anxiety and depression.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2021-02-05T12:39:05+00:00",
+                "dateModified": "2023-11-30T15:33:56+00:00",
+                "lastReviewed": [
+                    "2023-10-06T11:18:00+00:00",
+                    "2026-10-06T11:18:00+00:00"
+                ],
+                "reviewDue": "2026-10-06T11:18:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/counselling/",
+            "name": "Counselling"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2021-02-08T17:17:10+00:00",
+                "dateModified": "2023-11-30T15:31:41+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/",
+            "name": "Cognitive behavioural therapy (CBT)"
+        },
+        {
+            "description": "Read about anxiety disorders in children and teenagers, with links to other useful resources.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2021-02-04T12:39:01+00:00",
+                "dateModified": "2023-12-18T17:30:58+00:00",
+                "lastReviewed": [
+                    "2023-12-15T00:00:00+00:00",
+                    "2026-12-15T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-15T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/",
+            "name": "Anxiety disorders in children"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [],
+                "datePublished": "2023-07-04T13:11:42+00:00",
+                "dateModified": "2023-09-14T13:04:40+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/womens-health/",
+            "name": "Women's health"
+        },
+        {
+            "description": "Find out about the different methods of contraception, where to get them and how well they work at preventing pregnancy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T08:56:50+00:00",
+                "dateModified": "2024-03-18T13:02:42+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/",
+            "name": "Contraception"
+        },
+        {
+            "description": "Read more about how a contraceptive patch works, how effective it is, how to get and use it and what side effects it may cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:08:37+00:00",
+                "dateModified": "2024-03-18T13:22:49+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-patch/",
+            "name": "Contraceptive patch"
+        },
+        {
+            "description": "Read more about how the vaginal ring works, how effective it is, how to get and use it and what side effects it may cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:08:49+00:00",
+                "dateModified": "2024-07-02T13:04:55+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/vaginal-ring/",
+            "name": "Vaginal ring"
+        },
+        {
+            "description": "Find out how diaphragms and caps work to prevent pregnancy, how effective they are, where to get them and how to use them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:10+00:00",
+                "dateModified": "2024-03-18T13:21:32+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-diaphragm-or-cap/",
+            "name": "Diaphragm or cap"
+        },
+        {
+            "description": "Find out how to use condoms, also sometimes called external or male condoms, to prevent pregnancy and reduce the risk of sexually transmitted infections (STIs).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:43+00:00",
+                "dateModified": "2024-03-18T13:17:56+00:00",
+                "lastReviewed": [
+                    "2024-01-26T00:00:00+00:00",
+                    "2027-01-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-26T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/condoms/",
+            "name": "Condoms"
+        },
+        {
+            "description": "Find out about vasectomy, including how it is carried out, risks and benefits and getting it on the NHS.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:02+00:00",
+                "dateModified": "2024-06-18T15:07:59+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sterlisation (male)",
+                    "Male sterilisation"
+                ]
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/vasectomy-male-sterilisation/",
+            "name": "Vasectomy"
+        },
+        {
+            "description": "Find out how to use internal condoms, sometimes called female condoms, to help prevent pregnancy and reduce the risk of sexually transmitted infections (STIs).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:05:30+00:00",
+                "dateModified": "2024-03-18T13:43:05+00:00",
+                "lastReviewed": [
+                    "2024-02-15T12:50:00+00:00",
+                    "2027-02-15T12:50:00+00:00"
+                ],
+                "reviewDue": "2027-02-15T12:50:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/internal-condoms/",
+            "name": "Internal (female) condoms"
+        },
+        {
+            "description": "Find out about natural family planning, also called fertility awareness or lactational amenorrhoea, and how it works to help prevent pregnancy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:57+00:00",
+                "dateModified": "2024-03-18T13:05:09+00:00",
+                "lastReviewed": [
+                    "2024-02-09T00:00:00+00:00",
+                    "2027-02-09T12:09:00+00:00"
+                ],
+                "reviewDue": "2027-02-09T12:09:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/natural-family-planning/",
+            "name": "Natural family planning"
+        },
+        {
+            "description": "Find out about an IUD (intrauterine device) or copper coil, including who can use it, how well it works and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:53+00:00",
+                "dateModified": "2024-03-18T13:44:56+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/iud-coil/",
+            "name": "IUD (intrauterine device) or copper coil"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:41+00:00",
+                "dateModified": "2024-03-18T13:44:36+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/ius-hormonal-coil/",
+            "name": "IUS (intrauterine system) or hormonal coil"
+        },
+        {
+            "description": "Find how the contraceptive implant works, how effective it is, how to get and use it and what side effects it may cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:08:25+00:00",
+                "dateModified": "2024-03-18T13:15:23+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-implant/",
+            "name": "Contraceptive implant"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=39",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

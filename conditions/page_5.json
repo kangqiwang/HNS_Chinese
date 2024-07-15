@@ -1,0 +1,809 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about DiGeorge syndrome (22q11 deletion), including why it happens and what problems it can cause.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:07:50+00:00",
+                "dateModified": "2023-04-13T11:36:08+00:00",
+                "lastReviewed": [
+                    "2020-04-02T00:00:00+00:00",
+                    "2023-04-02T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-04-02T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/digeorge-syndrome/",
+            "name": "DiGeorge syndrome (22q11 deletion)"
+        },
+        {
+            "description": "Find out how to tell if you have a dislocated kneecap, where to get medical help, what the treatments are, and how long it takes to recover.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T09:34:18+00:00",
+                "dateModified": "2024-06-19T13:27:19+00:00",
+                "lastReviewed": [
+                    "2023-01-25T01:00:00+00:00",
+                    "2026-01-25T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-25T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dislocated-kneecap/",
+            "name": "Dislocated kneecap"
+        },
+        {
+            "description": "Find out how to tell if your shoulder is dislocated, how and where to get medical help, and how long it takes to recover.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T11:11:18+00:00",
+                "dateModified": "2024-06-18T12:05:49+00:00",
+                "lastReviewed": [
+                    "2023-05-16T23:00:00+00:00",
+                    "2026-05-16T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-16T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dislocated-shoulder/",
+            "name": "Dislocated shoulder"
+        },
+        {
+            "description": "Find out about differences in sex development (DSDs), a group of rare conditions where the reproductive organs and genitals don't develop as expected. Some people prefer to use the term intersex.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:52:59+00:00",
+                "dateModified": "2023-04-04T11:56:31+00:00",
+                "lastReviewed": [
+                    "2023-03-16T01:00:00+00:00",
+                    "2026-03-16T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-16T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "intersex"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/differences-in-sex-development/",
+            "name": "Differences in sex development"
+        },
+        {
+            "description": "Find out about diverticular disease and diverticulitis, common conditions affecting the large intestine (bowel).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:59:37+00:00",
+                "dateModified": "2024-06-18T18:40:23+00:00",
+                "lastReviewed": [
+                    "2023-09-07T00:00:00+00:00",
+                    "2026-09-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-09-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diverticular-disease-and-diverticulitis/",
+            "name": "Diverticular disease and diverticulitis"
+        },
+        {
+            "description": "Dizziness is a common symptom that\u2019s not usually a sign of anything serious. Find out what you can do about it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T10:14:27+00:00",
+                "dateModified": "2023-04-28T12:55:35+00:00",
+                "lastReviewed": [
+                    "2023-04-21T11:19:00+00:00",
+                    "2026-04-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dizziness/",
+            "name": "Dizziness"
+        },
+        {
+            "description": "Find out about dry mouth, including what causes it and things you can do to help ease it yourself.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T10:58:37+00:00",
+                "dateModified": "2023-12-22T13:33:07+00:00",
+                "lastReviewed": [
+                    "2023-11-29T00:00:00+00:00",
+                    "2026-11-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dry-mouth/",
+            "name": "Dry mouth"
+        },
+        {
+            "description": "Find out more about dysarthria, which is where you have difficulty speaking because the muscles used for speech are weak.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:55:31+00:00",
+                "dateModified": "2024-06-18T11:00:22+00:00",
+                "lastReviewed": [
+                    "2023-02-17T00:00:00+00:00",
+                    "2026-02-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-17T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dysarthria/",
+            "name": "Dysarthria (difficulty speaking)"
+        },
+        {
+            "description": "Find out about dysentery, including the symptoms, when to see a GP, treatment, how to reduce your risk of getting it and how to avoid passing it on to others.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:16:44+00:00",
+                "dateModified": "2022-11-09T08:17:45+00:00",
+                "lastReviewed": [
+                    "2020-01-06T00:00:00+00:00",
+                    "2023-01-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-01-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dysentery/",
+            "name": "Dysentery"
+        },
+        {
+            "description": "Find out about earache and ear pain, a common condition, particularly in young children. It's not usually a sign of anything serious, but it can be painful.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T10:20:27+00:00",
+                "dateModified": "2024-01-31T09:03:32+00:00",
+                "lastReviewed": [
+                    "2022-04-29T00:00:00+00:00",
+                    "2025-04-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/earache/",
+            "name": "Earache"
+        },
+        {
+            "description": "Read about the signs of early or delayed puberty, what can cause it and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T19:56:48+00:00",
+                "dateModified": "2022-09-13T14:30:34+00:00",
+                "lastReviewed": [
+                    "2022-09-05T23:00:00+00:00",
+                    "2025-09-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-05T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Puberty (early or delayed)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/early-or-delayed-puberty/",
+            "name": "Early or delayed puberty"
+        },
+        {
+            "description": "Find out more about what problems a build-up of earwax can cause, why it happens, and what can be done about it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:10:00+00:00",
+                "dateModified": "2024-01-26T15:10:01+00:00",
+                "lastReviewed": [
+                    "2024-01-05T00:00:00+00:00",
+                    "2027-01-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/earwax-build-up/",
+            "name": "Earwax build-up"
+        },
+        {
+            "description": "Find out more about Ebola virus disease, a serious infection usually found in certain parts of Africa.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:03:29+00:00",
+                "dateModified": "2023-01-12T13:44:43+00:00",
+                "lastReviewed": [
+                    "2023-01-11T02:00:00+00:00",
+                    "2026-01-11T02:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-11T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ebola/",
+            "name": "Ebola virus disease"
+        },
+        {
+            "description": "Read about echocardiograms, including why they're done, what happens during the test, and what the risks are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T09:55:44+00:00",
+                "dateModified": "2023-05-18T11:05:19+00:00",
+                "lastReviewed": [
+                    "2022-03-28T00:00:00+00:00",
+                    "2025-03-28T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-28T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/echocardiogram/",
+            "name": "Echocardiogram"
+        },
+        {
+            "description": "Read about ectropion (a drooping lower eyelid). Find out what the symptoms are, what causes it, when to get medical advice and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:45:29+00:00",
+                "dateModified": "2024-04-02T07:16:05+00:00",
+                "lastReviewed": [
+                    "2021-07-26T00:00:00+00:00",
+                    "2024-07-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ectropion/",
+            "name": "Ectropion"
+        },
+        {
+            "description": "Edwards' syndrome, also known as trisomy 18, is a serious genetic condition caused by an additional copy of chromosome 18 in some or all of the cells in the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:46:58+00:00",
+                "dateModified": "2024-04-17T07:16:16+00:00",
+                "lastReviewed": [
+                    "2020-09-25T00:00:00+00:00",
+                    "2023-09-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-09-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/edwards-syndrome/",
+            "name": "Edwards' syndrome (trisomy 18)"
+        },
+        {
+            "description": "Ehlers-Danlos syndromes (EDS) are a group of rare inherited conditions that affect connective tissue. Find out about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:24:28+00:00",
+                "dateModified": "2023-11-24T17:49:54+00:00",
+                "lastReviewed": [
+                    "2022-10-03T23:00:00+00:00",
+                    "2025-10-03T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-03T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ehlers-danlos-syndromes/",
+            "name": "Ehlers-Danlos syndromes"
+        },
+        {
+            "description": "Ejaculation problems such as premature, delayed and retrograde ejaculation are a common cause of sexual problems in men.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T09:42:33+00:00",
+                "dateModified": "2024-05-08T16:10:23+00:00",
+                "lastReviewed": [
+                    "2023-02-09T01:00:00+00:00",
+                    "2026-02-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-09T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Premature ejaculation"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ejaculation-problems/",
+            "name": "Ejaculation problems"
+        },
+        {
+            "description": "Find out what you can do to treat a painful arm or elbow yourself, and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T09:51:42+00:00",
+                "dateModified": "2024-01-30T16:39:36+00:00",
+                "lastReviewed": [
+                    "2024-01-26T18:00:00+00:00",
+                    "2027-01-26T18:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-26T18:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/elbow-and-arm-pain/",
+            "name": "Elbow and arm pain"
+        },
+        {
+            "description": "Find out more about ECGs (electrocardiograms), including why they're done, the different types, and what happens.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T10:18:23+00:00",
+                "dateModified": "2024-02-19T09:41:38+00:00",
+                "lastReviewed": [
+                    "2023-11-09T01:00:00+00:00",
+                    "2026-11-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-09T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/electrocardiogram/",
+            "name": "Electrocardiogram (ECG)"
+        },
+        {
+            "description": "Find out about an electroencephalogram (EEG), which records brain activity, and when this type of test may be used.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T09:46:42+00:00",
+                "dateModified": "2023-08-22T10:40:49+00:00",
+                "lastReviewed": [
+                    "2022-01-05T04:00:00+00:00",
+                    "2025-01-05T04:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-05T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/electroencephalogram/",
+            "name": "Electroencephalogram (EEG)"
+        },
+        {
+            "description": "Find out why and when an electrolyte test may be needed. Also, read about the possible treatments that may be recommended if you have an electrolyte imbalance.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2018-08-29T14:19:41+00:00",
+                "dateModified": "2022-03-17T11:33:12+00:00",
+                "lastReviewed": [
+                    "2022-03-15T01:00:00+00:00",
+                    "2025-03-15T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-15T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/electrolyte-test/",
+            "name": "Electrolyte test"
+        },
+        {
+            "description": "Read more about emollients, which are moisturising treatments applied directly to the skin. They're often used to treat skin conditions like eczema.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T14:01:06+00:00",
+                "dateModified": "2023-10-25T10:22:06+00:00",
+                "lastReviewed": [
+                    "2023-10-24T00:00:00+00:00",
+                    "2026-10-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/emollients/",
+            "name": "Emollients"
+        },
+        {
+            "description": "Empyema is the medical term for pockets of pus that have collected inside a body cavity. They can form if a bacterial infection is left untreated, or if it fails to fully respond to treatment. The term empyema is most commonly used to refer to pus-filled pockets that develop in the pleural space. This is the slim space between the outside of the lungs and the inside of the chest cavity.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:52:34+00:00",
+                "dateModified": "2022-05-19T13:02:22+00:00",
+                "lastReviewed": [
+                    "2022-01-12T00:00:00+00:00",
+                    "2025-01-12T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-12T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/empyema/",
+            "name": "Empyema"
+        },
+        {
+            "description": "Find out about the different types of endoscopy. The type of endoscopy you have will depend on your symptoms.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T11:53:17+00:00",
+                "dateModified": "2024-02-14T09:36:56+00:00",
+                "lastReviewed": [
+                    "2022-02-08T12:27:00+00:00",
+                    "2025-02-08T12:27:00+00:00"
+                ],
+                "reviewDue": "2025-02-08T12:27:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/endoscopy/",
+            "name": "Endoscopy"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=5",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=6",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

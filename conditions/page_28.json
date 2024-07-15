@@ -1,0 +1,813 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about osteomyelitis, including who's most at risk of getting it, what the symptoms are, what to do if you think you have it, and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-21T12:58:01+00:00",
+                "dateModified": "2023-08-18T15:08:57+00:00",
+                "lastReviewed": [
+                    "2023-08-16T00:00:00+00:00",
+                    "2026-08-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-16T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/osteomyelitis/",
+            "name": "Osteomyelitis"
+        },
+        {
+            "description": "Osteopathy is a way of detecting, treating and preventing health problems by moving, stretching and massaging a person's muscles and joints.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-12-04T13:40:07+00:00",
+                "dateModified": "2022-07-01T15:45:48+00:00",
+                "lastReviewed": [
+                    "2021-08-09T00:00:00+00:00",
+                    "2024-08-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/osteopathy/",
+            "name": "Osteopathy"
+        },
+        {
+            "description": "Find out about osteoporosis, a health condition that weakens bones, making them fragile and more likely to break. There is also information on osteopenia, the stage of bone loss before osteoporosis, and how to stop it becoming osteoporosis.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T20:05:27+00:00",
+                "dateModified": "2024-04-17T07:19:31+00:00",
+                "lastReviewed": [
+                    "2022-10-13T00:00:00+00:00",
+                    "2025-10-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/osteoporosis/",
+            "name": "Osteoporosis"
+        },
+        {
+            "description": "Read more about ovarian cancer, including symptoms, treatments and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T14:12:16+00:00",
+                "dateModified": "2024-01-05T13:02:53+00:00",
+                "lastReviewed": [
+                    "2022-01-24T02:00:00+00:00",
+                    "2025-01-24T03:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-24T03:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ovarian-cancer/",
+            "name": "Ovarian cancer"
+        },
+        {
+            "description": "Read about an ovarian cyst, a fluid-filled sac that develops on a woman's ovary. They're very common and do not usually cause any symptoms",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:07:05+00:00",
+                "dateModified": "2023-06-28T14:39:10+00:00",
+                "lastReviewed": [
+                    "2023-06-20T23:00:00+00:00",
+                    "2026-06-20T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-20T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ovarian-cyst/",
+            "name": "Ovarian cyst"
+        },
+        {
+            "description": "Find out about overactive thyroid (hyperthyroidism), including what the symptoms are, when to see a GP,  how it's treated and why it happens.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T11:10:09+00:00",
+                "dateModified": "2023-04-18T10:22:01+00:00",
+                "lastReviewed": [
+                    "2023-04-11T00:00:00+00:00",
+                    "2026-04-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-11T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hyperthyroidism"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
+            "name": "Overactive thyroid (hyperthyroidism)"
+        },
+        {
+            "description": "Find out what a pacemaker is, how it works, why you might need it, and how it's implanted.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-20T08:45:54+00:00",
+                "dateModified": "2023-01-18T16:06:55+00:00",
+                "lastReviewed": [
+                    "2022-07-26T00:00:00+00:00",
+                    "2025-07-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pacemaker-implantation/",
+            "name": "Pacemaker implantation"
+        },
+        {
+            "description": "Find out about Paget's disease of bone, a condition where the normal cycle of bone renewal and repair is disrupted.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T16:42:37+00:00",
+                "dateModified": "2023-05-18T14:13:43+00:00",
+                "lastReviewed": [
+                    "2023-04-03T23:00:00+00:00",
+                    "2026-04-03T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-03T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pagets-disease-bone/",
+            "name": "Paget's disease of bone"
+        },
+        {
+            "description": "Find out about Paget's disease of the nipple (Paget's disease of the breast). It's a rare condition where eczema-like changes occur in the skin of the nipple and areola.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:03:40+00:00",
+                "dateModified": "2023-04-20T14:00:38+00:00",
+                "lastReviewed": [
+                    "2023-04-06T00:00:00+00:00",
+                    "2026-04-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pagets-disease-nipple/",
+            "name": "Paget's disease of the nipple"
+        },
+        {
+            "description": "Find out about paralysis, including symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T15:37:44+00:00",
+                "dateModified": "2024-06-18T15:57:59+00:00",
+                "lastReviewed": [
+                    "2023-07-16T23:00:00+00:00",
+                    "2026-07-16T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-16T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/paralysis/",
+            "name": "Paralysis"
+        },
+        {
+            "description": "Read about Parkinson's disease, a condition in which parts of the brain become progressively damaged over many years.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:30:00+00:00",
+                "dateModified": "2024-04-17T11:48:55+00:00",
+                "lastReviewed": [
+                    "2022-11-03T01:00:00+00:00",
+                    "2025-11-03T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-03T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/parkinsons-disease/",
+            "name": "Parkinson's disease"
+        },
+        {
+            "description": "Pelvic inflammatory disease (PID) is an infection of the female reproductive system, including the womb, fallopian tubes and ovaries.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-08-14T10:58:05+00:00",
+                "dateModified": "2024-03-11T12:14:39+00:00",
+                "lastReviewed": [
+                    "2022-01-27T01:00:00+00:00",
+                    "2025-01-27T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-27T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pelvic-inflammatory-disease-pid/",
+            "name": "Pelvic inflammatory disease"
+        },
+        {
+            "description": "Pelvic organ prolapse (POP) is bulging of 1 or more of the pelvic organs into the vagina.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:50:53+00:00",
+                "dateModified": "2024-03-07T16:23:43+00:00",
+                "lastReviewed": [
+                    "2021-03-24T01:00:00+00:00",
+                    "2024-03-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-24T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Prolapse (pelvic organ)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pelvic-organ-prolapse/",
+            "name": "Pelvic organ prolapse"
+        },
+        {
+            "description": "Find out about pemphigus vulgaris, including what the symptoms are, how it\u2019s treated and why it happens.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:05:27+00:00",
+                "dateModified": "2023-03-17T12:21:46+00:00",
+                "lastReviewed": [
+                    "2022-05-30T00:00:00+00:00",
+                    "2025-05-30T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-30T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pemphigus-vulgaris/",
+            "name": "Pemphigus vulgaris"
+        },
+        {
+            "description": "NHS information about perforated eardrum, including symptoms, when to get medical help, treatments and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:04:06+00:00",
+                "dateModified": "2023-04-25T07:43:28+00:00",
+                "lastReviewed": [
+                    "2023-04-19T00:00:00+00:00",
+                    "2026-04-19T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-19T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eardrum (burst)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/perforated-eardrum/",
+            "name": "Perforated eardrum"
+        },
+        {
+            "description": "Find out about pericarditis, including symptoms, when to get help, treatment and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:33:45+00:00",
+                "dateModified": "2024-06-14T14:25:19+00:00",
+                "lastReviewed": [
+                    "2023-07-17T02:00:00+00:00",
+                    "2026-07-17T03:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-17T03:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pericarditis/",
+            "name": "Pericarditis"
+        },
+        {
+            "description": "Read about peripheral arterial disease (PAD), a common condition in which a build-up of fatty deposits in the arteries restricts blood supply to leg muscles.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:38:08+00:00",
+                "dateModified": "2023-03-20T16:20:40+00:00",
+                "lastReviewed": [
+                    "2023-03-20T00:00:00+00:00",
+                    "2026-03-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/peripheral-arterial-disease-pad/",
+            "name": "Peripheral arterial disease (PAD)"
+        },
+        {
+            "description": "Find out about peripheral neuropathy, a term for a group of conditions in which the peripheral nervous system is damaged.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:28:50+00:00",
+                "dateModified": "2022-10-12T14:13:04+00:00",
+                "lastReviewed": [
+                    "2022-10-10T00:00:00+00:00",
+                    "2025-10-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-10T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/peripheral-neuropathy/",
+            "name": "Peripheral neuropathy"
+        },
+        {
+            "description": "Find out about peritonitis, which is inflammation of the thin layer of tissue that lines the inside of your abdomen (tummy), called the peritoneum.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-12-19T12:13:06+00:00",
+                "dateModified": "2023-08-04T14:50:55+00:00",
+                "lastReviewed": [
+                    "2023-08-01T12:06:00+00:00",
+                    "2026-08-01T12:06:00+00:00"
+                ],
+                "reviewDue": "2026-08-01T12:06:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/peritonitis/",
+            "name": "Peritonitis"
+        },
+        {
+            "description": "Read about physiotherapy, including why it's used, what it involves and how you can access it on the NHS or privately.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T14:14:29+00:00",
+                "dateModified": "2022-12-13T15:06:07+00:00",
+                "lastReviewed": [
+                    "2022-12-09T00:00:00+00:00",
+                    "2025-12-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/physiotherapy/",
+            "name": "Physiotherapy"
+        },
+        {
+            "description": "Find out about piles (haemorrhoids), including what the symptoms are, how they're treated and what causes them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:46:00+00:00",
+                "dateModified": "2024-06-14T14:30:25+00:00",
+                "lastReviewed": [
+                    "2022-03-28T00:00:00+00:00",
+                    "2025-03-28T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-28T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Haemorrhoids"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/piles-haemorrhoids/",
+            "name": "Piles (haemorrhoids)"
+        },
+        {
+            "description": "NHS information about pilonidal sinus, which is a small hole or tunnel in the skin at the top of your bottom. Find out what the symptoms are and when to see a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-11T11:31:18+00:00",
+                "dateModified": "2023-11-22T17:29:00+00:00",
+                "lastReviewed": [
+                    "2023-11-16T12:00:00+00:00",
+                    "2026-11-16T12:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-16T12:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pilonidal-sinus/",
+            "name": "Pilonidal sinus"
+        },
+        {
+            "description": "Read NHS information about plastic surgery, which is a type of surgery that repairs and reconstructs missing or damaged tissue and skin.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T15:38:55+00:00",
+                "dateModified": "2024-04-30T06:59:42+00:00",
+                "lastReviewed": [
+                    "2021-08-03T00:00:00+00:00",
+                    "2024-08-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-03T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/plastic-surgery/",
+            "name": "Plastic surgery"
+        },
+        {
+            "description": "Find out about pneumonia, including what the symptoms are, where to get medical help, what the treatments are, what causes it and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:40:12+00:00",
+                "dateModified": "2024-06-19T13:57:46+00:00",
+                "lastReviewed": [
+                    "2023-01-12T01:00:00+00:00",
+                    "2026-01-12T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-12T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pneumonia/",
+            "name": "Pneumonia"
+        },
+        {
+            "description": "Read about the signs and symptoms of poisoning and find out what to do if you think someone has been poisoned.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-23T14:17:04+00:00",
+                "dateModified": "2023-11-13T08:50:18+00:00",
+                "lastReviewed": [
+                    "2021-09-10T00:00:00+00:00",
+                    "2024-09-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-10T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/poisoning/",
+            "name": "Poisoning"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=28",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=29",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

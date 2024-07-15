@@ -1,0 +1,821 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about retinal migraine, a type of migraine that affects 1 eye, causing temporary vision loss and other eye symptoms.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:04:56+00:00",
+                "dateModified": "2024-06-19T14:04:20+00:00",
+                "lastReviewed": [
+                    "2023-01-19T01:00:00+00:00",
+                    "2026-01-19T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-19T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/retinal-migraine/",
+            "name": "Retinal migraine"
+        },
+        {
+            "description": "Read about Rett syndrome, a rare genetic disorder that affects brain development and causes severe physical and mental disability from early childhood.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:13:47+00:00",
+                "dateModified": "2023-09-20T16:27:38+00:00",
+                "lastReviewed": [
+                    "2023-03-17T01:00:00+00:00",
+                    "2026-03-17T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-17T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/rett-syndrome/",
+            "name": "Rett syndrome"
+        },
+        {
+            "description": "Find out about Reye's syndrome, including what the symptoms are, when to get medical help, how it's treated and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:01:55+00:00",
+                "dateModified": "2023-09-18T10:22:15+00:00",
+                "lastReviewed": [
+                    "2023-09-13T23:00:00+00:00",
+                    "2026-09-13T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-09-13T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/reyes-syndrome/",
+            "name": "Reye's syndrome"
+        },
+        {
+            "description": "Find out about the childhood infection roseola, including what the symptoms are, how to treat it and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T12:48:27+00:00",
+                "dateModified": "2024-06-14T14:52:57+00:00",
+                "lastReviewed": [
+                    "2023-02-17T16:00:00+00:00",
+                    "2026-02-17T16:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-17T16:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/roseola/",
+            "name": "Roseola"
+        },
+        {
+            "description": "Read about salivary gland stones (calculi), which are small stones that can form in your mouth. Find out how to try to remove them and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:29:47+00:00",
+                "dateModified": "2023-08-23T14:32:18+00:00",
+                "lastReviewed": [
+                    "2023-08-14T00:00:00+00:00",
+                    "2026-08-14T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-14T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/salivary-gland-stones/",
+            "name": "Salivary gland stones"
+        },
+        {
+            "description": "Sarcoidosis is a rare condition that causes small patches of swollen tissue, called granulomas, to develop in the organs of the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T12:52:37+00:00",
+                "dateModified": "2023-06-14T16:00:19+00:00",
+                "lastReviewed": [
+                    "2022-10-06T00:00:00+00:00",
+                    "2025-10-06T15:57:00+00:00"
+                ],
+                "reviewDue": "2025-10-06T15:57:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sarcoidosis/",
+            "name": "Sarcoidosis"
+        },
+        {
+            "description": "Find out about scarlet fever, including the symptoms, what to do if you or your child has it, how it's treated, how long it lasts and how it's spread.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:55:10+00:00",
+                "dateModified": "2024-03-12T09:00:35+00:00",
+                "lastReviewed": [
+                    "2021-06-28T23:00:00+00:00",
+                    "2024-06-28T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-28T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/scarlet-fever/",
+            "name": "Scarlet fever"
+        },
+        {
+            "description": "Read about schistosomiasis, also known as bilharzia, an infection caused by a parasitic worm that lives in fresh water in subtropical and tropical regions.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:16:56+00:00",
+                "dateModified": "2022-01-19T15:12:34+00:00",
+                "lastReviewed": [
+                    "2021-12-17T00:00:00+00:00",
+                    "2024-12-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-17T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Bilharzia"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/schistosomiasis/",
+            "name": "Schistosomiasis (bilharzia)"
+        },
+        {
+            "description": "Read about scleroderma, including the different types, symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T12:06:16+00:00",
+                "dateModified": "2023-03-31T12:46:30+00:00",
+                "lastReviewed": [
+                    "2023-03-24T01:00:00+00:00",
+                    "2026-03-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-24T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/scleroderma/",
+            "name": "Scleroderma"
+        },
+        {
+            "description": "Read about septic arthritis, which is a serious type of joint infection that should be treated straight away.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:02:53+00:00",
+                "dateModified": "2023-04-04T14:57:36+00:00",
+                "lastReviewed": [
+                    "2023-03-23T00:00:00+00:00",
+                    "2026-03-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-23T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/septic-arthritis/",
+            "name": "Septic arthritis"
+        },
+        {
+            "description": "Find out more about sexually transmitted infections (STIs), including possible symptoms, common types of STI and when to go to a sexual health clinic.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:45:32+00:00",
+                "dateModified": "2024-05-14T10:26:01+00:00",
+                "lastReviewed": [
+                    "2024-05-13T00:00:00+00:00",
+                    "2027-05-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sexually-transmitted-infections-stis/",
+            "name": "Sexually transmitted infections (STIs)"
+        },
+        {
+            "description": "Find out what shin splints are, how they happen, and what you can do about them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:14:57+00:00",
+                "dateModified": "2023-11-28T11:37:02+00:00",
+                "lastReviewed": [
+                    "2023-02-09T00:00:00+00:00",
+                    "2026-02-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-09T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Shin pain (shin splints)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/shin-splints/",
+            "name": "Shin splints"
+        },
+        {
+            "description": "NHS information about shortness of breath, or breathlessness, including when to get medical help and what the cause might be.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T14:22:09+00:00",
+                "dateModified": "2024-06-14T16:28:59+00:00",
+                "lastReviewed": [
+                    "2024-01-30T01:00:00+00:00",
+                    "2027-01-30T01:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-30T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/shortness-of-breath/",
+            "name": "Shortness of breath"
+        },
+        {
+            "description": "Shoulder impingement is a common cause of shoulder pain. Find out about the symptoms, causes and treatments for it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:25:27+00:00",
+                "dateModified": "2023-03-07T16:19:28+00:00",
+                "lastReviewed": [
+                    "2020-04-29T00:00:00+00:00",
+                    "2023-04-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-04-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/shoulder-impingement-syndrome/",
+            "name": "Shoulder impingement"
+        },
+        {
+            "description": "Find out about sick building syndrome (SBS), including symptoms, things you can do to ease symptoms and possible causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:44:00+00:00",
+                "dateModified": "2023-08-02T12:13:43+00:00",
+                "lastReviewed": [
+                    "2023-07-24T02:00:00+00:00",
+                    "2026-07-24T04:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-24T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sick-building-syndrome/",
+            "name": "Sick building syndrome"
+        },
+        {
+            "description": "Find out about silicosis, a long-term lung disease caused by inhaling large amounts of crystalline silica dust, usually over many years.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:29:06+00:00",
+                "dateModified": "2024-04-08T12:11:04+00:00",
+                "lastReviewed": [
+                    "2024-01-23T01:00:00+00:00",
+                    "2027-01-23T01:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-23T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/silicosis/",
+            "name": "Silicosis"
+        },
+        {
+            "description": "Find out about skin cysts, which are round, fluid-filled lumps under the skin. Read about the symptoms, treatments, types and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:18:25+00:00",
+                "dateModified": "2023-05-11T12:08:52+00:00",
+                "lastReviewed": [
+                    "2023-05-09T00:00:00+00:00",
+                    "2026-05-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/skin-cyst/",
+            "name": "Skin cyst"
+        },
+        {
+            "description": "Find out about skin tags, including what they look like, when and where to get medical help and how they\u2019re treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:21:19+00:00",
+                "dateModified": "2023-04-14T15:52:56+00:00",
+                "lastReviewed": [
+                    "2023-04-12T23:00:00+00:00",
+                    "2026-04-12T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-12T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/skin-tags/",
+            "name": "Skin tags"
+        },
+        {
+            "description": "Find out about slapped cheek syndrome (also called fifth disease), including symptoms and how to treat it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:26:18+00:00",
+                "dateModified": "2024-04-23T14:50:59+00:00",
+                "lastReviewed": [
+                    "2024-04-18T01:00:00+00:00",
+                    "2027-04-18T02:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-18T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/slapped-cheek-syndrome/",
+            "name": "Slapped cheek syndrome"
+        },
+        {
+            "description": "Read about sleepwalking, including why it might happen, what you can do about it and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:14:43+00:00",
+                "dateModified": "2024-01-08T08:50:12+00:00",
+                "lastReviewed": [
+                    "2021-10-05T00:00:00+00:00",
+                    "2024-10-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sleepwalking/",
+            "name": "Sleepwalking"
+        },
+        {
+            "description": "Find out about smelly urine, which on its own is not usually a cause for concern. Find out what can cause smelly pee and how to keep it clear and smelling mild.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T16:09:42+00:00",
+                "dateModified": "2023-10-20T10:46:07+00:00",
+                "lastReviewed": [
+                    "2023-10-16T00:00:00+00:00",
+                    "2026-10-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-16T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Urine (smelly)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/smelly-urine/",
+            "name": "Smelly urine"
+        },
+        {
+            "description": "Find out about what to do if you or someone you know is bitten by a snake.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T16:13:00+00:00",
+                "dateModified": "2024-06-14T15:06:47+00:00",
+                "lastReviewed": [
+                    "2023-02-07T15:05:00+00:00",
+                    "2026-02-07T15:05:00+00:00"
+                ],
+                "reviewDue": "2026-02-07T15:05:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/snake-bites/",
+            "name": "Snake bites"
+        },
+        {
+            "description": "Find out how to look after your lips when they're exposed to the sun, wind and cold.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T14:13:40+00:00",
+                "dateModified": "2022-03-10T13:47:51+00:00",
+                "lastReviewed": [
+                    "2021-12-23T00:00:00+00:00",
+                    "2024-12-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-23T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sore lips",
+                    "Dry lips",
+                    "Lips (sore or dry)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sore-or-dry-lips/",
+            "name": "Sore or dry lips"
+        },
+        {
+            "description": "Find out how to treat a sore or white tongue and read about the possible causes such as geographic tongue, oral thrush and mouth ulcers.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T16:20:52+00:00",
+                "dateModified": "2023-06-12T11:18:54+00:00",
+                "lastReviewed": [
+                    "2023-05-16T00:00:00+00:00",
+                    "2026-05-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-16T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Tongue (sore or white)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sore-or-white-tongue/",
+            "name": "Sore or white tongue"
+        },
+        {
+            "description": "Find out what can cause a sore throat, how you can soothe it and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T16:15:18+00:00",
+                "dateModified": "2024-06-14T16:17:24+00:00",
+                "lastReviewed": [
+                    "2024-04-07T23:00:00+00:00",
+                    "2027-04-07T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-07T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Throat (sore)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sore-throat/",
+            "name": "Sore throat"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=13",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=14",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

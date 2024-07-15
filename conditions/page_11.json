@@ -1,0 +1,816 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Read all about norovirus, including how it's spread, what the symptoms are, when to get medical advice and how to stop it spreading.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:12:59+00:00",
+                "dateModified": "2024-06-17T15:01:20+00:00",
+                "lastReviewed": [
+                    "2021-06-16T23:00:00+00:00",
+                    "2024-06-16T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-16T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Vomiting bug",
+                    "Winter vomiting bug"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/norovirus/",
+            "name": "Norovirus (vomiting bug)"
+        },
+        {
+            "description": "Read about non-steroidal anti-inflammatory drugs (NSAIDs), a medicine used for relieving pain, reducing inflammation, and bringing down a high temperature.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-19T13:07:29+00:00",
+                "dateModified": "2023-02-24T16:28:39+00:00",
+                "lastReviewed": [
+                    "2022-10-06T23:00:00+00:00",
+                    "2025-10-06T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-06T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/nsaids/",
+            "name": "NSAIDs"
+        },
+        {
+            "description": "Find out about swelling in the ankles, feet and legs (oedema), including what it looks like, common causes and what to do about it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:28:44+00:00",
+                "dateModified": "2024-06-14T14:23:56+00:00",
+                "lastReviewed": [
+                    "2022-01-18T00:00:00+00:00",
+                    "2025-01-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/oedema/",
+            "name": "Swollen ankles, feet and legs (oedema)"
+        },
+        {
+            "description": "Oesophageal atresia is a rare birth defect that affects a baby's oesophagus (the tube through which food passes from the mouth to the stomach).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:23:06+00:00",
+                "dateModified": "2022-10-10T10:13:16+00:00",
+                "lastReviewed": [
+                    "2021-08-25T00:00:00+00:00",
+                    "2024-08-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/oesophageal-atresia/",
+            "name": "Oesophageal atresia and tracheo-oesophageal fistula"
+        },
+        {
+            "description": "Find out about orf, including what the symptoms are and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:10:04+00:00",
+                "dateModified": "2022-02-28T16:11:51+00:00",
+                "lastReviewed": [
+                    "2022-02-24T00:00:00+00:00",
+                    "2025-02-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/orf/",
+            "name": "Orf"
+        },
+        {
+            "description": "Find out about osteophytes (bone spurs), which are bony lumps that form near joints.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:17:23+00:00",
+                "dateModified": "2023-03-15T14:12:46+00:00",
+                "lastReviewed": [
+                    "2022-12-22T01:00:00+00:00",
+                    "2025-12-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-22T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/osteophyte/",
+            "name": "Osteophyte (bone spur)"
+        },
+        {
+            "description": "Find out about otosclerosis, what the symptoms are, what to do if you think you have it, what the causes are, and what treatments are available.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:12:48+00:00",
+                "dateModified": "2023-01-12T14:15:07+00:00",
+                "lastReviewed": [
+                    "2023-01-09T01:00:00+00:00",
+                    "2026-01-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-09T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/otosclerosis/",
+            "name": "Otosclerosis"
+        },
+        {
+            "description": "NHS information about ovulation pain, including symptoms, treatments and when to get help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T13:20:49+00:00",
+                "dateModified": "2024-03-11T16:26:59+00:00",
+                "lastReviewed": [
+                    "2023-01-30T02:00:00+00:00",
+                    "2026-01-30T02:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-30T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ovulation-pain/",
+            "name": "Ovulation pain"
+        },
+        {
+            "description": "Find out about Patau's syndrome, also known as trisomy 13, a serious genetic disorder where a baby has an extra copy of chromosome 13.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T12:42:56+00:00",
+                "dateModified": "2023-07-21T09:53:33+00:00",
+                "lastReviewed": [
+                    "2023-07-18T00:00:00+00:00",
+                    "2026-07-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pataus-syndrome/",
+            "name": "Patau's syndrome"
+        },
+        {
+            "description": "Peak flow is a simple measurement of how quickly you can blow air out of your lungs. Read about why and how it's measured.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T12:41:34+00:00",
+                "dateModified": "2023-06-14T15:24:58+00:00",
+                "lastReviewed": [
+                    "2022-07-05T23:00:00+00:00",
+                    "2025-07-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/peak-flow-test/",
+            "name": "Peak flow test"
+        },
+        {
+            "description": "Find out about common causes of pelvic pain in adults, how you can ease pelvic pain and when you should get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T13:16:23+00:00",
+                "dateModified": "2024-02-21T11:39:09+00:00",
+                "lastReviewed": [
+                    "2022-03-17T03:00:00+00:00",
+                    "2025-03-17T04:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-17T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pelvic-pain/",
+            "name": "Pelvic pain"
+        },
+        {
+            "description": "Find out about period pain, including symptoms, causes, when to see a GP, diagnosing underlying conditions, and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T13:43:22+00:00",
+                "dateModified": "2024-03-11T12:20:39+00:00",
+                "lastReviewed": [
+                    "2022-07-29T00:00:00+00:00",
+                    "2025-07-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-29T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Menstrual pain",
+                    "Painful periods"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/period-pain/",
+            "name": "Period pain"
+        },
+        {
+            "description": "Find out about periods, including when they usually start and finish, sanitary products, PMS, getting pregnant, and changes to your periods.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-19T13:29:14+00:00",
+                "dateModified": "2024-05-23T16:32:14+00:00",
+                "lastReviewed": [
+                    "2023-01-05T01:00:00+00:00",
+                    "2026-01-05T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-05T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/periods/",
+            "name": "Periods"
+        },
+        {
+            "description": "Find out more about persistent trophoblastic disease and choriocarcinoma, part of a very rare group of tumours called gestational trophoblastic tumours (GTTs).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:26:18+00:00",
+                "dateModified": "2023-09-14T11:38:54+00:00",
+                "lastReviewed": [
+                    "2021-03-22T00:00:00+00:00",
+                    "2024-03-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/persistent-trophoblastic-disease-choriocarcinoma/",
+            "name": "Persistent trophoblastic disease and choriocarcinoma"
+        },
+        {
+            "description": "Find out about positron emission tomography (PET) scans and how these three-dimensional images of the inside of the body can be used.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-24T10:02:52+00:00",
+                "dateModified": "2024-01-29T09:04:21+00:00",
+                "lastReviewed": [
+                    "2021-03-17T08:00:00+00:00",
+                    "2024-03-17T13:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-17T13:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pet-scan/",
+            "name": "PET scan"
+        },
+        {
+            "description": "Read about phaeochromocytoma, a rare tumour of the adrenal glands, which sit above the kidneys. They're usually benign (non-cancerous), although some are cancerous.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:28:37+00:00",
+                "dateModified": "2024-01-12T17:03:33+00:00",
+                "lastReviewed": [
+                    "2024-01-03T00:00:00+00:00",
+                    "2027-01-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-03T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/phaeochromocytoma/",
+            "name": "Phaeochromocytoma"
+        },
+        {
+            "description": "Find out about phenylketonuria (PKU), a rare genetic condition that's present from birth (congenital), where the body is unable to break down phenylalanine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:22:19+00:00",
+                "dateModified": "2023-04-06T14:24:08+00:00",
+                "lastReviewed": [
+                    "2023-04-04T11:26:00+00:00",
+                    "2026-04-04T11:26:00+00:00"
+                ],
+                "reviewDue": "2026-04-04T11:26:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/phenylketonuria/",
+            "name": "Phenylketonuria"
+        },
+        {
+            "description": "Find out about tight foreskin (phimosis), including what you can do to ease a tight foreskin and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:36:22+00:00",
+                "dateModified": "2024-06-14T14:28:21+00:00",
+                "lastReviewed": [
+                    "2022-04-11T00:00:00+00:00",
+                    "2025-04-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-11T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Foreskin problems",
+                    "Phimosis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/phimosis/",
+            "name": "Tight foreskin (phimosis)"
+        },
+        {
+            "description": "Find out about phlebitis (superficial thrombophlebitis), including what the symptoms are, what causes it, when to get medical help and how it\u2019s treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T13:38:50+00:00",
+                "dateModified": "2023-02-13T08:38:21+00:00",
+                "lastReviewed": [
+                    "2022-12-20T01:00:00+00:00",
+                    "2025-12-20T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-20T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Superficial thrombophlebitis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/phlebitis/",
+            "name": "Phlebitis (superficial thrombophlebitis)"
+        },
+        {
+            "description": "Find out when a phosphate test may be needed and what it's used for.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-19T13:39:29+00:00",
+                "dateModified": "2022-07-11T14:08:53+00:00",
+                "lastReviewed": [
+                    "2022-07-05T23:00:00+00:00",
+                    "2025-07-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/phosphate-test/",
+            "name": "Phosphate test"
+        },
+        {
+            "description": "Find out what photodynamic therapy (PDT) involves, when it's used and the risks you should be aware of.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-19T13:37:00+00:00",
+                "dateModified": "2023-10-18T09:18:49+00:00",
+                "lastReviewed": [
+                    "2023-03-30T23:00:00+00:00",
+                    "2026-03-30T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-30T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/photodynamic-therapy/",
+            "name": "Photodynamic therapy (PDT)"
+        },
+        {
+            "description": "Read about pins and needles (paraesthesia), a pricking, burning, tingling or numbing sensation that's usually felt in the arms, legs, hands or feet.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-27T14:14:42+00:00",
+                "dateModified": "2024-01-11T14:47:04+00:00",
+                "lastReviewed": [
+                    "2024-01-04T00:00:00+00:00",
+                    "2027-01-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pins-and-needles/",
+            "name": "Pins and needles"
+        },
+        {
+            "description": "Find out about faulty PIP breast implants, including why they are banned, and the latest safety information on removal and replacement.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-19T13:35:20+00:00",
+                "dateModified": "2022-12-02T16:46:49+00:00",
+                "lastReviewed": [
+                    "2022-12-01T00:00:00+00:00",
+                    "2025-12-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pip-implants/",
+            "name": "PIP breast implants"
+        },
+        {
+            "description": "Find out about pityriasis rosea, including what the symptoms are and what to do if it's uncomfortable or itchy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T14:12:48+00:00",
+                "dateModified": "2024-02-07T12:37:51+00:00",
+                "lastReviewed": [
+                    "2023-09-06T23:00:00+00:00",
+                    "2026-09-06T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-09-06T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pityriasis-rosea/",
+            "name": "Pityriasis rosea"
+        },
+        {
+            "description": "Find out about pityriasis versicolor (sometimes called tinea versicolor), including what the symptoms are, how it\u2019s treated and how you get it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:08:04+00:00",
+                "dateModified": "2022-03-21T14:47:50+00:00",
+                "lastReviewed": [
+                    "2022-03-15T01:00:00+00:00",
+                    "2025-03-15T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-15T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pityriasis-versicolor/",
+            "name": "Pityriasis versicolor"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=11",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=12",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

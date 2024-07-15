@@ -1,0 +1,835 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about hepatitis B, what causes it, how it\u2019s prevented, what the symptoms are, how it is treated and what the complications may be.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:49:34+00:00",
+                "dateModified": "2024-05-21T14:31:41+00:00",
+                "lastReviewed": [
+                    "2022-06-30T23:00:00+00:00",
+                    "2025-06-30T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-30T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hepatitis-b/",
+            "name": "Hepatitis B"
+        },
+        {
+            "description": "Read about hepatitis C, a virus that can infect and damage the liver. Find out about the symptoms, causes and treatments for the condition.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T14:41:41+00:00",
+                "dateModified": "2024-05-21T14:31:10+00:00",
+                "lastReviewed": [
+                    "2021-10-27T00:00:00+00:00",
+                    "2024-10-27T12:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-27T12:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hepatitis-c/",
+            "name": "Hepatitis C"
+        },
+        {
+            "description": "Find out what causes a hiatus hernia, which is when part of your stomach moves up into your chest, and how to treat it if needed.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:25:04+00:00",
+                "dateModified": "2024-05-14T15:26:58+00:00",
+                "lastReviewed": [
+                    "2024-05-07T23:00:00+00:00",
+                    "2027-05-07T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-07T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hernia (hiatus)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hiatus-hernia/",
+            "name": "Hiatus hernia"
+        },
+        {
+            "description": "Find out about things you can do yourself to stop or prevent hiccups.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-11-13T14:39:24+00:00",
+                "dateModified": "2023-06-27T09:22:30+00:00",
+                "lastReviewed": [
+                    "2023-06-23T00:00:00+00:00",
+                    "2026-06-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-23T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hiccups/",
+            "name": "Hiccups"
+        },
+        {
+            "description": "Find everything you need to know about high blood pressure, including causes, symptoms, diagnosis and treatment, with links to other useful resources.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:00:30+00:00",
+                "dateModified": "2023-11-06T15:32:37+00:00",
+                "lastReviewed": [
+                    "2023-07-11T00:00:00+00:00",
+                    "2026-07-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-11T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hypertension",
+                    "Blood pressure (high)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/high-blood-pressure-hypertension/",
+            "name": "High blood pressure (hypertension)"
+        },
+        {
+            "description": "Find out what cholesterol is, what causes high cholesterol, why it's important to keep your cholesterol levels under control, and how to lower your cholesterol.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:47:04+00:00",
+                "dateModified": "2023-12-29T13:17:31+00:00",
+                "lastReviewed": [
+                    "2022-07-13T00:00:00+00:00",
+                    "2025-07-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-13T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Cholesterol (high)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/high-cholesterol/",
+            "name": "High cholesterol"
+        },
+        {
+            "description": "NHS information about broken hip (hip fracture) including what the symptoms are, how it's treated and recovery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition",
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-23T12:22:24+00:00",
+                "dateModified": "2024-06-18T10:52:16+00:00",
+                "lastReviewed": [
+                    "2023-02-08T03:00:00+00:00",
+                    "2026-02-08T03:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-08T03:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-hip/",
+            "name": "Broken hip"
+        },
+        {
+            "description": "Find out about excessive hair growth (hirsutism), including when to see a GP and information about treatments and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-20T08:34:00+00:00",
+                "dateModified": "2023-01-26T17:20:48+00:00",
+                "lastReviewed": [
+                    "2022-03-15T01:00:00+00:00",
+                    "2025-03-15T14:41:00+00:00"
+                ],
+                "reviewDue": "2025-03-15T14:41:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "hirsutism"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hirsutism/",
+            "name": "Excessive hair growth (hirsutism)"
+        },
+        {
+            "description": "Read about the symptoms of HIV and AIDS, what treatments are available and how to prevent getting or spreading the infection.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:50:55+00:00",
+                "dateModified": "2024-05-21T14:30:42+00:00",
+                "lastReviewed": [
+                    "2021-04-22T00:00:00+00:00",
+                    "2024-04-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hiv-and-aids/",
+            "name": "HIV and AIDS"
+        },
+        {
+            "description": "Find out about hives (also called urticaria), which is a raised, itchy rash that's usually caused by a reaction to things like food, pollen, insect bites or chemicals.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:26:55+00:00",
+                "dateModified": "2024-04-29T10:42:09+00:00",
+                "lastReviewed": [
+                    "2024-04-25T23:00:00+00:00",
+                    "2027-04-25T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-25T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hives/",
+            "name": "Hives"
+        },
+        {
+            "description": "Hodgkin lymphoma is an uncommon cancer that develops in the lymphatic system, which is a network of vessels and glands spread throughout your body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-06T08:52:33+00:00",
+                "dateModified": "2022-08-11T09:29:38+00:00",
+                "lastReviewed": [
+                    "2021-11-22T01:00:00+00:00",
+                    "2024-11-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-11-22T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hodgkin-lymphoma/",
+            "name": "Hodgkin lymphoma"
+        },
+        {
+            "description": "Find out more about Huntington's disease, an inherited condition that damages certain nerve cells in the brain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T13:05:12+00:00",
+                "dateModified": "2023-05-17T17:26:26+00:00",
+                "lastReviewed": [
+                    "2021-03-28T23:00:00+00:00",
+                    "2024-03-29T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-29T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/huntingtons-disease/",
+            "name": "Huntington's disease"
+        },
+        {
+            "description": "Find out about hydrocephalus (fluid in the brain), including information about symptoms, causes, types, diagnosis, treatment and complications.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:26:52+00:00",
+                "dateModified": "2023-08-22T10:43:05+00:00",
+                "lastReviewed": [
+                    "2023-02-06T00:00:00+00:00",
+                    "2026-02-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hydrocephalus/",
+            "name": "Hydrocephalus"
+        },
+        {
+            "description": "Read about hydronephrosis, a condition where one or both kidneys become stretched and swollen as a result of a build-up of urine inside them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-03T11:57:00+00:00",
+                "dateModified": "2023-06-15T10:33:56+00:00",
+                "lastReviewed": [
+                    "2021-12-11T15:00:00+00:00",
+                    "2024-12-11T16:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-11T16:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hydronephrosis/",
+            "name": "Hydronephrosis"
+        },
+        {
+            "description": "Find out about hysterectomy, a surgical procedure to remove the womb (uterus). You'll no longer be able to get pregnant after the operation.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T13:00:15+00:00",
+                "dateModified": "2023-07-24T16:06:11+00:00",
+                "lastReviewed": [
+                    "2022-10-10T23:00:00+00:00",
+                    "2025-10-10T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-10T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hysterectomy/",
+            "name": "Hysterectomy"
+        },
+        {
+            "description": "Find out about hysteroscopy, a procedure used to examine the womb (uterus) to diagnose and treat some women's health conditions.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test",
+                    "Procedure"
+                ],
+                "datePublished": "2017-10-23T12:35:33+00:00",
+                "dateModified": "2024-02-14T07:55:56+00:00",
+                "lastReviewed": [
+                    "2024-01-18T00:00:00+00:00",
+                    "2027-01-18T14:41:00+00:00"
+                ],
+                "reviewDue": "2027-01-18T14:41:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hysteroscopy/",
+            "name": "Hysteroscopy"
+        },
+        {
+            "description": "Find out about idiopathic pulmonary fibrosis (IPF), including what the symptoms are, how it's treated and what the outlook is.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:44:13+00:00",
+                "dateModified": "2024-04-08T12:03:35+00:00",
+                "lastReviewed": [
+                    "2022-10-18T00:00:00+00:00",
+                    "2025-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-18T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Pulmonary fibrosis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/idiopathic-pulmonary-fibrosis/",
+            "name": "Idiopathic pulmonary fibrosis"
+        },
+        {
+            "description": "Find out about impetigo, a contagious skin infection that's not usually serious. Read about the symptoms, when to get medical help, treatments and prevention.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:26:12+00:00",
+                "dateModified": "2024-06-12T13:16:17+00:00",
+                "lastReviewed": [
+                    "2024-06-05T23:00:00+00:00",
+                    "2027-06-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/impetigo/",
+            "name": "Impetigo"
+        },
+        {
+            "description": "Find out about infertility, including the causes, treatment options, and when to get help and advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:54:55+00:00",
+                "dateModified": "2023-08-11T14:56:07+00:00",
+                "lastReviewed": [
+                    "2023-08-08T23:00:00+00:00",
+                    "2026-08-08T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-08T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/infertility/",
+            "name": "Infertility"
+        },
+        {
+            "description": "A hernia happens when an internal part of the body pushes through a weakness in the muscle or surrounding tissue wall.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T10:46:16+00:00",
+                "dateModified": "2023-10-31T08:40:08+00:00",
+                "lastReviewed": [
+                    "2021-10-15T00:00:00+00:00",
+                    "2024-10-15T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-15T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hernia (inguinal)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/inguinal-hernia-repair/",
+            "name": "Inguinal hernia repair"
+        },
+        {
+            "description": "Find out about some of the most common insect bites and stings, how to treat them and when to get help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:11:41+00:00",
+                "dateModified": "2024-01-31T09:02:30+00:00",
+                "lastReviewed": [
+                    "2023-06-01T00:00:00+00:00",
+                    "2026-06-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-01T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sting or bite (insect)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/insect-bites-and-stings/",
+            "name": "Insect bites and stings"
+        },
+        {
+            "description": "Find out about insomnia, including why it might happen and how to treat it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T07:59:28+00:00",
+                "dateModified": "2024-03-28T14:58:06+00:00",
+                "lastReviewed": [
+                    "2024-03-19T12:00:00+00:00",
+                    "2027-03-19T12:00:00+00:00"
+                ],
+                "reviewDue": "2027-03-19T12:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/insomnia/",
+            "name": "Insomnia"
+        },
+        {
+            "description": "Find out more about iron deficiency anaemia, including what the symptoms are, when to get medical help, the tests and treatments you may have, and the possible causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:41:18+00:00",
+                "dateModified": "2024-02-21T16:00:09+00:00",
+                "lastReviewed": [
+                    "2024-01-26T00:00:00+00:00",
+                    "2027-01-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-26T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Anaemia (iron deficiency)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/iron-deficiency-anaemia/",
+            "name": "Iron deficiency anaemia"
+        },
+        {
+            "description": "Find out how to check if your periods are irregular, what can cause irregular periods, when to see a GP and how irregular periods can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-24T15:29:50+00:00",
+                "dateModified": "2024-03-11T15:57:14+00:00",
+                "lastReviewed": [
+                    "2022-07-26T00:00:00+00:00",
+                    "2025-07-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-26T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Periods (irregular)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/irregular-periods/",
+            "name": "Irregular periods"
+        },
+        {
+            "description": "Read about irritable bowel syndrome (IBS) and how to treat the symptoms, which include stomach cramps, bloating, diarrhoea and constipation.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T14:05:40+00:00",
+                "dateModified": "2023-09-11T17:04:02+00:00",
+                "lastReviewed": [
+                    "2021-02-24T01:00:00+00:00",
+                    "2024-02-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-02-24T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "IBS"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/irritable-bowel-syndrome-ibs/",
+            "name": "Irritable bowel syndrome (IBS)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=24",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=25",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

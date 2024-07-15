@@ -1,0 +1,809 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out how to tell if you have a broken collarbone, where to get medical help and how long it takes to heal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition",
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-17T17:04:08+00:00",
+                "dateModified": "2024-02-27T17:35:26+00:00",
+                "lastReviewed": [
+                    "2023-08-01T23:00:00+00:00",
+                    "2026-08-01T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-01T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-collarbone/",
+            "name": "Broken collarbone"
+        },
+        {
+            "description": "Find out how to tell if you have a broken finger or thumb, what you should do, and how long it takes to heal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-17T16:33:32+00:00",
+                "dateModified": "2024-06-19T08:24:09+00:00",
+                "lastReviewed": [
+                    "2022-03-23T01:00:00+00:00",
+                    "2025-03-23T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-23T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-finger/",
+            "name": "Broken finger or thumb"
+        },
+        {
+            "description": "Read about the signs of a broken leg, what you should do if you think someone has broken their leg, how a broken leg is treated and how long it takes to recover.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T08:55:52+00:00",
+                "dateModified": "2024-05-23T16:35:40+00:00",
+                "lastReviewed": [
+                    "2021-09-15T00:00:00+00:00",
+                    "2024-09-15T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-15T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-leg/",
+            "name": "Broken leg"
+        },
+        {
+            "description": "Find out about the signs of a broken nose, how to look after your nose at home and when you should seek medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition",
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-17T17:22:01+00:00",
+                "dateModified": "2024-06-18T16:39:57+00:00",
+                "lastReviewed": [
+                    "2023-08-17T15:41:00+00:00",
+                    "2026-08-17T15:41:00+00:00"
+                ],
+                "reviewDue": "2026-08-17T15:41:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-nose/",
+            "name": "Broken nose"
+        },
+        {
+            "description": "Find out about how long it takes injured ribs to heal, how to look after yourself until you're feeling better, and when you should get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-17T16:44:28+00:00",
+                "dateModified": "2024-06-18T16:41:16+00:00",
+                "lastReviewed": [
+                    "2024-01-10T14:30:00+00:00",
+                    "2027-01-10T14:30:00+00:00"
+                ],
+                "reviewDue": "2027-01-10T14:30:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-or-bruised-ribs/",
+            "name": "Broken or bruised ribs"
+        },
+        {
+            "description": "Find out about the symptoms of a broken toe, when you should get medical advice, and how to look after it at home.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition",
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-17T16:35:50+00:00",
+                "dateModified": "2024-06-19T08:23:00+00:00",
+                "lastReviewed": [
+                    "2022-05-05T23:00:00+00:00",
+                    "2025-05-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/broken-toe/",
+            "name": "Broken toe"
+        },
+        {
+            "description": "Find out about bronchitis, what the symptoms are, how you can ease the symptoms, where to get help, and how it is treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T16:40:47+00:00",
+                "dateModified": "2024-06-13T17:05:28+00:00",
+                "lastReviewed": [
+                    "2022-12-19T01:00:00+00:00",
+                    "2025-12-19T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-19T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bronchitis/",
+            "name": "Bronchitis"
+        },
+        {
+            "description": "Find out about brucellosis, including symptoms, what to do if you have it and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T16:54:59+00:00",
+                "dateModified": "2023-10-11T12:22:12+00:00",
+                "lastReviewed": [
+                    "2023-10-04T00:00:00+00:00",
+                    "2026-10-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/brucellosis/",
+            "name": "Brucellosis"
+        },
+        {
+            "description": "Find out about Brugada syndrome, including what the symptoms are, when and where to get medical help, the causes and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T16:48:13+00:00",
+                "dateModified": "2023-12-15T12:21:23+00:00",
+                "lastReviewed": [
+                    "2023-12-13T01:00:00+00:00",
+                    "2026-12-13T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-13T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/brugada-syndrome/",
+            "name": "Brugada syndrome"
+        },
+        {
+            "description": "Find out about carbon monoxide poisoning, what the symptoms are, what to do if you have it, what causes it, how it is treated, and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T17:06:34+00:00",
+                "dateModified": "2024-06-18T16:57:08+00:00",
+                "lastReviewed": [
+                    "2022-07-01T00:00:00+00:00",
+                    "2025-07-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/carbon-monoxide-poisoning/",
+            "name": "Carbon monoxide poisoning"
+        },
+        {
+            "description": "Read about neuroendocrine tumours and their symptoms, known as carcinoid syndrome. Find out the causes, tests and treatments for neuroendocrine tumours and carcinoid syndrome.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-03-14T11:54:34+00:00",
+                "dateModified": "2022-07-13T08:14:06+00:00",
+                "lastReviewed": [
+                    "2021-05-24T00:00:00+00:00",
+                    "2024-05-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-05-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/carcinoid-syndrome/",
+            "name": "Neuroendocrine tumours and carcinoid syndrome"
+        },
+        {
+            "description": "Find out about cardiomyopathy, a general term for diseases of the heart muscle, where the walls of the heart chambers have become stretched, thickened or stiff.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T17:26:05+00:00",
+                "dateModified": "2024-04-08T11:55:41+00:00",
+                "lastReviewed": [
+                    "2023-05-24T23:00:00+00:00",
+                    "2026-05-24T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-24T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cardiomyopathy/",
+            "name": "Cardiomyopathy"
+        },
+        {
+            "description": "Find out what cardiovascular disease (CVD) is, what problems it can cause, why it happens and how you can reduce your risk.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T18:19:54+00:00",
+                "dateModified": "2024-05-07T10:03:49+00:00",
+                "lastReviewed": [
+                    "2022-04-22T00:00:00+00:00",
+                    "2025-04-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cardiovascular-disease/",
+            "name": "Cardiovascular disease"
+        },
+        {
+            "description": "Read about age-related cataracts. In older people, changes can occur in the lens of the eye, making it less transparent and causing cloudy or misty vision.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-17T18:46:58+00:00",
+                "dateModified": "2021-11-18T15:27:30+00:00",
+                "lastReviewed": [
+                    "2020-12-22T10:04:00+00:00",
+                    "2023-12-22T10:04:00+00:00"
+                ],
+                "reviewDue": "2023-12-22T10:04:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Cataracts (age-related)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cataracts/",
+            "name": "Age-related cataracts"
+        },
+        {
+            "description": "Find out about catarrh, including what the symptoms are, what you can do to help ease it, when to get medical help, and treatments that may be recommended.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T07:05:13+00:00",
+                "dateModified": "2024-02-09T11:23:12+00:00",
+                "lastReviewed": [
+                    "2022-11-17T00:00:00+00:00",
+                    "2025-11-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-17T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/catarrh/",
+            "name": "Catarrh"
+        },
+        {
+            "description": "Find out what a cavernoma is, what symptoms it can cause, the importance of closely monitoring symptoms, how it's diagnosed and treatment options.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T06:59:14+00:00",
+                "dateModified": "2022-11-18T11:13:00+00:00",
+                "lastReviewed": [
+                    "2022-11-04T00:00:00+00:00",
+                    "2025-11-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cavernoma/",
+            "name": "Cavernoma"
+        },
+        {
+            "description": "Find out about Clostridium difficile (C. diff), including what the symptoms are, who's most at risk and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T07:09:27+00:00",
+                "dateModified": "2024-04-11T16:14:46+00:00",
+                "lastReviewed": [
+                    "2022-02-08T00:00:00+00:00",
+                    "2025-02-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/c-difficile/",
+            "name": "Clostridium difficile (C. diff) infection"
+        },
+        {
+            "description": "Find out what a carcinoembryonic antigen (CEA) test is, why it's used and when it's carried out.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2018-09-24T15:11:14+00:00",
+                "dateModified": "2024-02-26T08:23:38+00:00",
+                "lastReviewed": [
+                    "2021-09-30T00:00:00+00:00",
+                    "2024-09-30T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-30T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cea-test/",
+            "name": "Carcinoembryonic antigen (CEA) test"
+        },
+        {
+            "description": "NHS information about Charles Bonnet syndrome, including symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:00:37+00:00",
+                "dateModified": "2023-08-22T10:36:07+00:00",
+                "lastReviewed": [
+                    "2022-11-17T00:00:00+00:00",
+                    "2025-11-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-17T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/charles-bonnet-syndrome/",
+            "name": "Charles Bonnet syndrome"
+        },
+        {
+            "description": "Read about chest infections, including the symptoms, what you can do to treat it yourself, and how a pharmacist and GP can help. A chest infection will usually get better on its own in about 7 to 10 days.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T07:54:37+00:00",
+                "dateModified": "2024-03-20T15:29:05+00:00",
+                "lastReviewed": [
+                    "2023-06-21T00:00:00+00:00",
+                    "2026-06-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chest-infection/",
+            "name": "Chest infection"
+        },
+        {
+            "description": "Find out what could be causing your chest pain and if you need to go to hospital or see a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T08:06:30+00:00",
+                "dateModified": "2023-12-06T17:51:01+00:00",
+                "lastReviewed": [
+                    "2023-08-08T00:00:00+00:00",
+                    "2026-08-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-08T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Heart pain"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chest-pain/",
+            "name": "Chest pain"
+        },
+        {
+            "description": "Find out what a Chiari malformation is, what problems it may cause, why it happens and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:11:56+00:00",
+                "dateModified": "2023-07-11T12:21:42+00:00",
+                "lastReviewed": [
+                    "2022-11-09T01:00:00+00:00",
+                    "2025-11-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-09T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chiari-malformation/",
+            "name": "Chiari malformation"
+        },
+        {
+            "description": "NHS information about chilblains, including symptoms, causes and how to treat them yourself.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T07:59:24+00:00",
+                "dateModified": "2023-05-17T08:51:51+00:00",
+                "lastReviewed": [
+                    "2022-07-28T23:00:00+00:00",
+                    "2025-07-28T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-28T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chilblains/",
+            "name": "Chilblains"
+        },
+        {
+            "description": "Find out what chiropractic is, how you can get it on the NHS or privately, and what the treatment involves.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-18T08:28:36+00:00",
+                "dateModified": "2024-03-12T13:44:13+00:00",
+                "lastReviewed": [
+                    "2023-09-06T00:00:00+00:00",
+                    "2026-09-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-09-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chiropractic/",
+            "name": "Chiropractic"
+        },
+        {
+            "description": "A cholesteatoma is an uncommon abnormal collection of skin cells inside your ear.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:18:54+00:00",
+                "dateModified": "2023-06-26T07:18:53+00:00",
+                "lastReviewed": [
+                    "2020-12-11T00:00:00+00:00",
+                    "2023-12-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-12-11T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cholesteatoma/",
+            "name": "Cholesteatoma"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=3",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=4",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

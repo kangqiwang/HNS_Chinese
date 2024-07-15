@@ -1,0 +1,591 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about liver cancer, including the symptoms, causes, tests, treatments, and where to get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2023-07-06T13:09:28+00:00",
+                "dateModified": "2023-07-06T13:09:56+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/liver-cancer/",
+            "name": "Liver cancer"
+        },
+        {
+            "description": "Find out about the NHS cervical screening programme, including when it's offered, how to book, what happens at your appointment, getting your results and how it can help protect you from cervical cancer.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2023-07-14T14:26:52+00:00",
+                "dateModified": "2024-05-02T09:37:18+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/cervical-screening/",
+            "name": "Cervical screening"
+        },
+        {
+            "description": "Understand more about bile duct cancer, its symptoms, when to get medical help, testing and diagnosis, treatment and where to find help and support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2023-07-05T14:22:21+00:00",
+                "dateModified": "2023-07-05T14:22:21+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/bile-duct-cancer/",
+            "name": "Bile duct cancer (cholangiocarcinoma)"
+        },
+        {
+            "description": "Find out about oesophageal cancer, including the symptoms, causes, tests and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2023-07-05T14:59:47+00:00",
+                "dateModified": "2023-07-05T14:59:47+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/oesophageal-cancer/",
+            "name": "Oesophageal cancer"
+        },
+        {
+            "description": "Find out about adenomyosis, including symptoms, what to do if you think you have it and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2023-07-21T07:11:46+00:00",
+                "dateModified": "2024-03-14T13:05:29+00:00",
+                "lastReviewed": [
+                    "2023-07-17T15:30:00+00:00",
+                    "2026-07-17T15:30:00+00:00"
+                ],
+                "reviewDue": "2026-07-17T15:30:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/adenomyosis/",
+            "name": "Adenomyosis"
+        },
+        {
+            "description": "Find out what a hip replacement involves, when it might be recommended, and how it can help with hip pain and movement.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure"
+                ],
+                "datePublished": "2024-04-04T13:31:49+00:00",
+                "dateModified": "2024-04-04T13:31:49+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/hip-replacement/",
+            "name": "Hip replacement"
+        },
+        {
+            "description": "Find out about chronic myeloid leukaemia (CML), including what the symptoms are, what to do if you think you have it, how it's treated and where to get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2023-10-03T08:14:31+00:00",
+                "dateModified": "2023-10-03T08:14:31+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/chronic-myeloid-leukaemia/",
+            "name": "Chronic myeloid leukaemia"
+        },
+        {
+            "description": "Find out about thoracic outlet syndrome, where nerves or blood vessels near the top of the ribs get squashed. It's often linked to having an extra rib (cervical rib).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-01-04T09:41:39+00:00",
+                "dateModified": "2024-01-04T09:41:39+00:00",
+                "lastReviewed": [
+                    "2023-12-14T12:35:00+00:00",
+                    "2026-12-14T12:35:00+00:00"
+                ],
+                "reviewDue": "2026-12-14T12:35:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/thoracic-outlet-syndrome/",
+            "name": "Thoracic outlet syndrome"
+        },
+        {
+            "description": "Find out about gynaecomastia including what the symptoms are, when to get medical help, what causes it and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-06-04T13:06:10+00:00",
+                "dateModified": "2024-06-04T13:06:10+00:00",
+                "lastReviewed": [
+                    "2024-05-31T15:46:00+00:00",
+                    "2027-05-31T15:46:00+00:00"
+                ],
+                "reviewDue": "2027-05-31T15:46:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gynaecomastia/",
+            "name": "Gynaecomastia"
+        },
+        {
+            "description": "Find out about the different types of weight loss surgery, what surgery involves and when it might be recommended.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2024-02-14T07:54:34+00:00",
+                "dateModified": "2024-02-14T07:55:32+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/weight-loss-surgery/",
+            "name": "Weight loss surgery"
+        },
+        {
+            "description": "Find out more about a cystoscopy, which is a test used to look inside the bladder using a tube and a camera, including why it\u2019s done, what happens and what the results mean.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2024-02-14T09:26:11+00:00",
+                "dateModified": "2024-02-14T09:26:11+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/cystoscopy/",
+            "name": "Cystoscopy"
+        },
+        {
+            "description": "Find out about testicular cancer, including what the symptoms are, what to do if you think you have it, how it's treated and where to get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-04-22T14:10:36+00:00",
+                "dateModified": "2024-04-22T14:10:36+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/testicular-cancer/",
+            "name": "Testicular cancer"
+        },
+        {
+            "description": "Anyone can get breast cancer. Find out about breast cancer in women, including what the symptoms are, what to do if you think you have it, how it is treated, and where to get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-03-15T12:06:08+00:00",
+                "dateModified": "2024-03-15T12:06:08+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/breast-cancer-in-women/",
+            "name": "Breast cancer in women"
+        },
+        {
+            "description": "Find out more about soft tissue sarcoma, its symptoms, when to get medical help, testing and diagnosis, treatment and where to find help and support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-04-02T11:20:04+00:00",
+                "dateModified": "2024-04-03T07:28:39+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/soft-tissue-sarcoma/",
+            "name": "Soft tissue sarcoma"
+        },
+        {
+            "description": "Find out about anal cancer, including what the symptoms are, what to do if you think you have it, how it's treated, and where to get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-03-28T10:21:34+00:00",
+                "dateModified": "2024-03-28T10:21:34+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/anal-cancer/",
+            "name": "Anal cancer"
+        },
+        {
+            "description": "Anyone can get breast cancer. Find out about breast cancer in men, including what the symptoms are, what to do if you think you have it, how it is treated, and where to get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-04-02T15:43:57+00:00",
+                "dateModified": "2024-04-02T15:43:57+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/breast-cancer-in-men/",
+            "name": "Breast cancer in men"
+        },
+        {
+            "description": "Find out about penile cancer, a rare type of cancer that mostly affects the skin of the penis.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-04-15T14:58:21+00:00",
+                "dateModified": "2024-04-15T15:11:10+00:00",
+                "keywords": ""
+            },
+            "url": "https://api.nhs.uk/conditions/penile-cancer/",
+            "name": "Penile cancer"
+        },
+        {
+            "description": "Find out about Peyronie's disease, a condition that causes your penis to curve when it\u2019s erect. Find out about the symptoms, when to get medical help and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-06-05T07:47:09+00:00",
+                "dateModified": "2024-06-05T07:47:09+00:00",
+                "lastReviewed": [
+                    "2024-06-03T08:24:00+00:00",
+                    "2027-06-03T08:24:00+00:00"
+                ],
+                "reviewDue": "2027-06-03T08:24:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/peyronies-disease/",
+            "name": "Peyronie's disease"
+        },
+        {
+            "description": "Find out about lumps and spots on the penis, including what can cause them and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2024-06-27T13:41:32+00:00",
+                "dateModified": "2024-06-27T13:41:32+00:00",
+                "lastReviewed": [
+                    "2024-06-24T23:00:00+00:00",
+                    "2027-06-24T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-24T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/penis-lumps-and-spots/",
+            "name": "Penis lumps and spots"
+        },
+        {
+            "description": "Find out about respiratory syncytial virus (RSV), including the symptoms, when to get medical help and how to reduce the risk of getting it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2024-07-08T13:00:36+00:00",
+                "dateModified": "2024-07-08T13:00:36+00:00",
+                "lastReviewed": [
+                    "2024-07-05T10:03:00+00:00",
+                    "2027-07-05T10:03:00+00:00"
+                ],
+                "reviewDue": "2027-07-05T10:03:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "RSV"
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/respiratory-syncytial-virus-rsv/",
+            "name": "Respiratory syncytial virus (RSV)"
+        },
+        {
+            "description": "Find out how to do a poo (stool) sample, including how much poo to include and when to hand it in.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2024-07-01T09:58:14+00:00",
+                "dateModified": "2024-07-02T11:46:49+00:00",
+                "lastReviewed": [
+                    "2024-06-27T15:20:00+00:00",
+                    "2027-06-27T15:20:00+00:00"
+                ],
+                "reviewDue": "2027-06-27T15:20:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/how-to-collect-a-sample-of-poo-stool-sample/",
+            "name": "How to collect a sample of poo (stool sample)"
+        },
+        {
+            "description": "All you need to know about pregnancy, labour and birth including trying to get pregnant, foods to avoid, antenatal care and how to keep well in pregnancy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [],
+                "datePublished": "2020-12-08T14:54:40+00:00",
+                "dateModified": "2023-10-31T11:55:33+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/pregnancy/",
+            "name": "Pregnancy"
+        },
+        {
+            "description": "Read about psychosis, a mental health problem that causes people to perceive or interpret things differently from those around them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T16:24:48+00:00",
+                "dateModified": "2023-08-04T14:14:18+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/psychosis/",
+            "name": "Psychosis"
+        },
+        {
+            "description": "Read about claustrophobia, including common triggers, physical and psychological symptoms, causes and treatment, plus help and support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-11T10:22:35+00:00",
+                "dateModified": "2023-04-05T13:58:00+00:00",
+                "lastReviewed": [
+                    "2023-04-03T00:00:00+00:00",
+                    "2026-04-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-03T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/claustrophobia/",
+            "name": "Claustrophobia"
+        },
+        {
+            "description": "Information on postpartum psychosis (psychosis after childbirth), with links to other useful resources.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-11T10:38:02+00:00",
+                "dateModified": "2023-10-25T11:03:10+00:00",
+                "lastReviewed": [
+                    "2023-10-18T00:00:00+00:00",
+                    "2026-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-18T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/post-partum-psychosis/",
+            "name": "Postpartum psychosis"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=37",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=38",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

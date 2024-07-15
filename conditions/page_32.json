@@ -1,0 +1,825 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about Tourette's syndrome, a condition that causes a person to make involuntary sounds and movements called tics. Read about the symptoms and causes, plus find out how it's diagnosed and treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:31:15+00:00",
+                "dateModified": "2023-05-17T17:22:36+00:00",
+                "lastReviewed": [
+                    "2021-01-04T00:00:00+00:00",
+                    "2024-01-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-01-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tourettes-syndrome/",
+            "name": "Tourette's syndrome"
+        },
+        {
+            "description": "Find out about toxocariasis, including how you get it, whether it\u2019s serious, when to get medical help and how to reduce your risk of getting it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-03T11:48:05+00:00",
+                "dateModified": "2024-03-13T13:42:23+00:00",
+                "lastReviewed": [
+                    "2022-02-15T01:00:00+00:00",
+                    "2025-02-15T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-15T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/toxocariasis/",
+            "name": "Toxocariasis"
+        },
+        {
+            "description": "Read about toxoplasmosis, a parasite infection that can be dangerous, especially for pregnant women and people with a weakened immune system.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:08:56+00:00",
+                "dateModified": "2023-09-01T14:03:34+00:00",
+                "lastReviewed": [
+                    "2023-08-25T09:33:00+00:00",
+                    "2026-08-25T09:33:00+00:00"
+                ],
+                "reviewDue": "2026-08-25T09:33:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/toxoplasmosis/",
+            "name": "Toxoplasmosis"
+        },
+        {
+            "description": "NHS information about a tracheostomy, including what it is, when it's used, how it's carried out, and the possible risks and complications.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-20T08:57:31+00:00",
+                "dateModified": "2024-02-01T18:32:44+00:00",
+                "lastReviewed": [
+                    "2024-01-26T00:00:00+00:00",
+                    "2027-01-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tracheostomy/",
+            "name": "Tracheostomy"
+        },
+        {
+            "description": "Find out about transient ischaemic attack (TIA) or \"mini stroke\", including  what causes it, the symptoms, how it's diagnosed, and when to seek medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:13:18+00:00",
+                "dateModified": "2023-08-03T13:25:43+00:00",
+                "lastReviewed": [
+                    "2023-06-27T23:00:00+00:00",
+                    "2026-06-27T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-27T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "TIA"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/transient-ischaemic-attack-tia/",
+            "name": "Transient ischaemic attack (TIA)"
+        },
+        {
+            "description": "Read about transurethral resection of the prostate (TURP), a surgical procedure used to cut away a section of the prostate gland if it's causing problems with peeing.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T07:33:18+00:00",
+                "dateModified": "2024-04-16T12:27:16+00:00",
+                "lastReviewed": [
+                    "2021-09-14T00:00:00+00:00",
+                    "2024-09-14T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-14T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/transurethral-resection-of-the-prostate-turp/",
+            "name": "Transurethral resection of the prostate (TURP)"
+        },
+        {
+            "description": "Read about trichomoniasis, a sexually transmitted infection (STI) caused by a parasite called Trichomonas vaginalis (TV).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-03T13:35:38+00:00",
+                "dateModified": "2024-03-11T13:12:26+00:00",
+                "lastReviewed": [
+                    "2021-11-03T01:00:00+00:00",
+                    "2024-11-03T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-11-03T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/trichomoniasis/",
+            "name": "Trichomoniasis"
+        },
+        {
+            "description": "Find out about trigeminal neuralgia, which is sudden, severe facial pain, often described as sharp, shooting or like an electric shock.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:55:37+00:00",
+                "dateModified": "2024-03-07T16:46:49+00:00",
+                "lastReviewed": [
+                    "2023-01-27T01:00:00+00:00",
+                    "2026-01-27T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-27T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/trigeminal-neuralgia/",
+            "name": "Trigeminal neuralgia"
+        },
+        {
+            "description": "Trigger finger is a condition that affects 1 or more of the hand's tendons, making it difficult to bend the affected finger or thumb.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:54:50+00:00",
+                "dateModified": "2024-02-22T09:05:36+00:00",
+                "lastReviewed": [
+                    "2022-03-18T01:00:00+00:00",
+                    "2025-03-18T02:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-18T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/trigger-finger/",
+            "name": "Trigger finger"
+        },
+        {
+            "description": "NHS information about tuberculosis (TB), including symptoms, when to get medical help, treatments and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:59:19+00:00",
+                "dateModified": "2024-06-18T11:51:47+00:00",
+                "lastReviewed": [
+                    "2023-04-20T01:00:00+00:00",
+                    "2026-04-20T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-20T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "TB"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tuberculosis-tb/",
+            "name": "Tuberculosis (TB)"
+        },
+        {
+            "description": "Tuberous sclerosis, also known as tuberous sclerosis complex, is a rare genetic condition that causes mainly non-cancerous (benign) tumours to develop in different parts of the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:48:51+00:00",
+                "dateModified": "2023-12-13T13:15:00+00:00",
+                "lastReviewed": [
+                    "2021-08-09T00:00:00+00:00",
+                    "2024-08-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tuberous-sclerosis/",
+            "name": "Tuberous sclerosis"
+        },
+        {
+            "description": "Turner syndrome is a genetic disorder that only affects females. It causes a wide range of symptoms and some distinctive characteristics.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-26T13:36:42+00:00",
+                "dateModified": "2022-10-10T09:16:31+00:00",
+                "lastReviewed": [
+                    "2021-07-07T00:00:00+00:00",
+                    "2024-07-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/turner-syndrome/",
+            "name": "Turner syndrome"
+        },
+        {
+            "description": "Read about type 2 diabetes, a condition that causes a person's blood sugar level to become too high.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T16:08:01+00:00",
+                "dateModified": "2023-12-27T15:11:40+00:00",
+                "lastReviewed": [
+                    "2023-12-22T01:00:00+00:00",
+                    "2026-12-22T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-22T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Diabetes (type 2)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/type-2-diabetes/",
+            "name": "Type 2 diabetes"
+        },
+        {
+            "description": "Find out about typhoid fever, what causes it, how it's treated and what you can do to protect yourself if you're travelling to a high-risk area.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-03T12:10:49+00:00",
+                "dateModified": "2023-12-11T10:22:03+00:00",
+                "lastReviewed": [
+                    "2021-09-20T00:00:00+00:00",
+                    "2024-09-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/typhoid-fever/",
+            "name": "Typhoid fever"
+        },
+        {
+            "description": "Find out about ulcerative colitis, a long-term (chronic) condition where the colon and rectum (large intestine or large bowel) become inflamed.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T20:08:14+00:00",
+                "dateModified": "2024-04-17T07:19:56+00:00",
+                "lastReviewed": [
+                    "2022-11-01T00:00:00+00:00",
+                    "2025-11-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ulcerative-colitis/",
+            "name": "Ulcerative colitis"
+        },
+        {
+            "description": "A hernia is where an internal part of the body pushes through a weakness in the muscle or surrounding tissue wall. Umbilical hernias are in or near the belly button (navel).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T14:35:06+00:00",
+                "dateModified": "2022-04-25T14:01:13+00:00",
+                "lastReviewed": [
+                    "2022-04-21T00:00:00+00:00",
+                    "2025-04-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-21T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hernia (umbilical)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/umbilical-hernia-repair/",
+            "name": "Umbilical hernia repair"
+        },
+        {
+            "description": "Read about an underactive thyroid gland (hypothyroidism), which is when your thyroid gland does not produce enough hormones.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T14:12:51+00:00",
+                "dateModified": "2023-05-24T14:07:41+00:00",
+                "lastReviewed": [
+                    "2021-05-10T00:00:00+00:00",
+                    "2024-05-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-05-10T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hypothyroidism"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+            "name": "Underactive thyroid (hypothyroidism)"
+        },
+        {
+            "description": "Undescended testicles are a common childhood condition where a boy's testicles are not in their usual place in the scrotum. It's estimated that about 1 in every 25 boys are born with undescended testicles.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-08-15T16:25:30+00:00",
+                "dateModified": "2024-04-22T14:27:45+00:00",
+                "lastReviewed": [
+                    "2021-10-26T16:49:00+00:00",
+                    "2024-10-26T16:49:00+00:00"
+                ],
+                "reviewDue": "2024-10-26T16:49:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/undescended-testicles/",
+            "name": "Undescended testicles"
+        },
+        {
+            "description": "Read about a urinary catheter, which is a flexible tube used to empty the bladder and collect urine in a drainage bag.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-20T09:32:08+00:00",
+                "dateModified": "2023-02-07T09:58:26+00:00",
+                "lastReviewed": [
+                    "2023-02-03T00:00:00+00:00",
+                    "2026-02-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-03T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/urinary-catheters/",
+            "name": "Urinary catheter"
+        },
+        {
+            "description": "Read about urinary incontinence, which is the unintentional passing of urine. It's a common problem that's thought to affect millions of people worldwide.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:34:48+00:00",
+                "dateModified": "2023-06-22T09:31:53+00:00",
+                "lastReviewed": [
+                    "2023-06-14T23:00:00+00:00",
+                    "2026-06-14T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-14T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Incontinence (urinary)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/urinary-incontinence/",
+            "name": "Urinary incontinence"
+        },
+        {
+            "description": "Find out about an inflammation in your eye called uveitis, including symptoms, what causes it, when to get help and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:49:10+00:00",
+                "dateModified": "2024-04-08T07:46:44+00:00",
+                "lastReviewed": [
+                    "2024-03-20T00:00:00+00:00",
+                    "2027-03-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-03-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/uveitis/",
+            "name": "Uveitis"
+        },
+        {
+            "description": "Read about vaginal cancer, a rare type of cancer usually caused by the human papillomavirus (HPV). Find out about treatments and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-25T14:05:26+00:00",
+                "dateModified": "2023-11-24T13:43:33+00:00",
+                "lastReviewed": [
+                    "2023-11-07T10:00:00+00:00",
+                    "2026-11-07T10:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-07T10:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vaginal-cancer/",
+            "name": "Vaginal cancer"
+        },
+        {
+            "description": "Find out about vaginismus, which is when the vagina suddenly tightens up when you try to put something into it. Find out about possible causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-11T14:44:25+00:00",
+                "dateModified": "2024-05-14T11:05:47+00:00",
+                "lastReviewed": [
+                    "2024-05-12T23:00:00+00:00",
+                    "2027-05-12T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-12T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/vaginismus/",
+            "name": "Vaginismus"
+        },
+        {
+            "description": "Read about varicose eczema, a long-term skin condition that affects the lower legs and is common in people with varicose veins",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:47:51+00:00",
+                "dateModified": "2023-04-28T11:17:31+00:00",
+                "lastReviewed": [
+                    "2023-04-20T00:00:00+00:00",
+                    "2026-04-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-20T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eczema (varicose)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/varicose-eczema/",
+            "name": "Varicose eczema"
+        },
+        {
+            "description": "Find out about varicose veins, including what the symptoms are, how they're treated, causes and possible complications.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:41:04+00:00",
+                "dateModified": "2024-07-09T14:38:35+00:00",
+                "lastReviewed": [
+                    "2024-07-01T00:00:00+00:00",
+                    "2027-07-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-07-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/varicose-veins/",
+            "name": "Varicose veins"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=32",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=33",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

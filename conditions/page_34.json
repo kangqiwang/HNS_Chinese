@@ -1,0 +1,836 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about temporal arteritis (giant cell arteritis), a condition when arteries become inflamed. It's a serious condition that needs urgent treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-08T17:38:45+00:00",
+                "dateModified": "2023-08-23T15:56:05+00:00",
+                "lastReviewed": [
+                    "2023-08-14T13:57:00+00:00",
+                    "2026-08-14T13:57:00+00:00"
+                ],
+                "reviewDue": "2026-08-14T13:57:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Giant cell arteritis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/temporal-arteritis/",
+            "name": "Temporal arteritis"
+        },
+        {
+            "description": "NHS information about memory loss (amnesia), including advice about what to do if you have problems with your memory and what the cause might be.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-01-08T17:16:46+00:00",
+                "dateModified": "2023-10-10T14:16:28+00:00",
+                "lastReviewed": [
+                    "2023-10-09T15:31:00+00:00",
+                    "2026-10-09T15:31:00+00:00"
+                ],
+                "reviewDue": "2026-10-09T15:31:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Amnesia"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/memory-loss-amnesia/",
+            "name": "Memory loss (amnesia)"
+        },
+        {
+            "description": "Find out about headaches, including what you can do to help ease them, when to get medical advice and what the most common causes are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-01-08T17:41:40+00:00",
+                "dateModified": "2024-06-13T10:07:01+00:00",
+                "lastReviewed": [
+                    "2024-04-17T08:59:00+00:00",
+                    "2027-04-17T08:59:00+00:00"
+                ],
+                "reviewDue": "2027-04-17T08:59:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/headaches/",
+            "name": "Headaches"
+        },
+        {
+            "description": "Find out about sinusitis, including the symptoms, how to treat it yourself, how a pharmacist can help, when to see a GP and the treatments they may recommend.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-08T17:43:39+00:00",
+                "dateModified": "2024-01-31T17:44:37+00:00",
+                "lastReviewed": [
+                    "2024-01-31T11:17:00+00:00",
+                    "2027-01-31T11:17:00+00:00"
+                ],
+                "reviewDue": "2027-01-31T11:17:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sinusitis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/sinusitis-sinus-infection/",
+            "name": "Sinusitis (sinus infection)"
+        },
+        {
+            "description": "Find out more about thrush (yeast infection), including what the symptoms are, how it's treated, why it happens and how to help prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-09T15:55:51+00:00",
+                "dateModified": "2024-04-22T16:30:08+00:00",
+                "lastReviewed": [
+                    "2023-07-28T14:40:00+00:00",
+                    "2026-07-28T14:40:00+00:00"
+                ],
+                "reviewDue": "2026-07-28T14:40:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/thrush-in-men-and-women/",
+            "name": "Thrush in men and women"
+        },
+        {
+            "description": "Find out about cold sores, including what the symptoms are, when to get medical help and how to treat them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-12T11:05:07+00:00",
+                "dateModified": "2024-02-28T15:01:42+00:00",
+                "lastReviewed": [
+                    "2024-02-19T18:54:00+00:00",
+                    "2027-02-19T18:54:00+00:00"
+                ],
+                "reviewDue": "2027-02-19T18:54:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cold-sores/",
+            "name": "Cold sores"
+        },
+        {
+            "description": "Find out about group B strep, a type of bacteria called streptococcal bacteria, and how it can affect you and your baby in pregnancy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-07T10:50:08+00:00",
+                "dateModified": "2024-06-13T10:05:15+00:00",
+                "lastReviewed": [
+                    "2024-04-19T09:23:00+00:00",
+                    "2027-04-19T09:23:00+00:00"
+                ],
+                "reviewDue": "2027-04-19T09:23:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/group-b-strep/",
+            "name": "Group B strep"
+        },
+        {
+            "description": "Find out about hyperparathyroidism, where the parathyroid glands produce too much parathyroid hormone.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-14T10:59:58+00:00",
+                "dateModified": "2022-05-19T14:00:39+00:00",
+                "lastReviewed": [
+                    "2021-05-24T09:00:00+00:00",
+                    "2024-05-24T10:00:00+00:00"
+                ],
+                "reviewDue": "2024-05-24T10:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hyperparathyroidism/",
+            "name": "Hyperparathyroidism"
+        },
+        {
+            "description": "Hypoparathyroidism is a rare condition where the parathyroid glands, which are in the neck near the thyroid gland, produce too little parathyroid hormone.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-27T16:25:10+00:00",
+                "dateModified": "2021-11-18T15:55:56+00:00",
+                "lastReviewed": [
+                    "2021-04-01T08:06:00+00:00",
+                    "2024-04-01T08:06:00+00:00"
+                ],
+                "reviewDue": "2024-04-01T08:06:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hypoparathyroidism/",
+            "name": "Hypoparathyroidism"
+        },
+        {
+            "description": "Find out about ear infections, which are very common, particularly in children. See a GP if the infection does not settle in a couple of days.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-25T10:48:33+00:00",
+                "dateModified": "2024-04-16T12:19:28+00:00",
+                "lastReviewed": [
+                    "2021-06-16T09:32:00+00:00",
+                    "2024-06-16T09:32:00+00:00"
+                ],
+                "reviewDue": "2024-06-16T09:32:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ear-infections/",
+            "name": "Ear infections"
+        },
+        {
+            "description": "NHS information about common causes of twitches in your eyes or muscles and advice about what to do.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-02-13T11:38:38+00:00",
+                "dateModified": "2023-10-31T09:17:50+00:00",
+                "lastReviewed": [
+                    "2023-10-30T11:12:00+00:00",
+                    "2026-10-30T11:12:00+00:00"
+                ],
+                "reviewDue": "2026-10-30T11:12:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/twitching-eyes-and-muscles/",
+            "name": "Twitching eyes and muscles"
+        },
+        {
+            "description": "A learning disability affects the way a person learns new things throughout their lifetime.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2018-04-09T12:07:29+00:00",
+                "dateModified": "2022-01-14T14:49:44+00:00",
+                "lastReviewed": [
+                    "2022-01-10T13:05:00+00:00",
+                    "2025-01-10T13:05:00+00:00"
+                ],
+                "reviewDue": "2025-01-10T13:05:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/learning-disabilities/",
+            "name": "Learning disabilities"
+        },
+        {
+            "description": "Find out about the different types of screening offered by the NHS in England.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2018-04-09T12:00:30+00:00",
+                "dateModified": "2024-02-22T18:39:22+00:00",
+                "lastReviewed": [
+                    "2021-07-20T12:20:00+00:00",
+                    "2024-07-20T12:20:00+00:00"
+                ],
+                "reviewDue": "2024-07-20T12:20:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/nhs-screening/",
+            "name": "NHS screening"
+        },
+        {
+            "description": "Many women experience headaches caused by changes in their hormones. Read self-help tips and treatments for hormone headaches, also called menstrual migraines.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-09T12:01:50+00:00",
+                "dateModified": "2024-03-11T15:19:44+00:00",
+                "lastReviewed": [
+                    "2021-09-22T23:00:00+00:00",
+                    "2024-09-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-22T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Headaches (hormone)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hormone-headaches/",
+            "name": "Hormone headaches"
+        },
+        {
+            "description": "Find out what you can do to help if you see someone having a seizure or fit.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2018-04-09T12:22:33+00:00",
+                "dateModified": "2023-12-20T16:23:22+00:00",
+                "lastReviewed": [
+                    "2023-12-19T14:13:00+00:00",
+                    "2026-12-19T14:13:00+00:00"
+                ],
+                "reviewDue": "2026-12-19T14:13:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Seizures (fits)",
+                    "Fits (seizures)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/what-to-do-if-someone-has-a-seizure-fit/",
+            "name": "What to do if someone has a seizure (fit)"
+        },
+        {
+            "description": "Complementary and alternative medicine (CAM) is treatment that falls outside of mainstream healthcare.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2018-04-09T12:13:54+00:00",
+                "dateModified": "2022-03-03T11:22:53+00:00",
+                "lastReviewed": [
+                    "2022-03-01T14:21:00+00:00",
+                    "2025-03-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/complementary-and-alternative-medicine/",
+            "name": "Complementary and alternative medicine"
+        },
+        {
+            "description": "A knocked-out tooth can usually be saved by putting it back in place or in milk as soon as possible, before seeing a dentist.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2018-04-12T08:54:44+00:00",
+                "dateModified": "2022-06-21T12:21:00+00:00",
+                "lastReviewed": [
+                    "2021-08-09T07:58:00+00:00",
+                    "2024-08-09T07:58:00+00:00"
+                ],
+                "reviewDue": "2024-08-09T07:58:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Tooth knocked out"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/knocked-out-tooth/",
+            "name": "Knocked-out tooth"
+        },
+        {
+            "description": "Find out how a dentist can treat a chipped, broken or cracked tooth.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2018-04-12T08:55:02+00:00",
+                "dateModified": "2022-05-19T11:53:27+00:00",
+                "lastReviewed": [
+                    "2021-08-13T08:38:00+00:00",
+                    "2024-08-13T08:38:00+00:00"
+                ],
+                "reviewDue": "2024-08-13T08:38:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Tooth (chipped or broken)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chipped-broken-or-cracked-tooth/",
+            "name": "Chipped, broken or cracked tooth"
+        },
+        {
+            "description": "Diarrhoea and vomiting are common in adults, children and babies. Find out how to treat and avoid spreading them, and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-04-16T13:43:52+00:00",
+                "dateModified": "2024-06-13T08:47:35+00:00",
+                "lastReviewed": [
+                    "2023-12-21T11:26:00+00:00",
+                    "2026-12-21T11:26:00+00:00"
+                ],
+                "reviewDue": "2026-12-21T11:26:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Tummy bug",
+                    "Vomiting",
+                    "Stomach bug",
+                    "Gastroenteritis",
+                    "Diarrhoea",
+                    "Being sick"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diarrhoea-and-vomiting/",
+            "name": "Diarrhoea and vomiting"
+        },
+        {
+            "description": "Read about bullous pemphigoid, a rare skin condition that usually starts with an itchy, raised skin rash and then as the condition develops, large blisters can form.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-17T15:03:11+00:00",
+                "dateModified": "2021-11-18T15:56:35+00:00",
+                "lastReviewed": [
+                    "2021-07-19T00:00:00+00:00",
+                    "2024-07-19T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-19T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bullous-pemphigoid/",
+            "name": "Bullous pemphigoid"
+        },
+        {
+            "description": "Feeling sick (nausea) is common and usually goes away on its own. Find out about some things you can try that might help and what might be causing it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-05-04T08:35:21+00:00",
+                "dateModified": "2023-11-27T16:26:13+00:00",
+                "lastReviewed": [
+                    "2023-11-17T14:39:00+00:00",
+                    "2026-11-17T14:39:00+00:00"
+                ],
+                "reviewDue": "2026-11-17T14:39:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Nausea"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/feeling-sick-nausea/",
+            "name": "Feeling sick (nausea)"
+        },
+        {
+            "description": "Find out about Middle East respiratory syndrome coronavirus, a rare but severe respiratory illness.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-08-23T12:54:26+00:00",
+                "dateModified": "2023-10-20T09:09:14+00:00",
+                "lastReviewed": [
+                    "2021-09-29T11:39:00+00:00",
+                    "2024-09-29T11:39:00+00:00"
+                ],
+                "reviewDue": "2024-09-29T11:39:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/middle-east-respiratory-syndrome-mers/",
+            "name": "Middle East respiratory syndrome (MERS)"
+        },
+        {
+            "description": "Find out about mpox (previously known as monkeypox), including how you get it, what the symptoms are and what to do if you think you have it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-09-29T11:53:41+00:00",
+                "dateModified": "2023-09-13T11:33:47+00:00",
+                "lastReviewed": [
+                    "2022-10-20T16:36:00+00:00",
+                    "2025-04-25T16:36:00+00:00"
+                ],
+                "reviewDue": "2025-04-25T16:36:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/mpox/",
+            "name": "Mpox"
+        },
+        {
+            "description": "Information from the NHS website on medical cannabis.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2018-11-01T00:08:15+00:00",
+                "dateModified": "2024-01-05T12:06:31+00:00",
+                "lastReviewed": [
+                    "2022-05-27T08:29:00+00:00",
+                    "2025-05-27T08:29:00+00:00"
+                ],
+                "reviewDue": "2025-05-27T08:29:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Cannabis oil (medical cannabis)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/medical-cannabis/",
+            "name": "Medical cannabis (and cannabis oils)"
+        },
+        {
+            "description": "NHS information and advice about how to treat body odour, including when to see a GP if the problem persists.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2019-01-15T14:04:28+00:00",
+                "dateModified": "2022-02-04T07:44:55+00:00",
+                "lastReviewed": [
+                    "2021-12-06T13:03:00+00:00",
+                    "2024-12-06T13:03:00+00:00"
+                ],
+                "reviewDue": "2024-12-06T13:03:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/body-odour-bo/",
+            "name": "Body odour (BO)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=34",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=35",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

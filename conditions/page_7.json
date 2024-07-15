@@ -1,0 +1,818 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about general anaesthesia, which is used during surgery to make you unconscious so you will not know what is happening or feel any pain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T13:56:04+00:00",
+                "dateModified": "2024-05-22T12:28:53+00:00",
+                "lastReviewed": [
+                    "2021-06-21T06:00:00+00:00",
+                    "2024-06-21T06:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-21T06:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/general-anaesthesia/",
+            "name": "General anaesthesia"
+        },
+        {
+            "description": "Read about Gilbert's syndrome, a genetic hereditary disorder where slightly higher than normal levels of bilirubin build up in the blood, causing jaundice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:53:39+00:00",
+                "dateModified": "2022-08-11T09:24:58+00:00",
+                "lastReviewed": [
+                    "2021-11-10T01:00:00+00:00",
+                    "2024-11-10T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-11-10T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gilberts-syndrome/",
+            "name": "Gilbert's syndrome"
+        },
+        {
+            "description": "Glutaric aciduria type 1 (GA1) is a rare but serious inherited condition. It means the body can\u2019t process certain amino acids, causing a harmful build-up of substances in the blood and urine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:56:32+00:00",
+                "dateModified": "2022-05-27T09:59:09+00:00",
+                "lastReviewed": [
+                    "2022-05-24T15:38:00+00:00",
+                    "2025-05-24T15:38:00+00:00"
+                ],
+                "reviewDue": "2025-05-24T15:38:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/glutaric-aciduria/",
+            "name": "Glutaric aciduria type 1"
+        },
+        {
+            "description": "Find out about granuloma annulare, including the symptoms, treatments and causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:51:42+00:00",
+                "dateModified": "2024-03-12T09:01:25+00:00",
+                "lastReviewed": [
+                    "2023-07-10T23:00:00+00:00",
+                    "2026-07-10T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-10T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/granuloma-annulare/",
+            "name": "Granuloma annulare"
+        },
+        {
+            "description": "Find out about granulomatosis with polyangiitis (GPA), including what the symptoms are, how it's diagnosed and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:33:07+00:00",
+                "dateModified": "2024-06-03T16:46:03+00:00",
+                "lastReviewed": [
+                    "2024-05-28T00:00:00+00:00",
+                    "2027-05-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-28T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/granulomatosis-with-polyangiitis/",
+            "name": "Granulomatosis with polyangiitis (GPA)"
+        },
+        {
+            "description": "Find out about growing pains, what the symptoms are, how you can treat it, when to get medical help, and what the causes are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:49:13+00:00",
+                "dateModified": "2022-11-25T08:41:49+00:00",
+                "lastReviewed": [
+                    "2022-11-24T01:00:00+00:00",
+                    "2025-11-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-24T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/growing-pains/",
+            "name": "Growing pains"
+        },
+        {
+            "description": "Read about reactions to hair dye, the signs, symptoms, how to avoid them and what to do when you have a reaction.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:37:04+00:00",
+                "dateModified": "2021-11-18T15:29:28+00:00",
+                "lastReviewed": [
+                    "2021-10-26T23:00:00+00:00",
+                    "2024-10-26T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-26T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hair-dye-reactions/",
+            "name": "Hair dye reactions"
+        },
+        {
+            "description": "Read about hamstring injuries, including the different types, how they're treated and how long it takes to recover.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T13:49:18+00:00",
+                "dateModified": "2024-02-20T11:44:39+00:00",
+                "lastReviewed": [
+                    "2021-11-03T01:00:00+00:00",
+                    "2024-11-03T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-11-03T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hamstring-injury/",
+            "name": "Hamstring injury"
+        },
+        {
+            "description": "Find out about hand, foot and mouth disease, including what the symptoms are, how to treat it, and when you should get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:35:26+00:00",
+                "dateModified": "2024-05-13T09:38:50+00:00",
+                "lastReviewed": [
+                    "2024-05-09T23:00:00+00:00",
+                    "2027-05-09T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-09T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hand-foot-mouth-disease/",
+            "name": "Hand, foot and mouth disease"
+        },
+        {
+            "description": "Read about the main types of cancer that affect the head and neck, including mouth cancer, laryngeal cancer and throat cancer.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T11:58:22+00:00",
+                "dateModified": "2024-02-12T10:16:14+00:00",
+                "lastReviewed": [
+                    "2021-10-28T00:00:00+00:00",
+                    "2024-10-28T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-28T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/head-and-neck-cancer/",
+            "name": "Head and neck cancer"
+        },
+        {
+            "description": "Read about when hearing tests are routinely offered to children, what they involve and why they're important.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T13:40:06+00:00",
+                "dateModified": "2024-02-26T08:24:17+00:00",
+                "lastReviewed": [
+                    "2021-09-14T00:00:00+00:00",
+                    "2024-09-14T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-14T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hearing-tests-children/",
+            "name": "Hearing tests for children"
+        },
+        {
+            "description": "Find out what heart palpitations are, what they feel like, common causes and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T13:44:19+00:00",
+                "dateModified": "2024-06-13T10:11:17+00:00",
+                "lastReviewed": [
+                    "2022-06-07T00:00:00+00:00",
+                    "2025-06-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-07T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Palpitations",
+                    "Ectopic beats"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/heart-palpitations/",
+            "name": "Heart palpitations"
+        },
+        {
+            "description": "Heat exhaustion and heatstroke can happen if you get too hot. They can be serious. They usually happen during a heatwave or in a hot climate, but can also be caused by very intense exercise.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:49:50+00:00",
+                "dateModified": "2024-06-13T10:13:06+00:00",
+                "lastReviewed": [
+                    "2022-08-11T23:00:00+00:00",
+                    "2025-08-11T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-11T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/heat-exhaustion-heatstroke/",
+            "name": "Heat exhaustion and heatstroke"
+        },
+        {
+            "description": "Find out about heat rash, also called prickly heat or miliaria rubra, which is an itchy rash of small, raised spots and a stinging or prickling sensation on the skin.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:02:28+00:00",
+                "dateModified": "2024-05-21T09:49:16+00:00",
+                "lastReviewed": [
+                    "2024-05-08T23:00:00+00:00",
+                    "2027-05-08T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-08T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Prickly heat",
+                    "Sweating (excessive)",
+                    "sweat rash"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/heat-rash-prickly-heat/",
+            "name": "Heat rash (prickly heat)"
+        },
+        {
+            "description": "NHS information about Henoch-Sch\u00f6nlein purpura (HSP), including what the symptoms are, when to get medical help and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:41:11+00:00",
+                "dateModified": "2024-06-13T10:15:23+00:00",
+                "lastReviewed": [
+                    "2023-10-18T03:00:00+00:00",
+                    "2026-10-18T03:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-18T03:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/henoch-schonlein-purpura-hsp/",
+            "name": "Henoch-Sch\u00f6nlein purpura (HSP)"
+        },
+        {
+            "description": "Hepatitis is the term used to describe inflammation of the liver. It's usually the result of a viral infection or liver damage caused by drinking alcohol.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:01:09+00:00",
+                "dateModified": "2023-07-06T14:01:59+00:00",
+                "lastReviewed": [
+                    "2022-08-22T23:00:00+00:00",
+                    "2025-08-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-22T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hepatitis/",
+            "name": "Hepatitis"
+        },
+        {
+            "description": "Read about herbal medicines and remedies, including what the possible risks are, who shouldn't use them, and what to look for when buying them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T15:40:36+00:00",
+                "dateModified": "2024-04-16T12:21:40+00:00",
+                "lastReviewed": [
+                    "2022-10-17T23:00:00+00:00",
+                    "2025-10-17T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-17T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/herbal-medicines/",
+            "name": "Herbal medicines"
+        },
+        {
+            "description": "Read information on hereditary haemorrhagic telangiectasia (Osler-Weber-Rendu syndrome), including symptoms, causes and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:07:11+00:00",
+                "dateModified": "2023-05-16T16:41:48+00:00",
+                "lastReviewed": [
+                    "2023-05-09T09:54:00+00:00",
+                    "2026-05-09T09:54:00+00:00"
+                ],
+                "reviewDue": "2026-05-09T09:54:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hereditary-haemorrahagic-telangiectasia/",
+            "name": "Hereditary haemorrhagic telangiectasia (HHT)"
+        },
+        {
+            "description": "Read about hereditary neuropathy with pressure palsies (HNPP), an inherited nerve disorder that typically causes numbness, tingling and muscle weakness.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:19:47+00:00",
+                "dateModified": "2023-09-04T07:39:47+00:00",
+                "lastReviewed": [
+                    "2020-09-21T00:00:00+00:00",
+                    "2023-09-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-09-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hereditary-neuropathy/",
+            "name": "Hereditary neuropathy with pressure palsies (HNPP)"
+        },
+        {
+            "description": "Find out about hereditary spastic paraplegia (HSP), a rare group of inherited disorders that often cause weakness and stiffness in the leg muscles, which gradually gets worse over time.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:02:18+00:00",
+                "dateModified": "2023-12-13T13:23:14+00:00",
+                "lastReviewed": [
+                    "2023-02-14T01:00:00+00:00",
+                    "2026-02-14T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-14T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hereditary-spastic-paraplegia/",
+            "name": "Hereditary spastic paraplegia"
+        },
+        {
+            "description": "Read about hernias, which occur when an internal part of the body pushes through a weakness in the muscle or surrounding tissue wall.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:43:23+00:00",
+                "dateModified": "2023-12-04T09:33:25+00:00",
+                "lastReviewed": [
+                    "2022-10-18T00:00:00+00:00",
+                    "2025-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hernia/",
+            "name": "Hernia"
+        },
+        {
+            "description": "Find out about herpes simplex eye infections, including what the symptoms are, when and where to get medical help and how they're treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:35:48+00:00",
+                "dateModified": "2024-06-18T11:26:50+00:00",
+                "lastReviewed": [
+                    "2023-04-24T23:00:00+00:00",
+                    "2026-04-24T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-24T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eye infection (herpes)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/herpes-simplex-eye-infections/",
+            "name": "Herpes simplex eye infections"
+        },
+        {
+            "description": "Find out about herpetic whitlow (whitlow finger) including symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:33:42+00:00",
+                "dateModified": "2023-08-23T09:50:59+00:00",
+                "lastReviewed": [
+                    "2023-08-03T00:00:00+00:00",
+                    "2026-08-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-03T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Whitlow finger"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/herpetic-whitlow/",
+            "name": "Herpetic whitlow (whitlow finger)"
+        },
+        {
+            "description": "Find out about haemophilus influenzae (Hib),including what the symptoms are, what causes it, and the vaccines that can help prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:29:38+00:00",
+                "dateModified": "2024-06-13T17:12:10+00:00",
+                "lastReviewed": [
+                    "2023-04-04T00:00:00+00:00",
+                    "2026-04-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-04T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hib"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hib/",
+            "name": "Haemophilus influenzae type b (Hib)"
+        },
+        {
+            "description": "Find out about hidradenitis suppurativa, a painful, long-term skin condition that causes abscesses and scarring on the skin.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:43:26+00:00",
+                "dateModified": "2024-04-30T15:01:48+00:00",
+                "lastReviewed": [
+                    "2023-03-17T00:00:00+00:00",
+                    "2026-03-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-17T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hidradenitis-suppurativa/",
+            "name": "Hidradenitis suppurativa (HS)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=7",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=8",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

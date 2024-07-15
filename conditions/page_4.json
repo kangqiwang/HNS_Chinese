@@ -1,0 +1,819 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about chronic traumatic encephalopathy (CTE), a type of brain condition that slowly gets worse over time and leads to dementia.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:50:47+00:00",
+                "dateModified": "2023-08-22T10:37:06+00:00",
+                "lastReviewed": [
+                    "2022-12-29T01:00:00+00:00",
+                    "2025-12-29T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-29T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/chronic-traumatic-encephalopathy/",
+            "name": "Chronic traumatic encephalopathy"
+        },
+        {
+            "description": "Read about circumcision in boys, including why it's carried out, medical reasons for circumcision, what the procedure involves, recovery and risks.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-18T11:29:35+00:00",
+                "dateModified": "2023-10-09T15:48:03+00:00",
+                "lastReviewed": [
+                    "2022-06-26T23:00:00+00:00",
+                    "2025-06-26T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-26T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/circumcision-in-boys/",
+            "name": "Circumcision in boys"
+        },
+        {
+            "description": "Read about the medical reasons why circumcision in men may be necessary and what happens before, during and after the procedure.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-18T10:51:56+00:00",
+                "dateModified": "2024-04-16T12:18:41+00:00",
+                "lastReviewed": [
+                    "2022-09-20T23:00:00+00:00",
+                    "2025-09-20T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-20T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/circumcision-in-men/",
+            "name": "Circumcision in men"
+        },
+        {
+            "description": "Find out about cluster headaches, which are severe attacks of pain on 1 side of the head, including the symptoms, when to get medical help and how they\u2019re treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:23:41+00:00",
+                "dateModified": "2024-06-07T15:57:56+00:00",
+                "lastReviewed": [
+                    "2023-08-18T00:00:00+00:00",
+                    "2026-08-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cluster-headaches/",
+            "name": "Cluster headaches"
+        },
+        {
+            "description": "Find out about colour vision deficiency (colour blindness), what the symptoms are, where to get help, what the tests are, the causes, and the treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:26:17+00:00",
+                "dateModified": "2023-03-30T09:19:59+00:00",
+                "lastReviewed": [
+                    "2023-03-17T01:00:00+00:00",
+                    "2026-03-17T17:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-17T17:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Colour blindness"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/colour-vision-deficiency/",
+            "name": "Colour vision deficiency (colour blindness)"
+        },
+        {
+            "description": "Find out what compartment syndrome is, what the symptoms are, and how it's diagnosed and treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:26:09+00:00",
+                "dateModified": "2024-06-13T17:15:11+00:00",
+                "lastReviewed": [
+                    "2023-02-09T01:00:00+00:00",
+                    "2026-02-09T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-09T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/compartment-syndrome/",
+            "name": "Compartment syndrome"
+        },
+        {
+            "description": "NHS information about sudden confusion (delirium), including how to tell if someone is confused and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T08:54:48+00:00",
+                "dateModified": "2024-07-10T12:17:49+00:00",
+                "lastReviewed": [
+                    "2024-05-28T00:00:00+00:00",
+                    "2027-05-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-28T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Confusion (sudden)",
+                    "Delirium"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/confusion/",
+            "name": "Sudden confusion (delirium)"
+        },
+        {
+            "description": "Find out about costochondritis, including what the symptoms are, what to do if you think you have it, what the treatments are and what causes it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T08:35:42+00:00",
+                "dateModified": "2022-08-01T07:55:03+00:00",
+                "lastReviewed": [
+                    "2022-07-26T16:08:00+00:00",
+                    "2025-07-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/costochondritis/",
+            "name": "Costochondritis"
+        },
+        {
+            "description": "Read about coughs, including what you can do to ease a cough, help from a pharmacist and when to see a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T09:02:00+00:00",
+                "dateModified": "2024-07-06T21:37:13+00:00",
+                "lastReviewed": [
+                    "2023-12-08T00:00:00+00:00",
+                    "2026-12-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cough/",
+            "name": "Cough"
+        },
+        {
+            "description": "Read about coughing up blood, including what can cause it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T13:18:19+00:00",
+                "dateModified": "2024-06-25T12:08:15+00:00",
+                "lastReviewed": [
+                    "2024-06-13T00:00:00+00:00",
+                    "2027-06-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/coughing-up-blood/",
+            "name": "Coughing up blood (blood in phlegm)"
+        },
+        {
+            "description": "Find out about cradle cap, including what the symptoms are and what you can do to help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:31:05+00:00",
+                "dateModified": "2024-02-12T16:16:38+00:00",
+                "lastReviewed": [
+                    "2022-04-20T23:00:00+00:00",
+                    "2025-04-20T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-20T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cradle-cap/",
+            "name": "Cradle cap"
+        },
+        {
+            "description": "Find out more about why CT scans are done and what happens before, during and after the scan.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T08:39:28+00:00",
+                "dateModified": "2024-01-22T10:34:09+00:00",
+                "lastReviewed": [
+                    "2023-11-08T01:00:00+00:00",
+                    "2026-11-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-08T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ct-scan/",
+            "name": "CT scan"
+        },
+        {
+            "description": "Find out more about how to treat a cut or graze yourself and when you need to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T09:01:31+00:00",
+                "dateModified": "2024-06-13T08:41:59+00:00",
+                "lastReviewed": [
+                    "2022-06-06T00:00:00+00:00",
+                    "2025-06-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cuts-and-grazes/",
+            "name": "Cuts and grazes"
+        },
+        {
+            "description": "Find out about blue or grey skin or lips (cyanosis), including what it looks like, what causes it and when to get it checked.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T09:21:42+00:00",
+                "dateModified": "2023-10-05T11:01:36+00:00",
+                "lastReviewed": [
+                    "2023-10-04T00:00:00+00:00",
+                    "2026-10-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-04T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Cyanosis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/blue-skin-or-lips-cyanosis/",
+            "name": "Blue or grey skin or lips (cyanosis)"
+        },
+        {
+            "description": "Find out about cyclical vomiting syndrome including the symptoms, causes, how it's diagnosed and the treatment and support available.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:40:15+00:00",
+                "dateModified": "2024-06-20T13:59:24+00:00",
+                "lastReviewed": [
+                    "2024-05-31T00:00:00+00:00",
+                    "2027-05-31T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-31T00:00:00+00:00",
+                "keywords": [
+                    "cvs",
+                    "cyclical vomiting syndrome"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cyclical-vomiting-syndrome/",
+            "name": "Cyclical vomiting syndrome"
+        },
+        {
+            "description": "Find out about cyclospora, including how you get it, where it\u2019s found and what the symptoms are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:24:02+00:00",
+                "dateModified": "2022-03-29T10:47:37+00:00",
+                "lastReviewed": [
+                    "2022-03-21T01:00:00+00:00",
+                    "2025-03-21T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-21T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cyclospora/",
+            "name": "Cyclospora"
+        },
+        {
+            "description": "Find out what causes dandruff, what you can do to get rid of it and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:25:48+00:00",
+                "dateModified": "2023-01-06T16:39:42+00:00",
+                "lastReviewed": [
+                    "2022-12-23T01:00:00+00:00",
+                    "2025-12-23T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-23T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dandruff/",
+            "name": "Dandruff"
+        },
+        {
+            "description": "Decongestants are medicines that can provide short-term relief for a blocked or stuffy nose (nasal congestion). Find out about the different types and who can take them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2017-10-18T09:23:56+00:00",
+                "dateModified": "2022-11-15T15:16:50+00:00",
+                "lastReviewed": [
+                    "2022-11-03T00:00:00+00:00",
+                    "2025-11-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-03T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/decongestants/",
+            "name": "Decongestants"
+        },
+        {
+            "description": "Find out more about dental abscesses, including what the symptoms are, when to get medical help, how they\u2019re treated, and how to prevent them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:53:58+00:00",
+                "dateModified": "2024-06-13T08:45:29+00:00",
+                "lastReviewed": [
+                    "2022-06-20T13:15:00+00:00",
+                    "2025-06-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dental-abscess/",
+            "name": "Dental abscess"
+        },
+        {
+            "description": "Read about the two types of dentures \u2013 complete dentures and partial dentures. Find out how dentures are fitted, how to care for your dentures and when to see your dentist.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-18T09:39:42+00:00",
+                "dateModified": "2022-05-19T12:39:45+00:00",
+                "lastReviewed": [
+                    "2021-09-08T00:00:00+00:00",
+                    "2024-09-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/dentures/",
+            "name": "Dentures (false teeth)"
+        },
+        {
+            "description": "Find out more about dyspraxia, which is a common disorder that affects movement and co-ordination. Read about the symptoms, causes and treatments for dyspraxia, and find out when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:05:52+00:00",
+                "dateModified": "2024-06-04T14:59:01+00:00",
+                "lastReviewed": [
+                    "2020-10-01T00:00:00+00:00",
+                    "2023-10-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-10-01T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/",
+            "name": "Dyspraxia (developmental co-ordination disorder) in adults"
+        },
+        {
+            "description": "Developmental dysplasia of the hip is a condition where the ball and socket joint of the hips does not properly form in babies and young children.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:42:15+00:00",
+                "dateModified": "2022-08-17T15:23:59+00:00",
+                "lastReviewed": [
+                    "2022-08-08T00:00:00+00:00",
+                    "2025-08-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-08T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Congenital hip dislocation",
+                    "Hip dysplasia"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/developmental-dysplasia-of-the-hip/",
+            "name": "Developmental dysplasia of the hip"
+        },
+        {
+            "description": "Read about the main types of diabetes, a condition that causes a person's blood sugar level to become too high.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:33:56+00:00",
+                "dateModified": "2023-10-05T08:23:40+00:00",
+                "lastReviewed": [
+                    "2023-03-06T01:00:00+00:00",
+                    "2026-03-06T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-06T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diabetes/",
+            "name": "Diabetes"
+        },
+        {
+            "description": "Find out about diabetic eye screening, which can help spot eye problems caused by diabetes before they affect your sight.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T09:19:09+00:00",
+                "dateModified": "2024-07-06T21:27:47+00:00",
+                "lastReviewed": [
+                    "2022-09-07T00:00:00+00:00",
+                    "2025-09-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diabetic-eye-screening/",
+            "name": "Diabetic eye screening"
+        },
+        {
+            "description": "Find out about diabetic ketoacidosis (DKA), including what the symptoms are, when to get medical help and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:27:20+00:00",
+                "dateModified": "2024-06-18T15:54:23+00:00",
+                "lastReviewed": [
+                    "2023-06-08T00:00:00+00:00",
+                    "2026-06-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/diabetic-ketoacidosis/",
+            "name": "Diabetic ketoacidosis"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=4",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=5",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

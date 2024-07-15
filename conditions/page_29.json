@@ -1,0 +1,807 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Read about polycystic ovary syndrome (PCOS), a common condition that affects how a woman's ovaries work.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T11:18:53+00:00",
+                "dateModified": "2024-03-07T16:57:23+00:00",
+                "lastReviewed": [
+                    "2022-10-10T23:00:00+00:00",
+                    "2025-10-10T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-10T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/polycystic-ovary-syndrome-pcos/",
+            "name": "Polycystic ovary syndrome"
+        },
+        {
+            "description": "Read about the symptoms and treatment of a blood disorder called erythrocytosis (sometimes called polycythaemia), which means having a high concentration of red blood cells in your blood.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T08:37:05+00:00",
+                "dateModified": "2023-06-15T10:36:07+00:00",
+                "lastReviewed": [
+                    "2023-03-17T01:00:00+00:00",
+                    "2026-03-17T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-17T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/erythrocytosis/",
+            "name": "Erythrocytosis"
+        },
+        {
+            "description": "Find out about polymyalgia rheumatica (PMR), a condition that causes pain, stiffness and inflammation in the muscles around the shoulders, neck and hips.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:20:05+00:00",
+                "dateModified": "2024-03-07T16:37:29+00:00",
+                "lastReviewed": [
+                    "2023-04-22T23:00:00+00:00",
+                    "2026-04-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-22T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/polymyalgia-rheumatica/",
+            "name": "Polymyalgia rheumatica"
+        },
+        {
+            "description": "Read about post-herpetic neuralgia, which is persistent nerve pain at the site of a previous episode of shingles.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T20:06:14+00:00",
+                "dateModified": "2023-10-02T08:12:59+00:00",
+                "lastReviewed": [
+                    "2021-01-19T01:00:00+00:00",
+                    "2024-01-19T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-01-19T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/post-herpetic-neuralgia/",
+            "name": "Post-herpetic neuralgia"
+        },
+        {
+            "description": "Post-polio syndrome (PPS) is a poorly understood condition that can affect people who have had polio in the past. Polio is a viral infection that used to be common in the UK but is rare nowadays.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T16:05:45+00:00",
+                "dateModified": "2022-07-11T11:13:22+00:00",
+                "lastReviewed": [
+                    "2022-07-04T23:00:00+00:00",
+                    "2025-07-04T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-07-04T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/post-polio-syndrome/",
+            "name": "Post-polio syndrome"
+        },
+        {
+            "description": "Find out about Prader-Willi syndrome (PWS), which is a rare genetic condition that causes a wide range of physical symptoms, learning difficulties and behavioural challenges.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:49:24+00:00",
+                "dateModified": "2024-05-07T12:03:26+00:00",
+                "lastReviewed": [
+                    "2021-01-28T00:00:00+00:00",
+                    "2024-01-28T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-01-28T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/prader-willi-syndrome/",
+            "name": "Prader-Willi syndrome"
+        },
+        {
+            "description": "Pre-eclampsia is a condition that affects some pregnant women, usually during the second half of pregnancy (from around 20 weeks) or soon after their baby is delivered.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-11T13:03:59+00:00",
+                "dateModified": "2023-05-17T22:57:58+00:00",
+                "lastReviewed": [
+                    "2021-09-28T03:00:00+00:00",
+                    "2024-09-28T03:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-28T03:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pre-eclampsia/",
+            "name": "Pre-eclampsia"
+        },
+        {
+            "description": "Find out more about PMS (premenstrual syndrome), the symptoms women can experience before their period, and premenstrual dysphoric disorder (PMDD).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-23T10:45:14+00:00",
+                "dateModified": "2024-06-27T15:38:45+00:00",
+                "lastReviewed": [
+                    "2024-06-18T00:00:00+00:00",
+                    "2027-06-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pre-menstrual-syndrome/",
+            "name": "PMS (premenstrual syndrome)"
+        },
+        {
+            "description": "Find out about pressure ulcers (pressure sores or bed sores), which are areas of damage to your skin and the tissue underneath.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:43:21+00:00",
+                "dateModified": "2023-07-18T14:07:19+00:00",
+                "lastReviewed": [
+                    "2023-07-06T00:00:00+00:00",
+                    "2026-07-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pressure-sores/",
+            "name": "Pressure ulcers (pressure sores)"
+        },
+        {
+            "description": "Read about priapism, a persistent, often painful erection. If it lasts for more than 3 to 4 hours, go to A&E to prevent permanent damage.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T15:44:54+00:00",
+                "dateModified": "2024-06-14T14:38:52+00:00",
+                "lastReviewed": [
+                    "2023-12-05T00:00:00+00:00",
+                    "2026-12-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-05T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/priapism-painful-erections/",
+            "name": "Priapism (painful erections)"
+        },
+        {
+            "description": "Find out about primary biliary cholangitis (primary biliary cirrhosis), which is a type of long-term liver disease where the bile ducts in the liver become damaged.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-30T17:28:31+00:00",
+                "dateModified": "2024-04-08T12:09:48+00:00",
+                "lastReviewed": [
+                    "2024-02-02T00:00:00+00:00",
+                    "2027-02-02T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-02-02T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/primary-biliary-cholangitis-pbc/",
+            "name": "Primary biliary cholangitis (primary biliary cirrhosis)"
+        },
+        {
+            "description": "Progressive supranuclear palsy (PSP) is a rare neurological condition that can cause problems with balance, movement, vision, speech and swallowing.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T16:10:32+00:00",
+                "dateModified": "2022-03-11T17:43:19+00:00",
+                "lastReviewed": [
+                    "2022-03-10T00:00:00+00:00",
+                    "2025-03-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-10T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/progressive-supranuclear-palsy-psp/",
+            "name": "Progressive supranuclear palsy"
+        },
+        {
+            "description": "Read more about prostate cancer, including symptoms and possible treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:24:26+00:00",
+                "dateModified": "2023-10-31T08:42:39+00:00",
+                "lastReviewed": [
+                    "2021-10-18T00:00:00+00:00",
+                    "2024-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/prostate-cancer/",
+            "name": "Prostate cancer"
+        },
+        {
+            "description": "Read about benign prostate enlargement (BPE), also known as benign prostatic hyperplasia (BPH), which is a common condition in men over 50 years of age.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T08:30:25+00:00",
+                "dateModified": "2023-06-16T13:45:07+00:00",
+                "lastReviewed": [
+                    "2023-06-08T16:00:00+00:00",
+                    "2026-06-08T16:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-08T16:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Prostate enlargement"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/prostate-enlargement/",
+            "name": "Benign prostate enlargement"
+        },
+        {
+            "description": "Psoriasis is a skin condition that causes flaky patches of skin, which form silvery-white or grey scales.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T08:28:37+00:00",
+                "dateModified": "2023-09-25T13:35:13+00:00",
+                "lastReviewed": [
+                    "2022-04-08T00:00:00+00:00",
+                    "2025-04-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/psoriasis/",
+            "name": "Psoriasis"
+        },
+        {
+            "description": "Read more about a pulmonary embolism, which is when a blood clot blocks a blood vessel in your lungs. It can be life-threatening if not treated quickly.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T08:55:57+00:00",
+                "dateModified": "2024-06-14T14:41:04+00:00",
+                "lastReviewed": [
+                    "2023-05-25T00:00:00+00:00",
+                    "2026-05-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pulmonary-embolism/",
+            "name": "Pulmonary embolism"
+        },
+        {
+            "description": "Pulmonary hypertension is high blood pressure in the blood vessels that supply the lungs. It's a serious condition that can damage the right side of the heart.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T16:01:55+00:00",
+                "dateModified": "2023-05-05T15:42:22+00:00",
+                "lastReviewed": [
+                    "2023-05-01T23:00:00+00:00",
+                    "2026-05-01T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-01T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/pulmonary-hypertension/",
+            "name": "Pulmonary hypertension"
+        },
+        {
+            "description": "Find out about rabies, including where it\u2019s found, how you get it, how to avoid it and what the symptoms are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:04:09+00:00",
+                "dateModified": "2023-02-14T11:31:41+00:00",
+                "lastReviewed": [
+                    "2023-02-08T00:00:00+00:00",
+                    "2026-02-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/rabies/",
+            "name": "Rabies"
+        },
+        {
+            "description": "Find out about radiotherapy, including what it is, how it works, when it's used, how it's given and the possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T08:10:29+00:00",
+                "dateModified": "2023-06-16T13:03:30+00:00",
+                "lastReviewed": [
+                    "2023-06-04T23:00:00+00:00",
+                    "2026-06-04T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-04T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/radiotherapy/",
+            "name": "Radiotherapy"
+        },
+        {
+            "description": "Find out about Raynaud's phenomenon, a common condition that affects the blood supply to certain parts of the body, usually the fingers and toes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T16:03:33+00:00",
+                "dateModified": "2023-07-21T10:52:20+00:00",
+                "lastReviewed": [
+                    "2023-07-20T10:01:00+00:00",
+                    "2026-07-20T10:01:00+00:00"
+                ],
+                "reviewDue": "2026-07-20T10:01:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/raynauds/",
+            "name": "Raynaud's"
+        },
+        {
+            "description": "Reactive arthritis is a condition that causes inflammation (redness and swelling) in various places in the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:08:00+00:00",
+                "dateModified": "2023-12-11T10:16:30+00:00",
+                "lastReviewed": [
+                    "2021-02-09T00:00:00+00:00",
+                    "2024-02-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-02-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/reactive-arthritis/",
+            "name": "Reactive arthritis"
+        },
+        {
+            "description": "Find out about why a rectal examination is done and what it involves.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-23T15:20:25+00:00",
+                "dateModified": "2024-05-14T14:29:37+00:00",
+                "lastReviewed": [
+                    "2024-05-12T23:00:00+00:00",
+                    "2027-05-12T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-12T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/rectal-examination/",
+            "name": "Rectal examination"
+        },
+        {
+            "description": "Find out about repetitive strain injury (RSI), including what the symptoms are, what causes it, what you can do to treat it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T07:42:15+00:00",
+                "dateModified": "2024-02-21T11:40:10+00:00",
+                "lastReviewed": [
+                    "2022-05-23T23:00:00+00:00",
+                    "2025-05-24T09:50:00+00:00"
+                ],
+                "reviewDue": "2025-05-24T09:50:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/repetitive-strain-injury-rsi/",
+            "name": "Repetitive strain injury (RSI)"
+        },
+        {
+            "description": "Find out what restless legs syndrome (RLS) is, what causes it, and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T14:41:32+00:00",
+                "dateModified": "2022-03-28T10:31:16+00:00",
+                "lastReviewed": [
+                    "2022-03-23T00:00:00+00:00",
+                    "2025-03-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-23T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/restless-legs-syndrome/",
+            "name": "Restless legs syndrome"
+        },
+        {
+            "description": "Read more about restricted growth, sometimes known as dwarfism, a condition characterised by short stature.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:08:03+00:00",
+                "dateModified": "2021-11-18T15:50:40+00:00",
+                "lastReviewed": [
+                    "2021-03-30T00:00:00+00:00",
+                    "2024-03-30T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-30T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Dwarfism"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/restricted-growth/",
+            "name": "Restricted growth (dwarfism)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=29",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=30",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

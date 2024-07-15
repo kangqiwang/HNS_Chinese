@@ -1,0 +1,528 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about the contraceptive injection, including who can use it, how well it works and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:09:22+00:00",
+                "dateModified": "2024-03-18T13:43:48+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/contraceptive-injection/",
+            "name": "Contraceptive injection"
+        },
+        {
+            "description": "The progestogen-only pill, also called the mini pill, is a type of hormonal contraception.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:18+00:00",
+                "dateModified": "2024-03-18T13:19:08+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/progestogen-only-pill/",
+            "name": "Progestogen-only pill"
+        },
+        {
+            "description": "Find out about the combined contraceptive pill, including who can take it and where to get it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:07+00:00",
+                "dateModified": "2024-03-18T13:18:47+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/combined-pill/",
+            "name": "Combined pill"
+        },
+        {
+            "description": "Find out how female sterilisation (also called \u201cgetting your tubes tied\u201d or tubal ligation) works to prevent pregnancy, how it\u2019s done and what to expect after surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T09:10:31+00:00",
+                "dateModified": "2024-03-26T10:37:20+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Sterilisation (female)"
+                ]
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/female-sterilisation/",
+            "name": "Female sterilisation"
+        },
+        {
+            "description": "Find out more about the emergency contraceptive pill, including how to get it and when to take it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Contraception"
+                ],
+                "datePublished": "2024-02-29T08:59:55+00:00",
+                "dateModified": "2024-03-18T13:08:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/contraception/methods-of-contraception/emergency-contraceptive-pill-morning-after-pill/",
+            "name": "Emergency contraceptive pill (morning after pill)"
+        },
+        {
+            "description": "Get advice about getting vaccinated before travelling abroad and information about common travel vaccines.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2024-03-06T17:39:38+00:00",
+                "dateModified": "2024-03-20T11:01:56+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/travel-vaccinations/",
+            "name": "Travel vaccinations"
+        },
+        {
+            "description": "Find out about the 4-in-1 pre-school booster, including who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:47+00:00",
+                "dateModified": "2024-03-20T12:18:23+00:00",
+                "lastReviewed": [
+                    "2023-12-13T16:52:00+00:00",
+                    "2026-12-13T16:52:00+00:00"
+                ],
+                "reviewDue": "2026-12-13T16:52:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/4-in-1-preschool-booster-vaccine/",
+            "name": "4-in-1 pre-school booster vaccine"
+        },
+        {
+            "description": "NHS information about the 6-in-1 vaccine, including what the vaccine helps protect against, who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:48+00:00",
+                "dateModified": "2024-03-20T11:02:02+00:00",
+                "lastReviewed": [
+                    "2023-06-26T15:54:00+00:00",
+                    "2026-06-26T15:54:00+00:00"
+                ],
+                "reviewDue": "2026-06-26T15:54:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/6-in-1-vaccine/",
+            "name": "6-in-1 vaccine"
+        },
+        {
+            "description": "Find out about the BCG vaccine for tuberculosis (TB), including who should have it and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:52+00:00",
+                "dateModified": "2024-03-20T11:02:07+00:00",
+                "lastReviewed": [
+                    "2023-12-04T16:56:00+00:00",
+                    "2026-12-04T16:56:00+00:00"
+                ],
+                "reviewDue": "2026-12-04T16:56:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/bcg-vaccine-for-tuberculosis-tb/",
+            "name": "BCG vaccine for tuberculosis (TB)"
+        },
+        {
+            "description": "Find out about the chickenpox vaccine, including who can get it on the NHS, how to get it and what the side effects are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:53+00:00",
+                "dateModified": "2024-03-20T11:02:13+00:00",
+                "lastReviewed": [
+                    "2024-03-19T08:12:00+00:00",
+                    "2027-03-19T08:12:00+00:00"
+                ],
+                "reviewDue": "2027-03-19T08:12:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/chickenpox-vaccine/",
+            "name": "Chickenpox vaccine"
+        },
+        {
+            "description": "Find out about the flu vaccine, including who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:58+00:00",
+                "dateModified": "2024-04-01T07:01:07+00:00",
+                "lastReviewed": [
+                    "2023-11-23T08:28:00+00:00",
+                    "2026-11-23T08:28:00+00:00"
+                ],
+                "reviewDue": "2026-11-23T08:28:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/flu-vaccine/",
+            "name": "Flu vaccine"
+        },
+        {
+            "description": "Find out about the children's flu vaccine, including who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:58+00:00",
+                "dateModified": "2024-04-01T07:01:16+00:00",
+                "lastReviewed": [
+                    "2023-12-13T08:33:00+00:00",
+                    "2026-12-13T08:33:00+00:00"
+                ],
+                "reviewDue": "2026-12-13T08:33:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/child-flu-vaccine/",
+            "name": "Children's flu vaccine"
+        },
+        {
+            "description": "Find out about the hepatitis B vaccine, including why it\u2019s given, who can have it and what side effects it can have.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:39:59+00:00",
+                "dateModified": "2024-03-20T11:02:31+00:00",
+                "lastReviewed": [
+                    "2024-03-19T08:35:00+00:00",
+                    "2027-03-19T08:35:00+00:00"
+                ],
+                "reviewDue": "2027-03-19T08:35:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/hepatitis-b-vaccine/",
+            "name": "Hepatitis B vaccine"
+        },
+        {
+            "description": "Find out about the Hib/MenC vaccine, including what it's for, who should have it and how to get it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:00+00:00",
+                "dateModified": "2024-03-20T11:02:37+00:00",
+                "lastReviewed": [
+                    "2023-11-30T08:36:00+00:00",
+                    "2026-11-30T08:36:00+00:00"
+                ],
+                "reviewDue": "2026-11-30T08:36:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/hib-menc-vaccine/",
+            "name": "Hib/MenC vaccine"
+        },
+        {
+            "description": "Find out about the HPV vaccine, including who it's for, how to get it and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:04+00:00",
+                "dateModified": "2024-04-03T08:28:18+00:00",
+                "lastReviewed": [
+                    "2023-09-01T07:37:00+00:00",
+                    "2026-09-01T07:37:00+00:00"
+                ],
+                "reviewDue": "2026-09-01T07:37:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/hpv-vaccine/",
+            "name": "HPV vaccine"
+        },
+        {
+            "description": "Find out about the MenACWY vaccine, including what it\u2019s for, who should have it, how to get it and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:08+00:00",
+                "dateModified": "2024-03-20T14:25:15+00:00",
+                "lastReviewed": [
+                    "2024-02-28T08:38:00+00:00",
+                    "2027-02-28T08:38:00+00:00"
+                ],
+                "reviewDue": "2027-02-28T08:38:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/menacwy-vaccine/",
+            "name": "MenACWY vaccine"
+        },
+        {
+            "description": "Find out about the MenB vaccine, including who should have it, how to get it, side effects and how well it works.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:09+00:00",
+                "dateModified": "2024-03-20T11:32:49+00:00",
+                "lastReviewed": [
+                    "2024-03-13T08:40:00+00:00",
+                    "2027-03-13T08:40:00+00:00"
+                ],
+                "reviewDue": "2027-03-13T08:40:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/menb-vaccine/",
+            "name": "MenB vaccine"
+        },
+        {
+            "description": "Find out about the MMR vaccine for measles, mumps and rubella, including who should have it, when it's given and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:10+00:00",
+                "dateModified": "2024-03-20T11:03:03+00:00",
+                "lastReviewed": [
+                    "2024-03-08T08:43:00+00:00",
+                    "2027-03-08T08:43:00+00:00"
+                ],
+                "reviewDue": "2027-03-08T08:43:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/mmr-vaccine/",
+            "name": "MMR (measles, mumps and rubella) vaccine"
+        },
+        {
+            "description": "NHS information about the pneumococcal vaccine, including what the vaccine helps protect against, who should have it, how to get it and side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:11+00:00",
+                "dateModified": "2024-07-15T10:34:25+00:00",
+                "lastReviewed": [
+                    "2023-06-26T07:44:00+00:00",
+                    "2026-06-26T07:44:00+00:00"
+                ],
+                "reviewDue": "2026-06-26T07:44:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/pneumococcal-vaccine/",
+            "name": "Pneumococcal vaccine"
+        },
+        {
+            "description": "Find out about the rotavirus vaccine, including why it's given, who should have it and what the possible side effects are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:14+00:00",
+                "dateModified": "2024-03-20T11:03:14+00:00",
+                "lastReviewed": [
+                    "2023-12-13T08:45:00+00:00",
+                    "2026-12-13T08:45:00+00:00"
+                ],
+                "reviewDue": "2026-12-13T08:45:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/rotavirus-vaccine/",
+            "name": "Rotavirus vaccine"
+        },
+        {
+            "description": "Find out about the shingles vaccine, including who it's for, how to get it and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:20+00:00",
+                "dateModified": "2024-03-20T11:03:19+00:00",
+                "lastReviewed": [
+                    "2023-09-01T07:46:00+00:00",
+                    "2026-09-01T07:46:00+00:00"
+                ],
+                "reviewDue": "2026-09-01T07:46:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/vaccinations/shingles-vaccine/",
+            "name": "Shingles vaccine"
+        },
+        {
+            "description": "Find out about the Td/IPV vaccine (3-in-1 teenage booster) for tetanus, diphtheria and polio, including who it's for, how to get it and possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Vaccine"
+                ],
+                "datePublished": "2024-03-06T17:40:24+00:00",
+                "dateModified": "2024-03-20T11:03:25+00:00",
+                "lastReviewed": [
+                    "2024-02-12T08:48:00+00:00",
+                    "2027-02-12T08:48:00+00:00"
+                ],
+                "reviewDue": "2027-02-12T08:48:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "3-in-1 teenage booster vaccine"
+                ]
+            },
+            "url": "https://www.nhs.uk/vaccinations/td-ipv-vaccine-3-in-1-teenage-booster/",
+            "name": "Td/IPV vaccine (3-in-1 teenage booster)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=0",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        }
+    ]
+}

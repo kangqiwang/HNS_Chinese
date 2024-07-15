@@ -1,0 +1,824 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about colic, including what the symptoms are, what you can do to help soothe your baby, and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T16:00:20+00:00",
+                "dateModified": "2024-06-18T17:02:35+00:00",
+                "lastReviewed": [
+                    "2022-04-25T23:00:00+00:00",
+                    "2025-04-25T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-04-25T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/colic/",
+            "name": "Colic"
+        },
+        {
+            "description": "Find out about having a colostomy, including when it's needed, how it's carried out and recovery, plus information and advice about living with a colostomy.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-23T10:00:07+00:00",
+                "dateModified": "2024-04-03T08:24:52+00:00",
+                "lastReviewed": [
+                    "2020-09-16T00:00:00+00:00",
+                    "2023-09-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-09-16T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/colostomy/",
+            "name": "Colostomy"
+        },
+        {
+            "description": "Find out what a colposcopy is, what it is for, what happens on the day and what the results mean.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2017-10-19T15:06:45+00:00",
+                "dateModified": "2022-05-26T15:08:31+00:00",
+                "lastReviewed": [
+                    "2022-05-23T23:00:00+00:00",
+                    "2025-05-23T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-23T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/colposcopy/",
+            "name": "Colposcopy"
+        },
+        {
+            "description": "Find out about the common cold, including what the symptoms are, how it's spread, how it's treated, and how you can prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T09:50:06+00:00",
+                "dateModified": "2024-04-02T14:23:44+00:00",
+                "lastReviewed": [
+                    "2024-03-22T14:37:00+00:00",
+                    "2027-03-22T14:37:00+00:00"
+                ],
+                "reviewDue": "2027-03-22T14:37:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/common-cold/",
+            "name": "Common cold"
+        },
+        {
+            "description": "Find out about complex regional pain syndrome (CRPS), a poorly understood condition where a person experiences persistent severe and debilitating pain.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:25:13+00:00",
+                "dateModified": "2024-03-07T16:56:13+00:00",
+                "lastReviewed": [
+                    "2022-10-27T01:00:00+00:00",
+                    "2025-10-27T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-27T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/complex-regional-pain-syndrome/",
+            "name": "Complex regional pain syndrome"
+        },
+        {
+            "description": "Find out about the different types of congenital heart disease, why it happens, the signs and symptoms and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:34:26+00:00",
+                "dateModified": "2022-10-10T10:32:45+00:00",
+                "lastReviewed": [
+                    "2021-09-07T11:00:00+00:00",
+                    "2024-09-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/congenital-heart-disease/",
+            "name": "Congenital heart disease"
+        },
+        {
+            "description": "Conjunctivitis is where your eyes are red and sore. Read about what causes conjunctivitis, how to prevent it and how to treat it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:42:12+00:00",
+                "dateModified": "2024-04-24T10:43:00+00:00",
+                "lastReviewed": [
+                    "2024-04-22T23:00:00+00:00",
+                    "2027-04-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-22T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/conjunctivitis/",
+            "name": "Conjunctivitis"
+        },
+        {
+            "description": "Find out what consent is, how it can be given, when it's needed, as well as situations when it's not needed.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-20T17:11:38+00:00",
+                "dateModified": "2024-07-02T08:45:26+00:00",
+                "lastReviewed": [
+                    "2022-12-08T00:00:00+00:00",
+                    "2025-12-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-12-08T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/consent-to-treatment/",
+            "name": "Consent to treatment"
+        },
+        {
+            "description": "Constipation is common and it affects people of all ages. You can usually treat it at home with simple changes to your diet and lifestyle.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:33:39+00:00",
+                "dateModified": "2024-03-07T16:36:23+00:00",
+                "lastReviewed": [
+                    "2023-10-26T00:00:00+00:00",
+                    "2026-10-26T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-26T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/constipation/",
+            "name": "Constipation"
+        },
+        {
+            "description": "Read about contact dermatitis, a type of eczema that causes inflammation of the skin when you come into contact with a particular substance.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T16:00:24+00:00",
+                "dateModified": "2023-05-09T09:48:32+00:00",
+                "lastReviewed": [
+                    "2023-05-02T23:00:00+00:00",
+                    "2026-05-02T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-02T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eczema (contact dermatitis)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/contact-dermatitis/",
+            "name": "Contact dermatitis"
+        },
+        {
+            "description": "Read about cornea transplants, where surgery is used to remove all or part of a damaged cornea and replace it with healthy cornea tissue from a donor.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T07:39:53+00:00",
+                "dateModified": "2023-11-20T15:45:20+00:00",
+                "lastReviewed": [
+                    "2021-07-13T00:00:00+00:00",
+                    "2024-07-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-07-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cornea-transplant/",
+            "name": "Cornea transplant"
+        },
+        {
+            "description": "NHS information about corns and calluses, including symptoms, causes and how to treat them.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:09:47+00:00",
+                "dateModified": "2023-12-08T17:24:56+00:00",
+                "lastReviewed": [
+                    "2022-08-24T00:00:00+00:00",
+                    "2025-08-24T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-08-24T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/corns-and-calluses/",
+            "name": "Corns and calluses"
+        },
+        {
+            "description": "Find out about cardiac catheterisation, an invasive diagnostic procedure that provides important information about the structure and function of the heart.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2017-10-19T15:40:46+00:00",
+                "dateModified": "2023-05-18T11:15:58+00:00",
+                "lastReviewed": [
+                    "2022-10-03T23:00:00+00:00",
+                    "2025-10-03T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-03T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/coronary-angiography/",
+            "name": "Cardiac catheterisation and coronary angiography"
+        },
+        {
+            "description": "Find out about coronary angioplasty, a procedure used to widen blocked or narrowed coronary arteries.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T07:51:42+00:00",
+                "dateModified": "2022-10-11T10:00:36+00:00",
+                "lastReviewed": [
+                    "2022-10-04T01:00:00+00:00",
+                    "2025-10-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-04T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Angioplasty",
+                    "Stent insertion"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/coronary-angioplasty/",
+            "name": "Coronary angioplasty and stent insertion"
+        },
+        {
+            "description": "Find out why a coronary artery bypass graft (CABG) may be needed, what it involves, how long it takes to recover and the associated risks.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-24T07:49:40+00:00",
+                "dateModified": "2024-02-05T12:29:13+00:00",
+                "lastReviewed": [
+                    "2021-11-23T00:00:00+00:00",
+                    "2024-11-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-11-23T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Heart bypass",
+                    "CABG"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/coronary-artery-bypass-graft-cabg/",
+            "name": "Coronary artery bypass graft"
+        },
+        {
+            "description": "Find out about coronary heart disease (CHD), including the main symptoms, causes, treatments and prevention. CHD is a major cause of death in the UK and worldwide.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T20:01:44+00:00",
+                "dateModified": "2024-02-06T08:22:56+00:00",
+                "lastReviewed": [
+                    "2024-01-17T00:00:00+00:00",
+                    "2027-01-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-17T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Heart disease (coronary)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/coronary-heart-disease/",
+            "name": "Coronary heart disease"
+        },
+        {
+            "description": "Read about corticobasal degeneration (CBD), a rare condition where brain cells become damaged over time and certain sections of the brain start to shrink.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:58:52+00:00",
+                "dateModified": "2023-08-22T13:34:14+00:00",
+                "lastReviewed": [
+                    "2022-09-27T00:00:00+00:00",
+                    "2025-09-26T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-26T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/corticobasal-degeneration/",
+            "name": "Corticobasal degeneration"
+        },
+        {
+            "description": "Find out about craniosynostosis, a rare condition where a baby's skull does not grow properly and their head becomes an unusual shape.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:13:13+00:00",
+                "dateModified": "2024-03-13T15:49:26+00:00",
+                "lastReviewed": [
+                    "2023-07-25T00:00:00+00:00",
+                    "2026-07-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/craniosynostosis/",
+            "name": "Craniosynostosis"
+        },
+        {
+            "description": "Find out about the different types of Creutzfeldt-Jakob disease (CJD), and what causes the condition and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:20:44+00:00",
+                "dateModified": "2021-11-18T15:40:26+00:00",
+                "lastReviewed": [
+                    "2021-09-07T00:00:00+00:00",
+                    "2024-09-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-07T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "CJD"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/creutzfeldt-jakob-disease-cjd/",
+            "name": "Creutzfeldt-Jakob disease"
+        },
+        {
+            "description": "Read more about the symptoms, treatment and complications of Crohn's disease, which is a long-term condition that causes inflammation of the lining of the digestive system.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:58:51+00:00",
+                "dateModified": "2023-05-17T17:16:11+00:00",
+                "lastReviewed": [
+                    "2021-04-22T00:00:00+00:00",
+                    "2024-04-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/crohns-disease/",
+            "name": "Crohn's disease"
+        },
+        {
+            "description": "Find out about croup, including the symptoms, what to do if your child has it, and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:25:34+00:00",
+                "dateModified": "2024-06-13T08:39:28+00:00",
+                "lastReviewed": [
+                    "2023-08-02T00:00:00+00:00",
+                    "2026-08-02T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-02T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/croup/",
+            "name": "Croup"
+        },
+        {
+            "description": "Cushing's syndrome is a collection of symptoms that develop as the result of very high levels of a hormone called cortisol in the body.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:29:57+00:00",
+                "dateModified": "2023-11-13T08:45:18+00:00",
+                "lastReviewed": [
+                    "2021-03-25T00:00:00+00:00",
+                    "2024-03-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cushings-syndrome/",
+            "name": "Cushing's syndrome"
+        },
+        {
+            "description": "Cystic fibrosis is an inherited condition in which the lungs and digestive system can become clogged with thick, sticky mucus. Read about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:33:18+00:00",
+                "dateModified": "2023-06-14T16:34:56+00:00",
+                "lastReviewed": [
+                    "2021-03-16T00:00:00+00:00",
+                    "2024-03-16T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-16T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cystic-fibrosis/",
+            "name": "Cystic fibrosis"
+        },
+        {
+            "description": "Find out more about the bladder infection cystitis, including what the symptoms are, how it's treated and how to prevent it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:22:33+00:00",
+                "dateModified": "2023-12-18T15:03:39+00:00",
+                "lastReviewed": [
+                    "2022-02-11T01:00:00+00:00",
+                    "2025-02-11T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-11T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cystitis/",
+            "name": "Cystitis"
+        },
+        {
+            "description": "Find out more about cytomegalovirus (CMV), a common virus that's usually harmless but can cause problems in babies.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T11:01:01+00:00",
+                "dateModified": "2023-07-25T13:15:44+00:00",
+                "lastReviewed": [
+                    "2023-07-20T00:00:00+00:00",
+                    "2026-07-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-20T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/cytomegalovirus-cmv/",
+            "name": "Cytomegalovirus (CMV)"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=20",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=21",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

@@ -1,0 +1,814 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about enhanced recovery, an evidence-based approach that helps people to recover more quickly after having major surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T11:58:19+00:00",
+                "dateModified": "2024-04-16T12:19:47+00:00",
+                "lastReviewed": [
+                    "2023-04-18T12:07:00+00:00",
+                    "2026-04-18T12:07:00+00:00"
+                ],
+                "reviewDue": "2026-04-18T12:07:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/enhanced-recovery/",
+            "name": "Enhanced recovery"
+        },
+        {
+            "description": "Read more about epididymitis, which is when the epididymis (a coiled tube at the back of each testicle that stores and carries sperm) becomes swollen and painful.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T11:46:43+00:00",
+                "dateModified": "2024-06-13T08:58:00+00:00",
+                "lastReviewed": [
+                    "2021-04-22T00:00:00+00:00",
+                    "2024-04-22T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-22T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/epididymitis/",
+            "name": "Epididymitis"
+        },
+        {
+            "description": "Read about epiglottitis, which is inflammation and swelling of the epiglottis, a flap of tissue that sits beneath the tongue at the back of the throat.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T11:03:20+00:00",
+                "dateModified": "2024-03-20T16:37:54+00:00",
+                "lastReviewed": [
+                    "2021-06-23T00:00:00+00:00",
+                    "2024-06-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-23T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/epiglottitis/",
+            "name": "Epiglottitis"
+        },
+        {
+            "description": "NHS information about erythema multiforme, including symptoms, when to get help and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:58:33+00:00",
+                "dateModified": "2024-06-13T17:13:46+00:00",
+                "lastReviewed": [
+                    "2023-04-11T02:00:00+00:00",
+                    "2026-04-11T02:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-11T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/erythema-multiforme/",
+            "name": "Erythema multiforme"
+        },
+        {
+            "description": "NHS information about erythema nodosum. Find out what it is, what the symptoms are, what causes it, when to get medical help and how it\u2019s treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T09:20:05+00:00",
+                "dateModified": "2024-03-12T09:01:58+00:00",
+                "lastReviewed": [
+                    "2023-10-18T00:00:00+00:00",
+                    "2026-10-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/erythema-nodosum/",
+            "name": "Erythema nodosum"
+        },
+        {
+            "description": "NHS information about erythromelalgia, a rare condition that causes episodes of burning pain and redness in the hands and feet, and sometimes the arms, legs, ears and face.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:24:31+00:00",
+                "dateModified": "2023-11-22T11:29:24+00:00",
+                "lastReviewed": [
+                    "2023-08-18T00:00:00+00:00",
+                    "2026-08-18T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-18T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/erythromelalgia/",
+            "name": "Erythromelalgia"
+        },
+        {
+            "description": "Read about euthanasia (deliberately ending a person's life to relieve suffering) and assisted suicide (deliberately assisting a person to kill themselves). Both are illegal in England.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2018-06-07T10:29:10+00:00",
+                "dateModified": "2023-09-18T16:15:17+00:00",
+                "lastReviewed": [
+                    "2023-07-12T00:00:00+00:00",
+                    "2026-07-12T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-12T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/euthanasia-and-assisted-suicide/",
+            "name": "Euthanasia and assisted suicide"
+        },
+        {
+            "description": "Read about excessive daytime sleepiness (hypersomnia), a condition that causes you to feel very sleepy during the day, even if you had a good night's sleep.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:43:10+00:00",
+                "dateModified": "2023-06-30T09:51:10+00:00",
+                "lastReviewed": [
+                    "2023-06-23T00:00:00+00:00",
+                    "2026-06-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-23T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hypersomnia"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+            "name": "Excessive daytime sleepiness (hypersomnia)"
+        },
+        {
+            "description": "Read about eye cancer, including the symptoms, causes, treatments, and outlook.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:17:54+00:00",
+                "dateModified": "2023-05-17T08:53:29+00:00",
+                "lastReviewed": [
+                    "2022-10-05T23:00:00+00:00",
+                    "2025-10-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/eye-cancer/",
+            "name": "Eye cancer"
+        },
+        {
+            "description": "Find out what to do if you have an eye injury, including when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-18T10:39:24+00:00",
+                "dateModified": "2024-06-13T08:59:30+00:00",
+                "lastReviewed": [
+                    "2022-06-07T00:00:00+00:00",
+                    "2025-06-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/eye-injuries/",
+            "name": "Eye injuries"
+        },
+        {
+            "description": "Find out what to do if you have a lump on your eyelid, or an eyelid that's swollen, sticky, itchy or painful.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T10:29:43+00:00",
+                "dateModified": "2024-03-15T16:02:50+00:00",
+                "lastReviewed": [
+                    "2023-11-17T01:00:00+00:00",
+                    "2026-11-17T16:38:00+00:00"
+                ],
+                "reviewDue": "2026-11-17T16:38:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/eyelid-problems/",
+            "name": "Eyelid problems"
+        },
+        {
+            "description": "Read about the routine eye checks that newborn babies have and eye tests for children. Eye checks are important because they allow any problems to be identified early on in a child's development.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Test"
+                ],
+                "datePublished": "2017-10-18T11:14:11+00:00",
+                "dateModified": "2024-01-23T08:15:17+00:00",
+                "lastReviewed": [
+                    "2023-03-07T01:00:00+00:00",
+                    "2026-03-07T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-07T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/eye-tests-in-children/",
+            "name": "Eye tests for children"
+        },
+        {
+            "description": "Find out about prosopagnosia, a difficulty recognising people's faces. Read about the symptoms, causes and things you can do to help live with it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-04-03T13:36:54+00:00",
+                "dateModified": "2023-03-13T08:44:58+00:00",
+                "lastReviewed": [
+                    "2023-01-30T01:00:00+00:00",
+                    "2026-01-30T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-30T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Face blindness"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/face-blindness/",
+            "name": "Prosopagnosia (face blindness)"
+        },
+        {
+            "description": "Find out about febrile seizures (febrile convulsions or fits), which can sometimes happen when a child has a high temperature (fever).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T10:48:12+00:00",
+                "dateModified": "2024-06-18T11:53:48+00:00",
+                "lastReviewed": [
+                    "2023-06-20T23:00:00+00:00",
+                    "2026-06-20T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-06-20T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Fits (children with fever)",
+                    "Seizures (children with fever)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/febrile-seizures/",
+            "name": "Febrile seizures"
+        },
+        {
+            "description": "Find out what female genital mutilation (FGM) is, why and where it's carried out, what the health risks are, and where to get help and advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T11:02:05+00:00",
+                "dateModified": "2024-04-16T12:20:16+00:00",
+                "lastReviewed": [
+                    "2022-09-27T00:00:00+00:00",
+                    "2025-09-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-27T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/female-genital-mutilation-fgm/",
+            "name": "Female genital mutilation (FGM)"
+        },
+        {
+            "description": "Find out how to check if your child has a high temperature (fever), what you can do to bring their temperature down, and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-24T15:25:05+00:00",
+                "dateModified": "2024-07-06T21:38:40+00:00",
+                "lastReviewed": [
+                    "2024-01-03T17:00:00+00:00",
+                    "2027-01-03T17:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-03T17:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Fever in children"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/fever-in-children/",
+            "name": "High temperature (fever) in children"
+        },
+        {
+            "description": "Find out about flat feet (fallen arches), including why they happen, whether they're serious and how they can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T10:14:30+00:00",
+                "dateModified": "2024-05-29T12:38:06+00:00",
+                "lastReviewed": [
+                    "2022-01-24T01:00:00+00:00",
+                    "2025-01-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-24T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/flat-feet/",
+            "name": "Flat feet"
+        },
+        {
+            "description": "Read about fluoride \u2013 a naturally occurring mineral that is added to toothpaste, drinking water and some foods, which can help prevent tooth decay.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T14:08:10+00:00",
+                "dateModified": "2022-09-16T15:48:32+00:00",
+                "lastReviewed": [
+                    "2022-09-13T00:00:00+00:00",
+                    "2025-09-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/fluoride/",
+            "name": "Fluoride"
+        },
+        {
+            "description": "Find out about foetal alcohol spectrum disorder, which is a range of mental and physical problems that can affect a child if their mother drinks alcohol while pregnant.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:02:25+00:00",
+                "dateModified": "2023-04-14T09:25:35+00:00",
+                "lastReviewed": [
+                    "2023-04-03T23:00:00+00:00",
+                    "2026-04-03T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-03T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/foetal-alcohol-spectrum-disorder/",
+            "name": "Foetal alcohol spectrum disorder"
+        },
+        {
+            "description": "Find out about the possible link between some artificial food colours and hyperactivity in children.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T14:04:47+00:00",
+                "dateModified": "2023-05-16T14:55:03+00:00",
+                "lastReviewed": [
+                    "2023-05-12T10:56:00+00:00",
+                    "2026-05-12T10:56:00+00:00"
+                ],
+                "reviewDue": "2026-05-12T10:56:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/food-colours-and-hyperactivity/",
+            "name": "Food colours and hyperactivity"
+        },
+        {
+            "description": "NHS information about food intolerance, including symptoms, diagnosis and treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:14:56+00:00",
+                "dateModified": "2023-10-23T07:49:23+00:00",
+                "lastReviewed": [
+                    "2022-11-25T01:00:00+00:00",
+                    "2025-11-25T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-25T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/food-intolerance/",
+            "name": "Food intolerance"
+        },
+        {
+            "description": "Find out about foot drop, where it's difficult to lift or move your foot and toes when walking.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-10-03T19:57:02+00:00",
+                "dateModified": "2022-01-10T13:59:03+00:00",
+                "lastReviewed": [
+                    "2022-01-06T00:00:00+00:00",
+                    "2025-01-06T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-06T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/foot-drop/",
+            "name": "Foot drop"
+        },
+        {
+            "description": "A ganglion cyst is a fluid-filled swelling that develops near a joint or tendon. The cyst can range from the size of a pea to the size of a golf ball.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T12:23:53+00:00",
+                "dateModified": "2023-11-28T11:48:57+00:00",
+                "lastReviewed": [
+                    "2021-10-11T00:00:00+00:00",
+                    "2024-10-11T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-11T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ganglion/",
+            "name": "Ganglion cyst"
+        },
+        {
+            "description": "Find out about gastritis, including what the symptoms are, why it happens and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:54:50+00:00",
+                "dateModified": "2024-06-19T13:32:30+00:00",
+                "lastReviewed": [
+                    "2022-10-27T00:00:00+00:00",
+                    "2025-10-27T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-27T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gastritis/",
+            "name": "Gastritis"
+        },
+        {
+            "description": "Find out about gastroparesis, including what the symptoms are, what the treatments are, how it's diagnosed, and what causes it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:51:17+00:00",
+                "dateModified": "2024-06-18T10:56:43+00:00",
+                "lastReviewed": [
+                    "2023-01-24T01:00:00+00:00",
+                    "2026-01-24T11:26:00+00:00"
+                ],
+                "reviewDue": "2026-01-24T11:26:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/gastroparesis/",
+            "name": "Gastroparesis"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=6",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=7",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

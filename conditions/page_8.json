@@ -1,0 +1,817 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out about high blood sugar (hyperglycaemia), including what the symptoms are, what a high blood sugar level is and how to control your blood sugar.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:21:22+00:00",
+                "dateModified": "2022-06-10T08:44:08+00:00",
+                "lastReviewed": [
+                    "2022-05-26T00:00:00+00:00",
+                    "2025-05-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/high-blood-sugar-hyperglycaemia/",
+            "name": "High blood sugar (hyperglycaemia)"
+        },
+        {
+            "description": "Find out about common causes of hip pain in adults, how you can help ease hip pain and when you should get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T15:45:13+00:00",
+                "dateModified": "2024-06-13T10:18:09+00:00",
+                "lastReviewed": [
+                    "2022-03-11T01:00:00+00:00",
+                    "2025-03-11T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-11T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hip-pain/",
+            "name": "Hip pain in adults"
+        },
+        {
+            "description": "Hirschsprung's disease is a rare bowel condition that is mainly diagnosed in babies and young children. Read about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:41:51+00:00",
+                "dateModified": "2023-01-30T12:47:45+00:00",
+                "lastReviewed": [
+                    "2023-01-27T00:00:00+00:00",
+                    "2026-01-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-27T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hirschsprungs-disease/",
+            "name": "Hirschsprung's disease"
+        },
+        {
+            "description": "Find out about homeopathy, including how it has developed and used in treatments, plus links to other resources.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T15:39:10+00:00",
+                "dateModified": "2024-05-01T14:12:40+00:00",
+                "lastReviewed": [
+                    "2024-04-29T23:00:00+00:00",
+                    "2027-04-29T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-29T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/homeopathy/",
+            "name": "Homeopathy"
+        },
+        {
+            "description": "Information about home oxygen therapy, also known as home oxygen treatment, including when it's needed, how it's given, the assessment process and safety advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-18T17:43:16+00:00",
+                "dateModified": "2024-03-15T17:45:55+00:00",
+                "lastReviewed": [
+                    "2023-08-02T00:00:00+00:00",
+                    "2026-08-02T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-08-02T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Oxygen therapy"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/home-oxygen-treatment/",
+            "name": "Home oxygen therapy"
+        },
+        {
+            "description": "Homocystinuria (HCU) is a rare but potentially serious inherited condition where the body can't process the amino acid methionine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-05-09T12:20:33+00:00",
+                "dateModified": "2022-05-24T11:05:09+00:00",
+                "lastReviewed": [
+                    "2022-05-19T01:00:00+00:00",
+                    "2025-05-19T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-19T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/homocystinuria/",
+            "name": "Homocystinuria"
+        },
+        {
+            "description": "Find put about hyperacusis, an intolerance to sounds that are not an issue for most other people. Find out about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:24:55+00:00",
+                "dateModified": "2023-03-13T08:45:36+00:00",
+                "lastReviewed": [
+                    "2022-11-10T01:00:00+00:00",
+                    "2025-11-10T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-11-10T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hyperacusis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hyperacusis/",
+            "name": "Noise sensitivity (hyperacusis)"
+        },
+        {
+            "description": "Read more about hypnotherapy, which is a type of complementary therapy that uses hypnosis \u2013 an altered state of consciousness.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Treatment"
+                ],
+                "datePublished": "2018-01-19T10:41:06+00:00",
+                "dateModified": "2023-11-09T10:56:24+00:00",
+                "lastReviewed": [
+                    "2023-11-08T00:00:00+00:00",
+                    "2026-11-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-08T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hypnotherapy/",
+            "name": "Hypnotherapy"
+        },
+        {
+            "description": "Find out about hypothermia, a dangerous drop in body temperature below 35C (normal body temperature is around 37C). Go to A&E or call 999 immediately if someone has symptoms of hypothermia.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:32:33+00:00",
+                "dateModified": "2024-06-13T10:20:13+00:00",
+                "lastReviewed": [
+                    "2023-06-09T16:39:00+00:00",
+                    "2026-06-09T16:39:00+00:00"
+                ],
+                "reviewDue": "2026-06-09T16:39:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hypothermia/",
+            "name": "Hypothermia"
+        },
+        {
+            "description": "Find out about ichthyosis, a condition that causes dry scaly skin, including when to get medical help, treatment options and types.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T14:01:41+00:00",
+                "dateModified": "2023-05-11T10:08:08+00:00",
+                "lastReviewed": [
+                    "2023-05-04T00:00:00+00:00",
+                    "2026-05-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ichthyosis/",
+            "name": "Ichthyosis"
+        },
+        {
+            "description": "Find out about indigestion, a common problem that causes pain or discomfort in your upper abdomen (dyspepsia) or behind your breastbone (heartburn).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T18:33:34+00:00",
+                "dateModified": "2024-02-13T14:30:27+00:00",
+                "lastReviewed": [
+                    "2023-05-05T18:00:00+00:00",
+                    "2026-05-05T18:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-05T18:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/indigestion/",
+            "name": "Indigestion"
+        },
+        {
+            "description": "Find out about inflammatory bowel disease, what the symptoms are, how it\u2019s treated, what causes it and where you can get support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T18:49:02+00:00",
+                "dateModified": "2024-06-18T15:49:01+00:00",
+                "lastReviewed": [
+                    "2023-05-05T00:00:00+00:00",
+                    "2026-05-05T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-05T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "IBD"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/inflammatory-bowel-disease/",
+            "name": "Inflammatory bowel disease"
+        },
+        {
+            "description": "Find out about ingrown hairs, what the symptoms are, how you can treat and prevent them yourself, and what treatments you can get from your GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:15:39+00:00",
+                "dateModified": "2023-02-02T14:17:45+00:00",
+                "lastReviewed": [
+                    "2023-01-18T01:00:00+00:00",
+                    "2026-01-18T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-18T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ingrown-hairs/",
+            "name": "Ingrown hairs"
+        },
+        {
+            "description": "NHS information about ingrown toenail, including symptoms, self-care, when to see a GP, medical treatments and prevention.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-10-03T19:57:24+00:00",
+                "dateModified": "2023-12-08T17:10:24+00:00",
+                "lastReviewed": [
+                    "2022-01-24T01:00:00+00:00",
+                    "2025-01-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-24T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ingrown-toenail/",
+            "name": "Ingrown toenail"
+        },
+        {
+            "description": "Find out about intensive care units (ICUs), specialist hospital wards for people who are seriously ill.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2017-10-18T13:21:56+00:00",
+                "dateModified": "2023-07-31T08:39:29+00:00",
+                "lastReviewed": [
+                    "2023-02-24T14:54:00+00:00",
+                    "2026-02-24T14:54:00+00:00"
+                ],
+                "reviewDue": "2026-02-24T14:54:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/intensive-care/",
+            "name": "Intensive care"
+        },
+        {
+            "description": "Find out about bladder pain syndrome (BPS), also called interstitial cystitis, where you have pelvic pain and problems peeing.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:39:40+00:00",
+                "dateModified": "2024-07-04T10:27:42+00:00",
+                "lastReviewed": [
+                    "2022-02-18T01:00:00+00:00",
+                    "2025-02-18T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-02-18T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Interstitial cystitis",
+                    "Painful bladder syndrome"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/interstitial-cystitis/",
+            "name": "Bladder pain syndrome (interstitial cystitis)"
+        },
+        {
+            "description": "Intracranial hypertension is a build-up of pressure around the brain. It can cause severe headaches and problems with your vision.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T19:30:20+00:00",
+                "dateModified": "2024-03-14T10:30:35+00:00",
+                "lastReviewed": [
+                    "2023-03-28T00:00:00+00:00",
+                    "2026-03-28T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-28T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/intracranial-hypertension/",
+            "name": "Intracranial hypertension"
+        },
+        {
+            "description": "Find out about hip pain in children, including what causes it, when to get medical help and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-01-10T14:49:56+00:00",
+                "dateModified": "2024-04-05T14:23:42+00:00",
+                "lastReviewed": [
+                    "2024-04-03T13:39:00+00:00",
+                    "2027-04-03T13:39:00+00:00"
+                ],
+                "reviewDue": "2027-04-03T13:39:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Irritable hip"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/hip-pain-children-irritable-hip/",
+            "name": "Hip pain in children (irritable hip)"
+        },
+        {
+            "description": "Isovaleric acidaemia (IVA) is a rare, but potentially serious, inherited condition. It means the body can\u2019t process the amino acid leucine. This causes a harmful build-up of this substance in blood and urine.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T18:00:44+00:00",
+                "dateModified": "2023-02-24T08:53:04+00:00",
+                "lastReviewed": [
+                    "2021-09-28T02:00:00+00:00",
+                    "2024-09-28T04:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-28T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/isovaleric-acidaemia/",
+            "name": "Isovaleric acidaemia"
+        },
+        {
+            "description": "Find out about common causes of joint pain, how you can help ease joint pain and when you should get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-18T16:51:32+00:00",
+                "dateModified": "2023-11-24T17:16:13+00:00",
+                "lastReviewed": [
+                    "2022-05-03T00:00:00+00:00",
+                    "2025-05-03T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-03T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/joint-pain/",
+            "name": "Joint pain"
+        },
+        {
+            "description": "Read about keratosis pilaris, which is a common, harmless condition where the skin becomes rough and bumpy, as if covered in permanent goose pimples.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T07:56:21+00:00",
+                "dateModified": "2021-11-18T15:30:21+00:00",
+                "lastReviewed": [
+                    "2021-06-25T00:00:00+00:00",
+                    "2024-06-25T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-06-25T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/keratosis-pilaris/",
+            "name": "Keratosis pilaris"
+        },
+        {
+            "description": "Read about Klinefelter syndrome - a condition in which male babies are born with an extra X chromosome. Find out about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T15:59:31+00:00",
+                "dateModified": "2024-04-03T07:59:27+00:00",
+                "lastReviewed": [
+                    "2023-02-20T01:00:00+00:00",
+                    "2026-02-20T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-20T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/klinefelters-syndrome/",
+            "name": "Klinefelter syndrome"
+        },
+        {
+            "description": "Sudden knee pain is often caused by overusing the knee or injuring it. Find out what you can do to treat it yourself and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-19T07:07:57+00:00",
+                "dateModified": "2023-12-21T16:49:56+00:00",
+                "lastReviewed": [
+                    "2023-12-21T00:00:00+00:00",
+                    "2026-12-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-21T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/knee-pain/",
+            "name": "Knee pain"
+        },
+        {
+            "description": "NHS information about knock knees, including symptoms, treatments and what to do if you think you or your child have it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T13:23:14+00:00",
+                "dateModified": "2024-02-21T16:28:27+00:00",
+                "lastReviewed": [
+                    "2023-01-12T02:00:00+00:00",
+                    "2026-01-12T02:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-12T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/knock-knees/",
+            "name": "Knock knees"
+        },
+        {
+            "description": "Read about labial fusion. This is when the small inner lips around the entrance to the vagina become sealed together. It's fairly common in girls under the age of 7. It usually gets better on its own, but can be treated with creams or, very rarely, surgery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-18T16:04:35+00:00",
+                "dateModified": "2023-05-17T23:10:37+00:00",
+                "lastReviewed": [
+                    "2023-02-08T01:00:00+00:00",
+                    "2026-02-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-08T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/labial-fusion/",
+            "name": "Labial fusion"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=8",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=9",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

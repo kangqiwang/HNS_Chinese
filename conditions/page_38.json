@@ -1,0 +1,550 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "NHS information about personality disorders, including the main symptoms and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T12:13:19+00:00",
+                "dateModified": "2024-02-06T15:40:56+00:00",
+                "lastReviewed": [
+                    "2024-01-04T01:00:00+00:00",
+                    "2027-01-04T01:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-04T01:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/personality-disorder/",
+            "name": "Personality disorders"
+        },
+        {
+            "description": "Find out about selective mutism, an anxiety disorder that prevents people from speaking in certain social situations.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T13:45:40+00:00",
+                "dateModified": "2023-03-13T08:45:49+00:00",
+                "lastReviewed": [
+                    "2023-02-17T01:00:00+00:00",
+                    "2026-02-17T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-17T01:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/selective-mutism/",
+            "name": "Selective mutism"
+        },
+        {
+            "description": "Read about hoarding disorder, including why it might happen, why it's a problem and what can be done about it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T12:41:50+00:00",
+                "dateModified": "2023-08-22T13:42:21+00:00",
+                "lastReviewed": [
+                    "2022-06-01T00:00:00+00:00",
+                    "2025-06-01T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-01T00:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/hoarding-disorder/",
+            "name": "Hoarding disorder"
+        },
+        {
+            "description": "Read about psychotic depression, a severe form of depression where people experience the usual symptoms of depression, plus delusions and hallucinations.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T12:01:27+00:00",
+                "dateModified": "2023-04-26T16:15:52+00:00",
+                "lastReviewed": [
+                    "2023-04-13T12:40:00+00:00",
+                    "2026-04-13T12:40:00+00:00"
+                ],
+                "reviewDue": "2026-04-13T12:40:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/psychotic-depression/",
+            "name": "Psychotic depression"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2021-02-11T10:47:04+00:00",
+                "dateModified": "2023-09-20T14:18:07+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/depression/",
+            "name": "Depression"
+        },
+        {
+            "description": "Trichotillomania is when someone cannot resist the urge to pull out their hair.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T13:08:54+00:00",
+                "dateModified": "2024-02-12T12:30:08+00:00",
+                "lastReviewed": [
+                    "2024-02-05T01:00:00+00:00",
+                    "2027-02-05T01:00:00+00:00"
+                ],
+                "reviewDue": "2027-02-05T01:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/trichotillomania/",
+            "name": "Trichotillomania (hair pulling disorder)"
+        },
+        {
+            "description": "Find out what anorexia nervosa is, what causes it, the signs to look out for, and the treatment and support available.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-11T11:22:08+00:00",
+                "dateModified": "2024-01-22T12:49:14+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/anorexia/",
+            "name": "Anorexia nervosa"
+        },
+        {
+            "description": "Everyone has feelings of anxiety at some point in their life. However, some people find it hard to control their worries. Their feelings of anxiety are more constant and can often affect their daily lives.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T15:23:05+00:00",
+                "dateModified": "2022-08-16T12:50:54+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/",
+            "name": "Generalised anxiety disorder in adults"
+        },
+        {
+            "description": "NHS information and advice about body dysmorphic disorder (BDD or body dysmorphia), including what the symptoms are and what can help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-10T16:51:34+00:00",
+                "dateModified": "2023-10-25T15:24:34+00:00",
+                "lastReviewed": [
+                    "2023-10-17T23:00:00+00:00",
+                    "2026-10-17T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-10-17T23:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/body-dysmorphia/",
+            "name": "Body dysmorphic disorder (BDD)"
+        },
+        {
+            "description": "Bipolar disorder, previously known as manic depression, is a condition that affects your moods, which can swing from one extreme to another.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-11T12:01:26+00:00",
+                "dateModified": "2022-08-16T12:55:27+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/bipolar-disorder/",
+            "name": "Bipolar disorder"
+        },
+        {
+            "description": "Read about bulimia nervosa, an eating disorder and mental health condition where someone is binge eating, then making themselves vomit or using laxatives to purge the food from their body",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-11T14:58:27+00:00",
+                "dateModified": "2022-03-29T10:26:45+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/bulimia/",
+            "name": "Bulimia"
+        },
+        {
+            "description": "Read about binge eating disorder, which is when a person feels compelled to overeat on a regular basis. Find out about the symptoms, treatments and possible causes.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T14:02:28+00:00",
+                "dateModified": "2022-03-29T10:26:12+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/binge-eating/",
+            "name": "Binge eating disorder"
+        },
+        {
+            "description": "",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T14:26:26+00:00",
+                "dateModified": "2022-08-16T12:59:37+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/schizophrenia/",
+            "name": "Schizophrenia"
+        },
+        {
+            "description": "Dissociative disorders are a group of conditions where you may feel disconnected from reality. Find out more, including where to get help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T15:37:52+00:00",
+                "dateModified": "2023-08-18T10:05:23+00:00",
+                "lastReviewed": [
+                    "2023-08-14T11:36:00+00:00",
+                    "2026-08-14T11:36:00+00:00"
+                ],
+                "reviewDue": "2026-08-14T11:36:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/dissociative-disorders/",
+            "name": "Dissociative disorders"
+        },
+        {
+            "description": "Read about borderline personality disorder. Personality disorders can cause a range of distressing symptoms and patterns of abnormal behaviour.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T15:29:49+00:00",
+                "dateModified": "2022-08-16T12:57:08+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/borderline-personality-disorder/",
+            "name": "Borderline personality disorder"
+        },
+        {
+            "description": "Find out what antisocial personality disorder is, what the signs are, and how it's diagnosed and treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T17:48:26+00:00",
+                "dateModified": "2022-06-14T10:28:25+00:00",
+                "lastReviewed": [
+                    "2021-12-23T15:40:00+00:00",
+                    "2024-12-23T15:40:00+00:00"
+                ],
+                "reviewDue": "2024-12-23T15:40:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/antisocial-personality-disorder/",
+            "name": "Antisocial personality disorder"
+        },
+        {
+            "description": "Read about seasonal affective disorder (SAD), a type of depression that recurs on a seasonal basis. Find out about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T16:01:13+00:00",
+                "dateModified": "2022-03-29T10:23:32+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/seasonal-affective-disorder-sad/",
+            "name": "Seasonal affective disorder (SAD)"
+        },
+        {
+            "description": "Read about agoraphobia, a fear of being in situations where escape might be difficult or that help wouldn't be available if things go wrong.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T16:39:14+00:00",
+                "dateModified": "2022-03-29T10:14:46+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/agoraphobia/",
+            "name": "Agoraphobia"
+        },
+        {
+            "description": "Read about skin picking disorder, where you cannot stop picking at your skin. There are things you can try to help yourself, but some people may need professional treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-12T16:52:58+00:00",
+                "dateModified": "2024-04-23T13:37:26+00:00",
+                "lastReviewed": [
+                    "2024-04-23T15:04:00+00:00",
+                    "2027-04-23T15:04:00+00:00"
+                ],
+                "reviewDue": "2027-04-23T15:04:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/skin-picking-disorder/",
+            "name": "Skin picking disorder"
+        },
+        {
+            "description": "Read about depression in adults, including how to tell if you're depressed, the treatments for different severities of depression, and how making lifestyle changes can help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-15T12:43:24+00:00",
+                "dateModified": "2023-07-11T13:45:42+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/depression-in-adults/",
+            "name": "Depression in adults"
+        },
+        {
+            "description": "A phobia is an overwhelming and debilitating fear of an object, place, situation, feeling or animal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-15T15:18:38+00:00",
+                "dateModified": "2022-08-16T12:43:02+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/phobias/",
+            "name": "Phobias"
+        },
+        {
+            "description": "Postnatal depression is a type of depression that many parents experience after having a baby. It's a common problem, affecting more than 1 in every 10 women within a year of giving birth.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-15T16:18:44+00:00",
+                "dateModified": "2022-08-16T12:45:01+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/post-natal-depression/",
+            "name": "Postnatal depression"
+        },
+        {
+            "description": "Find out about Munchausen's syndrome, a disorder where someone pretends to be ill or induces symptoms of illness in themselves.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-16T12:10:02+00:00",
+                "dateModified": "2022-10-06T08:06:21+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/munchausen-syndrome/",
+            "name": "Munchausen syndrome"
+        },
+        {
+            "description": "Find out about obsessive compulsive disorder (OCD), what causes it, where to get help, and what the main treatments are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-16T14:18:34+00:00",
+                "dateModified": "2022-08-16T12:58:27+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/obsessive-compulsive-disorder-ocd/",
+            "name": "Obsessive compulsive disorder (OCD)"
+        },
+        {
+            "description": "Health anxiety is when worrying about your health starts to take over your life. Read NHS advice about symptoms and and what to do if you have it.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2021-02-16T14:19:57+00:00",
+                "dateModified": "2023-11-15T14:40:39+00:00",
+                "lastReviewed": [
+                    "2023-11-08T01:00:00+00:00",
+                    "2026-11-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-08T01:00:00+00:00",
+                "keywords": ""
+            },
+            "url": "https://www.nhs.uk/mental-health/conditions/health-anxiety/",
+            "name": "Health anxiety"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=38",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=39",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

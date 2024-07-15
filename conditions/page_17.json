@@ -1,0 +1,832 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Antiphospholipid syndrome (APS), also known as Hughes syndrome, is a disorder of the immune system that causes an increased risk of blood clots.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-05-04T15:23:38+00:00",
+                "dateModified": "2022-10-05T10:51:52+00:00",
+                "lastReviewed": [
+                    "2022-06-20T00:00:00+00:00",
+                    "2025-06-20T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-20T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Hughes syndrome"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/antiphospholipid-syndrome/",
+            "name": "Antiphospholipid syndrome (APS)"
+        },
+        {
+            "description": "Read about aortic valve replacement, a type of open heart surgery that replaces faulty or  or damaged valves.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-10-20T12:19:54+00:00",
+                "dateModified": "2024-02-05T12:30:55+00:00",
+                "lastReviewed": [
+                    "2021-12-23T00:00:00+00:00",
+                    "2024-12-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-23T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Heart valve replacement"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/aortic-valve-replacement/",
+            "name": "Aortic valve replacement"
+        },
+        {
+            "description": "Read about aphasia, where a person has problems communicating. Find out about the types of aphasia, what causes it, and how it's diagnosed and treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T12:07:10+00:00",
+                "dateModified": "2023-08-22T10:34:34+00:00",
+                "lastReviewed": [
+                    "2021-03-23T00:00:00+00:00",
+                    "2024-03-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-03-23T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/aphasia/",
+            "name": "Aphasia"
+        },
+        {
+            "description": "Find out about appendicitis, a painful swelling of the appendix, including what causes it, when to get medical help and how the appendix is surgically removed (appendicectomy or appendectomy).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T14:55:04+00:00",
+                "dateModified": "2024-01-29T09:56:33+00:00",
+                "lastReviewed": [
+                    "2022-10-20T23:00:00+00:00",
+                    "2025-10-20T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-20T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/appendicitis/",
+            "name": "Appendicitis"
+        },
+        {
+            "description": "Read about arthritis, a common condition that causes pain and inflammation in a joint. Although there's no cure, treatment can help slow it down.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:02:53+00:00",
+                "dateModified": "2024-04-17T07:17:20+00:00",
+                "lastReviewed": [
+                    "2022-09-07T23:00:00+00:00",
+                    "2025-09-07T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-07T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/arthritis/",
+            "name": "Arthritis"
+        },
+        {
+            "description": "Read about arthroscopy, a type of keyhole surgery used to diagnose and sometimes treat joint problems. Keyhole surgery is where only small cuts are made.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2017-10-20T12:11:25+00:00",
+                "dateModified": "2022-06-14T11:22:45+00:00",
+                "lastReviewed": [
+                    "2022-06-09T00:00:00+00:00",
+                    "2025-06-09T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-09T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/arthroscopy/",
+            "name": "Arthroscopy"
+        },
+        {
+            "description": "Find out more about aspergillosis, the name of a group of conditions caused by a mould called aspergillus.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T12:45:00+00:00",
+                "dateModified": "2024-04-26T09:36:44+00:00",
+                "lastReviewed": [
+                    "2024-04-18T23:00:00+00:00",
+                    "2027-04-18T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-18T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/aspergillosis/",
+            "name": "Aspergillosis"
+        },
+        {
+            "description": "Find out what asthma is, what the symptoms are, what causes it and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T09:33:19+00:00",
+                "dateModified": "2024-02-09T11:10:39+00:00",
+                "lastReviewed": [
+                    "2021-04-18T23:00:00+00:00",
+                    "2024-04-18T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-18T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/asthma/",
+            "name": "Asthma"
+        },
+        {
+            "description": "Read about astigmatism, a common and usually minor condition of the eye that causes blurred or distorted vision. Find out what the symptoms and treatments are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-11-21T12:54:01+00:00",
+                "dateModified": "2022-07-04T09:12:16+00:00",
+                "lastReviewed": [
+                    "2020-12-08T01:00:00+00:00",
+                    "2023-12-08T01:00:00+00:00"
+                ],
+                "reviewDue": "2023-12-08T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/astigmatism/",
+            "name": "Astigmatism"
+        },
+        {
+            "description": "Ataxia is the term for a group of disorders that affect co-ordination, balance and speech. Find out about the main types, what causes them, and how they're treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T13:18:17+00:00",
+                "dateModified": "2022-05-17T15:10:05+00:00",
+                "lastReviewed": [
+                    "2021-04-16T15:02:00+00:00",
+                    "2024-04-16T15:02:00+00:00"
+                ],
+                "reviewDue": "2024-04-16T15:02:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/ataxia/",
+            "name": "Ataxia"
+        },
+        {
+            "description": "Read about atopic eczema (atopic dermatitis), a condition that causes the skin to become itchy, dry, cracked and sore.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-19T15:22:44+00:00",
+                "dateModified": "2023-11-14T16:21:16+00:00",
+                "lastReviewed": [
+                    "2023-11-13T00:00:00+00:00",
+                    "2026-11-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-11-13T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Eczema (atopic)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/atopic-eczema/",
+            "name": "Atopic eczema"
+        },
+        {
+            "description": "Read about atrial fibrillation, which is a heart condition that causes an irregular and often abnormally fast heart rate.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T12:22:43+00:00",
+                "dateModified": "2024-04-17T07:17:33+00:00",
+                "lastReviewed": [
+                    "2021-05-17T00:00:00+00:00",
+                    "2024-05-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-05-17T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/atrial-fibrillation/",
+            "name": "Atrial fibrillation"
+        },
+        {
+            "description": "Read about attention deficit hyperactivity disorder (ADHD), a condition that affects people's behaviour.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-06-01T08:55:10+00:00",
+                "dateModified": "2024-03-13T15:45:42+00:00",
+                "lastReviewed": [
+                    "2021-12-24T01:00:00+00:00",
+                    "2024-12-24T01:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-24T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/",
+            "name": "Attention deficit hyperactivity disorder (ADHD)"
+        },
+        {
+            "description": "Find out about autosomal dominant polycystic kidney disease (ADPKD), an inherited condition that causes small fluid-filled sacs called cysts to develop in the kidneys.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T12:56:56+00:00",
+                "dateModified": "2024-04-08T11:54:02+00:00",
+                "lastReviewed": [
+                    "2023-02-23T12:21:00+00:00",
+                    "2026-02-23T12:21:00+00:00"
+                ],
+                "reviewDue": "2026-02-23T12:21:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Polycystic kidney disease (autosomal dominant)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/autosomal-dominant-polycystic-kidney-disease-adpkd/",
+            "name": "Autosomal dominant polycystic kidney disease"
+        },
+        {
+            "description": "Autosomal recessive polycystic kidney disease (ARPKD) is a rare inherited childhood condition where the development of the kidneys and liver is abnormal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T13:09:20+00:00",
+                "dateModified": "2024-04-08T11:54:52+00:00",
+                "lastReviewed": [
+                    "2023-01-10T00:00:00+00:00",
+                    "2026-01-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-01-10T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Polycystic kidney disease (autosomal recessive)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/autosomal-recessive-polycystic-kidney-disease-arpkd/",
+            "name": "Autosomal recessive polycystic kidney disease"
+        },
+        {
+            "description": "Find out how to relieve back pain, what can cause it, and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-20T13:38:48+00:00",
+                "dateModified": "2024-06-18T15:46:15+00:00",
+                "lastReviewed": [
+                    "2022-06-09T23:00:00+00:00",
+                    "2025-06-09T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-09T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Lumbago",
+                    "Lower back pain",
+                    "Upper back pain"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/back-pain/",
+            "name": "Back pain"
+        },
+        {
+            "description": "Read about bacterial vaginosis (BV), a common cause of unusual vaginal discharge. BV is not a sexually transmitted infection (STI).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-19T08:48:20+00:00",
+                "dateModified": "2024-06-11T14:21:35+00:00",
+                "lastReviewed": [
+                    "2022-10-26T23:00:00+00:00",
+                    "2025-10-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-27T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bacterial-vaginosis/",
+            "name": "Bacterial vaginosis"
+        },
+        {
+            "description": "Find out what causes bad breath (halitosis), how to treat and prevent it, and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2018-10-03T20:00:01+00:00",
+                "dateModified": "2022-06-01T10:36:14+00:00",
+                "lastReviewed": [
+                    "2021-12-07T00:00:00+00:00",
+                    "2024-12-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-07T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Halitosis"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bad-breath/",
+            "name": "Bad breath"
+        },
+        {
+            "description": "Find out what a Baker's cyst is, what causes it, how it's treated and when to see your GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:51:30+00:00",
+                "dateModified": "2023-10-31T08:37:36+00:00",
+                "lastReviewed": [
+                    "2021-10-04T00:00:00+00:00",
+                    "2024-10-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-04T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Popliteal cyst"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bakers-cyst/",
+            "name": "Baker's cyst"
+        },
+        {
+            "description": "Find out what a Bartholin's cyst is, what the symptoms and causes are, and the possible treatment options.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-07-26T13:22:55+00:00",
+                "dateModified": "2024-03-12T11:24:14+00:00",
+                "lastReviewed": [
+                    "2021-10-26T00:00:00+00:00",
+                    "2024-10-26T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-10-26T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bartholins-cyst/",
+            "name": "Bartholin's cyst"
+        },
+        {
+            "description": "Find out what you can do about bedwetting, what could be causing it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-20T12:36:15+00:00",
+                "dateModified": "2023-04-11T16:21:37+00:00",
+                "lastReviewed": [
+                    "2023-04-11T11:00:00+00:00",
+                    "2026-04-11T11:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-11T11:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bedwetting/",
+            "name": "Bedwetting in children"
+        },
+        {
+            "description": "Read about Beh\u00e7et's disease, a rare and poorly understood condition in which blood vessels and tissues may become inflamed (swollen).",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T13:12:22+00:00",
+                "dateModified": "2023-04-24T12:14:55+00:00",
+                "lastReviewed": [
+                    "2023-04-05T23:00:00+00:00",
+                    "2026-04-05T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-04-05T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/behcets-disease/",
+            "name": "Beh\u00e7et's disease"
+        },
+        {
+            "description": "Find out more about Bell's palsy, a condition that causes temporary weakness or paralysis of the muscles on 1 side of the face.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T14:39:40+00:00",
+                "dateModified": "2023-07-05T08:08:00+00:00",
+                "lastReviewed": [
+                    "2023-07-04T00:00:00+00:00",
+                    "2026-07-04T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-07-04T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/bells-palsy/",
+            "name": "Bell's palsy"
+        },
+        {
+            "description": "Information about benign (non-cancerous) brain tumours, including types of tumour, when to see a GP, causes, treatment and recovery.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T14:02:09+00:00",
+                "dateModified": "2023-05-18T08:42:34+00:00",
+                "lastReviewed": [
+                    "2020-04-21T00:00:00+00:00",
+                    "2023-04-21T00:00:00+00:00"
+                ],
+                "reviewDue": "2023-04-21T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Brain tumour (benign)"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/benign-brain-tumour/",
+            "name": "Benign brain tumour (non-cancerous)"
+        },
+        {
+            "description": "Find out more about having a biopsy, which involves taking a small sample of body tissue so it can be examined under a microscope.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Test"
+                ],
+                "datePublished": "2017-10-20T14:01:58+00:00",
+                "dateModified": "2024-02-05T12:35:14+00:00",
+                "lastReviewed": [
+                    "2021-08-10T00:00:00+00:00",
+                    "2024-08-10T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-10T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/biopsy/",
+            "name": "Biopsy"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=17",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=18",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}

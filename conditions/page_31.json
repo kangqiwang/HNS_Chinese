@@ -1,0 +1,822 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Health A to Z",
+    "copyrightHolder": {
+        "name": "Crown Copyright",
+        "@type": "Organization"
+    },
+    "license": "https://developer.api.nhs.uk/terms",
+    "author": {
+        "url": "https://www.nhs.uk",
+        "logo": "https://digital.nhs.uk/binaries/content/gallery/website/developer/api-catalogue/nhs-website-content/nhs-attribution.png",
+        "email": "nhswebsite.servicedesk@nhs.net",
+        "@type": "Organization",
+        "name": "NHS website"
+    },
+    "about": {
+        "@type": "WebPage",
+        "name": "Health A to Z",
+        "alternateName": ""
+    },
+    "description": "",
+    "url": "https://api.nhs.uk/conditions/",
+    "genre": [],
+    "keywords": "",
+    "dateModified": "2021-11-18T15:26:06+00:00",
+    "breadcrumb": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 0,
+                "item": {
+                    "@id": "https://api.nhs.uk/conditions/",
+                    "name": "Health A to Z",
+                    "genre": []
+                }
+            }
+        ]
+    },
+    "contentSubTypes": [],
+    "significantLink": [
+        {
+            "description": "Find out what causes a squint and how it's treated. Also, read about the signs to look for in your child and when to see a doctor.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T08:48:43+00:00",
+                "dateModified": "2023-05-31T15:48:43+00:00",
+                "lastReviewed": [
+                    "2023-05-01T23:00:00+00:00",
+                    "2026-05-01T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-01T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/squint/",
+            "name": "Squint"
+        },
+        {
+            "description": "Stammering, or stuttering, affects speech and is relatively common in childhood. It can also persist into adulthood.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:52:01+00:00",
+                "dateModified": "2024-03-28T16:43:34+00:00",
+                "lastReviewed": [
+                    "2023-03-17T00:00:00+00:00",
+                    "2026-03-17T00:00:00+00:00"
+                ],
+                "reviewDue": "2026-03-17T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Stuttering"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stammering/",
+            "name": "Stammering"
+        },
+        {
+            "description": "Read about statins \u2013 medicines that lower the level of low-density lipoprotein (LDL) cholesterol in the blood. Find out why you may be offered them, how they're taken, and the possible side effects.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Medicine"
+                ],
+                "datePublished": "2018-10-03T20:07:25+00:00",
+                "dateModified": "2024-01-18T14:57:19+00:00",
+                "lastReviewed": [
+                    "2022-10-02T23:00:00+00:00",
+                    "2025-10-02T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-02T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/statins/",
+            "name": "Statins"
+        },
+        {
+            "description": "Read about stem cell or bone marrow transplants, including why they're used, what's involved, and what the potential risks are.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Procedure",
+                    "Treatment"
+                ],
+                "datePublished": "2017-12-05T07:23:32+00:00",
+                "dateModified": "2022-09-13T07:05:24+00:00",
+                "lastReviewed": [
+                    "2022-09-07T00:00:00+00:00",
+                    "2025-09-07T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-07T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stem-cell-transplant/",
+            "name": "Stem cell and bone marrow transplants"
+        },
+        {
+            "description": "Read about stillbirth, which is where a baby is born dead after 24 completed weeks of pregnancy. Find out the causes of stillbirth and how to reduce the risk.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "genre": [
+                    "Advice or information"
+                ],
+                "datePublished": "2018-02-12T12:39:23+00:00",
+                "dateModified": "2024-04-30T16:52:21+00:00",
+                "lastReviewed": [
+                    "2024-04-24T10:00:00+00:00",
+                    "2027-04-24T11:00:00+00:00"
+                ],
+                "reviewDue": "2027-04-24T11:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stillbirth/",
+            "name": "Stillbirth"
+        },
+        {
+            "description": "Find out more about stomach cancer, including the symptoms, causes, tests, treatments and where to get help and support.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-05T16:31:32+00:00",
+                "dateModified": "2023-02-20T15:31:39+00:00",
+                "lastReviewed": [
+                    "2023-02-14T00:00:00+00:00",
+                    "2026-02-14T01:00:00+00:00"
+                ],
+                "reviewDue": "2026-02-14T01:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stomach-cancer/",
+            "name": "Stomach cancer"
+        },
+        {
+            "description": "Stomach ulcers, also known as gastric ulcers, are open sores that develop on the lining of the stomach. Read about the possible symptoms, causes, treatments and complications.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T10:55:38+00:00",
+                "dateModified": "2022-01-21T11:26:41+00:00",
+                "lastReviewed": [
+                    "2022-01-14T04:00:00+00:00",
+                    "2025-01-14T04:00:00+00:00"
+                ],
+                "reviewDue": "2025-01-14T04:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stomach-ulcer/",
+            "name": "Stomach ulcer"
+        },
+        {
+            "description": "Read about strokes, a serious and life-threatening medical condition that occurs when the blood supply to part of the brain is cut off.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:25:54+00:00",
+                "dateModified": "2024-01-29T09:54:18+00:00",
+                "lastReviewed": [
+                    "2022-09-13T00:00:00+00:00",
+                    "2025-09-13T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-09-13T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/stroke/",
+            "name": "Stroke"
+        },
+        {
+            "description": "A subarachnoid haemorrhage is an uncommon type of stroke caused by bleeding on the surface of the brain. It's a very serious condition and can be fatal.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T08:47:20+00:00",
+                "dateModified": "2023-11-15T11:37:19+00:00",
+                "lastReviewed": [
+                    "2021-12-02T00:00:00+00:00",
+                    "2024-12-02T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-12-02T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Brain haemorrhage"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/subarachnoid-haemorrhage/",
+            "name": "Subarachnoid haemorrhage"
+        },
+        {
+            "description": "Read about subdural haematoma, a serious condition where blood collects between the skull and the surface of the brain. Find out why it happens, what the symptoms are, and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T17:52:27+00:00",
+                "dateModified": "2021-11-18T15:52:14+00:00",
+                "lastReviewed": [
+                    "2021-08-19T00:00:00+00:00",
+                    "2024-08-19T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-08-19T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/subdural-haematoma/",
+            "name": "Subdural haematoma"
+        },
+        {
+            "description": "Find out about supraventricular tachycardia (SVT), a condition where your heart suddenly beats much faster than normal. SVT is not usually serious but some people may need treatment.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-20T10:49:21+00:00",
+                "dateModified": "2024-07-01T09:50:45+00:00",
+                "lastReviewed": [
+                    "2024-06-12T00:00:00+00:00",
+                    "2027-06-12T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-06-12T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/supraventricular-tachycardia-svt/",
+            "name": "Supraventricular tachycardia (SVT)"
+        },
+        {
+            "description": "Find out more about dysphagia, where you have problems swallowing.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T16:01:37+00:00",
+                "dateModified": "2023-08-22T10:40:02+00:00",
+                "lastReviewed": [
+                    "2023-05-01T23:00:00+00:00",
+                    "2026-05-01T23:00:00+00:00"
+                ],
+                "reviewDue": "2026-05-01T23:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Swallowing problems"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/swallowing-problems-dysphagia/",
+            "name": "Dysphagia (swallowing problems)"
+        },
+        {
+            "description": "Syphilis is a sexually transmitted infection (STI). Find out what the symptoms are, when and where to get medical help and how it's treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:42:46+00:00",
+                "dateModified": "2024-01-10T16:08:04+00:00",
+                "lastReviewed": [
+                    "2022-05-24T23:00:00+00:00",
+                    "2025-05-24T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-05-24T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/syphilis/",
+            "name": "Syphilis"
+        },
+        {
+            "description": "Find out about tailbone (coccyx) pain, including how to ease the pain yourself and when to get medical help. Read about symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:39:47+00:00",
+                "dateModified": "2024-02-21T11:45:00+00:00",
+                "lastReviewed": [
+                    "2022-03-15T01:00:00+00:00",
+                    "2025-03-15T01:00:00+00:00"
+                ],
+                "reviewDue": "2025-03-15T01:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Coccyx pain"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tailbone-coccyx-pain/",
+            "name": "Tailbone (coccyx) pain"
+        },
+        {
+            "description": "Tay-Sachs disease is a very rare and usually fatal genetic disorder that causes progressive damage to the nervous system.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-12T10:37:20+00:00",
+                "dateModified": "2024-07-02T13:44:49+00:00",
+                "lastReviewed": [
+                    "2021-09-22T23:00:00+00:00",
+                    "2024-09-22T23:00:00+00:00"
+                ],
+                "reviewDue": "2024-09-22T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tay-sachs-disease/",
+            "name": "Tay-Sachs disease"
+        },
+        {
+            "description": "Read about teeth grinding (bruxism). Find out what causes it, what the associated symptoms are, when to get medical help and how it can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T15:34:16+00:00",
+                "dateModified": "2022-07-04T12:26:35+00:00",
+                "lastReviewed": [
+                    "2022-06-27T00:00:00+00:00",
+                    "2025-06-27T00:00:00+00:00"
+                ],
+                "reviewDue": "2025-06-27T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Bruxism"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/teeth-grinding/",
+            "name": "Teeth grinding (bruxism)"
+        },
+        {
+            "description": "Find out more about tendonitis, where a tendon becomes swollen. It can cause joint pain and stiffness.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T12:03:37+00:00",
+                "dateModified": "2024-02-27T17:36:36+00:00",
+                "lastReviewed": [
+                    "2023-06-09T10:12:00+00:00",
+                    "2026-06-09T10:12:00+00:00"
+                ],
+                "reviewDue": "2026-06-09T10:12:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tendonitis/",
+            "name": "Tendonitis"
+        },
+        {
+            "description": "NHS information and advice about tennis elbow, including the symptoms, what you can do to help ease them, when to get medical help and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition",
+                    "Accident or injury"
+                ],
+                "datePublished": "2017-10-23T09:25:56+00:00",
+                "dateModified": "2024-06-03T13:11:05+00:00",
+                "lastReviewed": [
+                    "2024-05-30T23:00:00+00:00",
+                    "2027-05-30T23:00:00+00:00"
+                ],
+                "reviewDue": "2027-05-30T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tennis-elbow/",
+            "name": "Tennis elbow"
+        },
+        {
+            "description": "Find out about lumps and swellings in the testicles, including what can cause them and when to get medical advice.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom"
+                ],
+                "datePublished": "2017-10-23T15:26:29+00:00",
+                "dateModified": "2024-06-13T15:58:24+00:00",
+                "lastReviewed": [
+                    "2023-07-18T15:52:00+00:00",
+                    "2026-07-18T15:52:00+00:00"
+                ],
+                "reviewDue": "2026-07-18T15:52:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/testicle-lumps-and-swellings/",
+            "name": "Testicle lumps and swellings"
+        },
+        {
+            "description": "Read about thalassaemia, a group of blood disorders that affect a substance called haemoglobin. Find out about the symptoms, causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-24T07:16:15+00:00",
+                "dateModified": "2022-11-11T13:13:48+00:00",
+                "lastReviewed": [
+                    "2022-10-16T23:00:00+00:00",
+                    "2025-10-16T23:00:00+00:00"
+                ],
+                "reviewDue": "2025-10-16T23:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/thalassaemia/",
+            "name": "Thalassaemia"
+        },
+        {
+            "description": "Read about threadworms (pinworms), which are tiny worms in your poo. They're common in children and spread easily. You can treat them without seeing a GP.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-01-08T16:00:24+00:00",
+                "dateModified": "2023-12-12T10:31:58+00:00",
+                "lastReviewed": [
+                    "2023-12-01T12:00:00+00:00",
+                    "2026-12-01T12:00:00+00:00"
+                ],
+                "reviewDue": "2026-12-01T12:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/threadworms/",
+            "name": "Threadworms"
+        },
+        {
+            "description": "Find out about tick-borne encephalitis (TBE), a viral infection spread to humans by the bite of a small spider-like parasite called a tick.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2018-02-06T08:53:41+00:00",
+                "dateModified": "2024-06-19T10:04:55+00:00",
+                "lastReviewed": [
+                    "2021-04-23T00:00:00+00:00",
+                    "2024-04-23T00:00:00+00:00"
+                ],
+                "reviewDue": "2024-04-23T00:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tick-borne-encephalitis/",
+            "name": "Tick-borne encephalitis (TBE)"
+        },
+        {
+            "description": "Tics are unintentional, fast and repetitive muscle movements. Find out how long they last, when to get medical advice and how they can be treated.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T09:28:22+00:00",
+                "dateModified": "2023-08-04T14:15:25+00:00",
+                "lastReviewed": [
+                    "2023-04-05T09:33:00+00:00",
+                    "2026-04-05T09:33:00+00:00"
+                ],
+                "reviewDue": "2026-04-05T09:33:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tics/",
+            "name": "Tics"
+        },
+        {
+            "description": "Find out about tinnitus (hearing ringing or buzzing), including what you can do to help you cope with it and when to get medical help.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Symptom",
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T14:34:28+00:00",
+                "dateModified": "2024-06-19T10:07:10+00:00",
+                "lastReviewed": [
+                    "2024-01-12T02:00:00+00:00",
+                    "2027-01-12T02:00:00+00:00"
+                ],
+                "reviewDue": "2027-01-12T02:00:00+00:00",
+                "keywords": "",
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tinnitus/",
+            "name": "Tinnitus"
+        },
+        {
+            "description": "Find out about tonsillitis, which is when the tonsils at the sides of your throat become swollen due to a viral or bacterial infection. Find out about causes and treatments.",
+            "linkRelationship": "Result",
+            "@type": "LinkRole",
+            "articleStatus": "published",
+            "mainEntityOfPage": {
+                "@type": "MedicalWebPage",
+                "genre": [
+                    "Condition"
+                ],
+                "datePublished": "2017-10-23T15:05:20+00:00",
+                "dateModified": "2024-06-19T10:09:57+00:00",
+                "lastReviewed": [
+                    "2024-03-08T00:00:00+00:00",
+                    "2027-03-08T00:00:00+00:00"
+                ],
+                "reviewDue": "2027-03-08T00:00:00+00:00",
+                "keywords": "",
+                "alternateName": [
+                    "Quinsy"
+                ],
+                "code": [
+                    {
+                        "@type": "MedicalCode",
+                        "codeValue": "",
+                        "codingSystem": "SNOMED-CT"
+                    }
+                ]
+            },
+            "url": "https://api.nhs.uk/conditions/tonsillitis/",
+            "name": "Tonsillitis"
+        }
+    ],
+    "relatedLink": [
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=1",
+            "name": "First Page",
+            "description": "Link to First Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=40",
+            "name": "Last Page",
+            "description": "Link to Last Page",
+            "linkRelationship": "Pagination"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=31",
+            "name": "Self",
+            "description": "Link to nhs.uk Page",
+            "linkRelationship": "Self"
+        },
+        {
+            "@type": "LinkRole",
+            "url": "https://api.nhs.uk/conditions/?page=32",
+            "name": "Next Page",
+            "description": "Link to Next Page",
+            "linkRelationship": "Pagination"
+        }
+    ]
+}
