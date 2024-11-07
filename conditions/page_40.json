@@ -93,7 +93,7 @@
             "name": "Combined pill"
         },
         {
-            "description": "Find out how female sterilisation (also called “getting your tubes tied” or tubal ligation) works to prevent pregnancy, how it’s done and what to expect after surgery.",
+            "description": "Find out how female sterilisation (also called \u201cgetting your tubes tied\u201d or tubal ligation) works to prevent pregnancy, how it\u2019s done and what to expect after surgery.",
             "linkRelationship": "Result",
             "@type": "LinkRole",
             "articleStatus": "published",
@@ -279,7 +279,7 @@
             "name": "Children's flu vaccine"
         },
         {
-            "description": "Find out about the hepatitis B vaccine, including why it’s given, who can have it and what side effects it can have.",
+            "description": "Find out about the hepatitis B vaccine, including why it\u2019s given, who can have it and what side effects it can have.",
             "linkRelationship": "Result",
             "@type": "LinkRole",
             "articleStatus": "published",
@@ -345,7 +345,7 @@
             "name": "HPV vaccine"
         },
         {
-            "description": "Find out about the MenACWY vaccine, including what it’s for, who should have it, how to get it and possible side effects.",
+            "description": "Find out about the MenACWY vaccine, including what it\u2019s for, who should have it, how to get it and possible side effects.",
             "linkRelationship": "Result",
             "@type": "LinkRole",
             "articleStatus": "published",
